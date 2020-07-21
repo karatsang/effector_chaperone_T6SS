@@ -1,0 +1,11 @@
+# Commands used to align and trim short / long PAAR sequences
+# Requires MAFFT (v7.455) and trimAl (v1.4) 
+
+mafft --auto Full_fasta_60aa_PA0093_query_6iterations_renamed_tmhmm_phobius_expasy_more100_prePAAR.fasta > Full_fasta_60aa_PA0093_query_6iterations_renamed_tmhmm_phobius_expasy_more100_prePAAR_mafft.fasta
+
+trimal -in Full_fasta_60aa_PA0093_query_6iterations_renamed_tmhmm_phobius_expasy_more100_prePAAR_mafft.fasta -out Full_fasta_60aa_PA0093_query_6iterations_renamed_tmhmm_phobius_expasy_more100_prePAAR_mafft_trim.fasta -gt 0.9 -cons 20
+
+
+mafft --auto shortPAAR_PF05488_full_length_sequences_prePAAR.fasta > shortPAAR_PF05488_full_length_sequences_prePAAR_mafft.fasta
+
+trimal -in shortPAAR_PF05488_full_length_sequences_prePAAR_mafft.fasta -out shortPAAR_PF05488_full_length_sequences_prePAAR_mafft_trim.fasta -gt 0.9 -cons 10
