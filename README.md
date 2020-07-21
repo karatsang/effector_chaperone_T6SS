@@ -2,3 +2,7 @@
 
 Shehryar Ahmad, Kara K. Tsang, Kartik Sachar, Dennis Quentin, Tahmid M. Tashin, Stefan Raunser, Andrew G. McArthur, Gerd Prehna, and John C. Whitney
 
+_____
+
+Folder descriptions: 
+ZnBindingResidues - Screening for potential Zn2+-binding residues 
