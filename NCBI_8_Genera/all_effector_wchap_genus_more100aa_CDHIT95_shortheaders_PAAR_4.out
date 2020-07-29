@@ -1,0 +1,101 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  6A6151C8-CB7B-11EA-9FAA-814CE976C163.3.hmm
+# target sequence database:        all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_NOPAAR_3.fasta
+# output directed to file:         all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_PAAR_4.out
+# per-dom hits tabular output:     all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_PAAR_4.domtblout
+# show alignments in output:       no
+# sequence reporting threshold:    E-value <= 1000
+# sequence search space set to:    45638612
+# number of worker threads:        32
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       jackhmmer  [M=378]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                                          Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                                          -----------
+    4.2e-54  195.5  13.4    4.9e-54  195.3  13.4    1.0  1  Escherichiacoli.562.GCF_005396085.1_ASM539608v1_g  
+    6.7e-53  191.5  12.7      8e-53  191.3  12.7    1.0  1  Escherichiacoli.562.GCF_002055605.1_ASM205560v1_g  
+    7.1e-53  191.4  12.5    7.8e-53  191.3  12.5    1.0  1  Escherichiacoli.562.GCF_003667385.1_ASM366738v1_g  
+    1.4e-48  177.3  14.0    1.6e-48  177.1  14.0    1.0  1  Escherichiacoli.562.GCF_002458625.1_ASM245862v1_g  
+    2.3e-48  176.6  11.9      3e-48  176.2  11.9    1.1  1  Escherichiacoli.562.GCF_002229855.1_ASM222985v1_g  
+    1.6e-26  104.7  27.0    7.1e-13   59.8   0.0    2.1  2  Serratiamarcescens.615.GCF_006974205.1_ASM697420v  
+      3e-16   70.9   9.4      3e-16   70.9   9.4    1.0  1  Escherichiaalbertii.208962.GCF_003864075.1_ASM386  
+      1e-08   46.1  26.4    1.2e-08   45.9  26.4    1.0  1  Serratiamarcescens.615.GCF_006711145.1_ASM671114v  
+    8.9e-05   33.1   8.0    8.9e-05   33.1   8.0    1.6  2  Pseudomonasaeruginosa.287.GCF_001034685.1_ASM1034  
+     0.0024   28.4  14.4     0.0031   28.0  14.4    1.1  1  PseudomonasspRoot401.1736526.GCF_001425105.1_Root  
+
+
+Domain annotation for each sequence:
+>> Escherichiacoli.562.GCF_005396085.1_ASM539608v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  195.3  13.4   1.1e-60   4.9e-54       1     105 [.       1     105 [.       1     112 [. 0.99
+
+>> Escherichiacoli.562.GCF_002055605.1_ASM205560v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  191.3  12.7   1.8e-59     8e-53       1     102 [.       1     102 [.       1     104 [. 0.99
+
+>> Escherichiacoli.562.GCF_003667385.1_ASM366738v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  191.3  12.5   1.7e-59   7.8e-53       1     101 [.       1     101 [.       1     118 [. 0.97
+
+>> Escherichiacoli.562.GCF_002458625.1_ASM245862v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  177.1  14.0   3.6e-55   1.6e-48       1      94 [.       1      94 [.       1      97 [. 0.99
+
+>> Escherichiacoli.562.GCF_002229855.1_ASM222985v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  176.2  11.9   6.6e-55     3e-48       1      98 [.       1      98 [.       1     103 [. 0.97
+
+>> Serratiamarcescens.615.GCF_006974205.1_ASM697420v  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   44.3  25.7   7.8e-15   3.6e-08      53     133 ..       3      90 ..       1      92 [. 0.81
+   2 !   59.8   0.0   1.6e-19   7.1e-13     286     349 ..     143     207 ..     138     221 .. 0.79
+
+>> Escherichiaalbertii.208962.GCF_003864075.1_ASM386  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   70.9   9.4   6.7e-23     3e-16      27     113 ..       5      95 ..       1     111 [. 0.71
+
+>> Serratiamarcescens.615.GCF_006711145.1_ASM671114v  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   45.9  26.4   2.6e-15   1.2e-08      53     133 ..       3      90 ..       1      92 [. 0.81
+
+>> Pseudomonasaeruginosa.287.GCF_001034685.1_ASM1034  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.1   8.0     2e-11   8.9e-05      51      91 ..       3      44 ..       1      85 [. 0.74
+   2 ?   -2.1   0.7      0.99   4.5e+06      96     112 ..     112     128 ..      97     131 .. 0.68
+
+>> PseudomonasspRoot401.1736526.GCF_001425105.1_Root  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   28.0  14.4   6.9e-10    0.0031      51      99 ..       3      45 ..       1      46 [. 0.86
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (378 nodes)
+Target sequences:                           10  (1603 residues searched)
+Passed MSV filter:                        10  (1); expected 0.2 (0.02)
+Passed bias filter:                       10  (1); expected 0.2 (0.02)
+Passed Vit filter:                        10  (1); expected 0.0 (0.001)
+Passed Fwd filter:                        10  (1); expected 0.0 (1e-05)
+Initial search space (Z):           45638612  [as set by --Z on cmdline]
+Domain search space  (domZ):              10  [number of targets reported over threshold]
+# CPU time: 0.04u 0.01s 00:00:00.05 Elapsed: 00:00:00.04
+# Mc/sec: 15.15
+//
+[ok]

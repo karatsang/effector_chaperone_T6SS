@@ -1,0 +1,25 @@
+#                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Escherichiacoli.562.GCF_005396085.1_ASM539608v1_g -            132 jackhmmer            -            378   4.2e-54  195.5  13.4   1   1   1.1e-60   4.9e-54  195.3  13.4     1   105     1   105     1   112 0.99 -
+Escherichiacoli.562.GCF_002055605.1_ASM205560v1_g -            156 jackhmmer            -            378   6.7e-53  191.5  12.7   1   1   1.8e-59     8e-53  191.3  12.7     1   102     1   102     1   104 0.99 -
+Escherichiacoli.562.GCF_003667385.1_ASM366738v1_g -            126 jackhmmer            -            378   7.1e-53  191.4  12.5   1   1   1.7e-59   7.8e-53  191.3  12.5     1   101     1   101     1   118 0.97 -
+Escherichiacoli.562.GCF_002458625.1_ASM245862v1_g -            104 jackhmmer            -            378   1.4e-48  177.3  14.0   1   1   3.6e-55   1.6e-48  177.1  14.0     1    94     1    94     1    97 0.99 -
+Escherichiacoli.562.GCF_002229855.1_ASM222985v1_g -            309 jackhmmer            -            378   2.3e-48  176.6  11.9   1   1   6.6e-55     3e-48  176.2  11.9     1    98     1    98     1   103 0.97 -
+Serratiamarcescens.615.GCF_006974205.1_ASM697420v -            229 jackhmmer            -            378   1.6e-26  104.7  27.0   1   2   7.8e-15   3.6e-08   44.3  25.7    53   133     3    90     1    92 0.81 -
+Serratiamarcescens.615.GCF_006974205.1_ASM697420v -            229 jackhmmer            -            378   1.6e-26  104.7  27.0   2   2   1.6e-19   7.1e-13   59.8   0.0   286   349   143   207   138   221 0.79 -
+Escherichiaalbertii.208962.GCF_003864075.1_ASM386 -            112 jackhmmer            -            378     3e-16   70.9   9.4   1   1   6.7e-23     3e-16   70.9   9.4    27   113     5    95     1   111 0.71 -
+Serratiamarcescens.615.GCF_006711145.1_ASM671114v -            112 jackhmmer            -            378     1e-08   46.1  26.4   1   1   2.6e-15   1.2e-08   45.9  26.4    53   133     3    90     1    92 0.81 -
+Pseudomonasaeruginosa.287.GCF_001034685.1_ASM1034 -            136 jackhmmer            -            378   8.9e-05   33.1   8.0   1   2     2e-11   8.9e-05   33.1   8.0    51    91     3    44     1    85 0.74 -
+Pseudomonasaeruginosa.287.GCF_001034685.1_ASM1034 -            136 jackhmmer            -            378   8.9e-05   33.1   8.0   2   2      0.99   4.5e+06   -2.1   0.7    96   112   112   128    97   131 0.68 -
+PseudomonasspRoot401.1736526.GCF_001425105.1_Root -            187 jackhmmer            -            378    0.0024   28.4  14.4   1   1   6.9e-10    0.0031   28.0  14.4    51    99     3    45     1    46 0.86 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      6A6151C8-CB7B-11EA-9FAA-814CE976C163.3.hmm
+# Target file:     all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_NOPAAR_3.fasta
+# Option settings: hmmsearch -o all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_PAAR_4.out --domtblout all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_PAAR_4.domtblout --noali -E 1000 -Z 45638612 --cpu 32 6A6151C8-CB7B-11EA-9FAA-814CE976C163.3.hmm all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_NOPAAR_3.fasta 
+# Current dir:     /Users/karatsang/Desktop/SherisProjects/EagProject/effectortree/kara_redundancy
+# Date:            Mon Jul 27 11:56:18 2020
+# [ok]

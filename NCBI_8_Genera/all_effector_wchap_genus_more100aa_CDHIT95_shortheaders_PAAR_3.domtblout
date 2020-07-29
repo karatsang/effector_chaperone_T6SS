@@ -1,0 +1,89 @@
+#                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Salmonellaenterica.28901.GCF_001214785.1_5275_7_1 -            137 jackhmmer            -            113   5.1e-46  166.6   3.1   1   1   7.2e-52   6.3e-46  166.3   3.1     1   108     1   108     1   112 0.98 -
+Salmonellaenterica.28901.GCF_008362985.1_ASM83629 -            103 jackhmmer            -            113     2e-40  148.6   3.7   1   1   2.7e-46   2.3e-40  148.3   3.7     1    96     1    96     1    99 0.99 -
+Shigellaflexneri.623.GCF_001933085.2_ASM193308v2_ -            987 jackhmmer            -            113     5e-35  131.2   6.3   1   3   2.9e-40   2.5e-34  128.9   1.5     1    91     1    91     1    95 0.99 -
+Shigellaflexneri.623.GCF_001933085.2_ASM193308v2_ -            987 jackhmmer            -            113     5e-35  131.2   6.3   2   3       1.5   1.3e+06    0.9   0.0    75    88   131   144   118   149 0.82 -
+Shigellaflexneri.623.GCF_001933085.2_ASM193308v2_ -            987 jackhmmer            -            113     5e-35  131.2   6.3   3   3       1.1   9.7e+05    1.4   0.2     3    35   184   215   171   228 0.82 -
+Escherichiacoli.562.GCF_003018695.1_ASM301869v1_g -            324 jackhmmer            -            113   5.8e-27  105.2   7.8   1   2   1.2e-28     1e-22   91.5   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_003018695.1_ASM301869v1_g -            324 jackhmmer            -            113   5.8e-27  105.2   7.8   2   2   9.8e-06       8.6   17.6   0.1    76    94   266   284   217   295 0.82 -
+Escherichiacoli.562.GCF_002511505.1_ASM251150v1_g -            169 jackhmmer            -            113   1.3e-23   94.4   0.3   1   2       7.9   6.9e+06   -1.4   0.2    45    65    18    30     7    50 0.40 -
+Escherichiacoli.562.GCF_002511505.1_ASM251150v1_g -            169 jackhmmer            -            113   1.3e-23   94.4   0.3   2   2   1.5e-29   1.3e-23   94.4   0.3     4    97    54   155    52   164 0.89 -
+Escherichiacoli.562.GCF_002536795.1_ASM253679v1_g -            175 jackhmmer            -            113     2e-23   93.8   0.3   1   2       8.9   7.8e+06   -1.5   0.2    45    65    18    30     7    49 0.40 -
+Escherichiacoli.562.GCF_002536795.1_ASM253679v1_g -            175 jackhmmer            -            113     2e-23   93.8   0.3   2   2   2.3e-29     2e-23   93.8   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_000969495.1_ASM96949v1_ge -            179 jackhmmer            -            113   2.2e-23   93.7   0.3   1   2       6.6   5.8e+06   -1.1   0.2    42    60    15    32     7    51 0.38 -
+Escherichiacoli.562.GCF_000969495.1_ASM96949v1_ge -            179 jackhmmer            -            113   2.2e-23   93.7   0.3   2   2   2.5e-29   2.2e-23   93.7   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_900448575.1_37419_H01_gen -            205 jackhmmer            -            113   3.2e-23   93.1   0.2   1   2       7.5   6.6e+06   -1.3   0.2    42    61    15    33     8    51 0.37 -
+Escherichiacoli.562.GCF_900448575.1_37419_H01_gen -            205 jackhmmer            -            113   3.2e-23   93.1   0.2   2   2   3.6e-29   3.2e-23   93.1   0.2     4    97    54   155    52   158 0.89 -
+Escherichiacoli.562.GCF_002941405.1_ASM294140v1_g -            205 jackhmmer            -            113   3.2e-23   93.1   0.2   1   1   3.7e-29   3.2e-23   93.1   0.2     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_900480075.1_17261_8_4_gen -            210 jackhmmer            -            113   3.3e-23   93.1   0.3   1   1   3.8e-29   3.3e-23   93.1   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_006238805.1_ASM623880v1_g -            207 jackhmmer            -            113   3.8e-23   92.9   0.3   1   2       9.5   8.3e+06   -1.6   0.1    42    59    15    31     8    50 0.38 -
+Escherichiacoli.562.GCF_006238805.1_ASM623880v1_g -            207 jackhmmer            -            113   3.8e-23   92.9   0.3   2   2   4.3e-29   3.8e-23   92.9   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_003460245.1_ASM346024v1_g -            205 jackhmmer            -            113   3.8e-23   92.9   0.3   1   2       9.3   8.2e+06   -1.6   0.1    42    59    15    31     8    50 0.38 -
+Escherichiacoli.562.GCF_003460245.1_ASM346024v1_g -            205 jackhmmer            -            113   3.8e-23   92.9   0.3   2   2   4.3e-29   3.8e-23   92.9   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_005388745.1_ASM538874v1_g -            205 jackhmmer            -            113   3.8e-23   92.9   0.3   1   2       9.3   8.2e+06   -1.6   0.1    42    59    15    31     8    50 0.38 -
+Escherichiacoli.562.GCF_005388745.1_ASM538874v1_g -            205 jackhmmer            -            113   3.8e-23   92.9   0.3   2   2   4.3e-29   3.8e-23   92.9   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_003290845.1_ASM329084v1_g -            227 jackhmmer            -            113   4.1e-23   92.8   0.3   1   1   4.6e-29   4.1e-23   92.8   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_002909275.1_ASM290927v1_g -            253 jackhmmer            -            113   5.2e-23   92.4   0.3   1   1     6e-29   5.2e-23   92.4   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_002460645.1_ASM246064v1_g -            268 jackhmmer            -            113     6e-23   92.3   0.3   1   1   6.8e-29     6e-23   92.3   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_002475345.1_ASM247534v1_g -            270 jackhmmer            -            113   6.1e-23   92.2   0.3   1   1   6.9e-29   6.1e-23   92.2   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_000812255.1_ASM81225v1_ge -            306 jackhmmer            -            113   7.9e-23   91.9   0.3   1   2     9e-29   7.9e-23   91.9   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_000812255.1_ASM81225v1_ge -            306 jackhmmer            -            113   7.9e-23   91.9   0.3   2   2       2.4   2.1e+06    0.3   0.0    95   112   252   269   250   270 0.87 -
+Escherichiacoli.562.GCF_003290785.1_ASM329078v1_g -            324 jackhmmer            -            113   8.9e-23   91.7   0.3   1   2     1e-28   8.9e-23   91.7   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_003290785.1_ASM329078v1_g -            324 jackhmmer            -            113   8.9e-23   91.7   0.3   2   2       2.7   2.4e+06    0.1   0.0    95   112   252   269   250   270 0.87 -
+Escherichiacoli.562.GCF_002941495.1_ASM294149v1_g -            348 jackhmmer            -            113     1e-22   91.5   0.3   1   1   1.2e-28     1e-22   91.5   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_002485775.1_ASM248577v1_g -            936 jackhmmer            -            113   1.1e-22   91.4   0.4   1   1   5.8e-28   5.1e-22   89.3   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_001749665.1_ASM174966v1_g -            399 jackhmmer            -            113   1.3e-22   91.1   0.3   1   1   1.5e-28   1.3e-22   91.1   0.3     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_900009835.1_EF476_contigs -            167 jackhmmer            -            113   1.6e-22   90.9   0.4   1   1   3.5e-28   3.1e-22   90.0   0.0     4    94    54   152    52   157 0.89 -
+Escherichiacoli.562.GCF_900474495.1_38344_F01_gen -           1207 jackhmmer            -            113     2e-22   90.6   0.8   1   1   8.1e-28   7.1e-22   88.8   0.3     4    97    54   155    52   157 0.89 -
+Shigellasonnei.624.GCF_001254035.1_5236_2_11_geno -            176 jackhmmer            -            113   1.6e-21   87.7   0.4   1   2       6.5   5.7e+06   -1.1   0.2    42    60    15    32     7    51 0.38 -
+Shigellasonnei.624.GCF_001254035.1_5236_2_11_geno -            176 jackhmmer            -            113   1.6e-21   87.7   0.4   2   2   1.8e-27   1.6e-21   87.7   0.4     4    97    54   155    52   157 0.89 -
+Shigellasonnei.624.GCF_001246675.1_6551_1_10_geno -            235 jackhmmer            -            113   3.3e-21   86.6   0.4   1   1   3.8e-27   3.3e-21   86.6   0.4     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_006229865.1_ASM622986v1_g -            229 jackhmmer            -            113   3.7e-21   86.5   0.4   1   1   4.3e-27   3.7e-21   86.5   0.4     4    97    54   155    52   157 0.89 -
+Serratiamarcescens.615.GCF_003204685.1_ASM320468v -            115 jackhmmer            -            113   4.5e-21   86.2  21.1   1   1     3e-26   2.6e-20   83.7  21.1     1   100     1   115     1   115 0.84 -
+Escherichiacoli.562.GCF_006229655.1_ASM622965v1_g -            253 jackhmmer            -            113   4.7e-21   86.1   0.4   1   1   5.4e-27   4.7e-21   86.1   0.4     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_003145915.1_ASM314591v1_g -            312 jackhmmer            -            113   4.9e-21   86.1   4.0   1   2     7e-27   6.2e-21   85.8   0.4     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_003145915.1_ASM314591v1_g -            312 jackhmmer            -            113   4.9e-21   86.1   4.0   2   2       2.4   2.1e+06    0.3   0.0    95   112   252   269   250   270 0.87 -
+Escherichiacoli.562.GCF_006236005.1_ASM623600v1_g -            306 jackhmmer            -            113   7.2e-21   85.6   0.4   1   1   8.2e-27   7.2e-21   85.6   0.4     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_006229965.1_ASM622996v1_g -            667 jackhmmer            -            113   7.6e-21   85.5   0.9   1   1   3.2e-26   2.8e-20   83.6   0.4     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_000704025.1_ASM70402v1_ge -            361 jackhmmer            -            113   8.3e-21   85.4   0.4   1   2   9.4e-27   8.3e-21   85.4   0.4     4    97    54   155    52   157 0.89 -
+Escherichiacoli.562.GCF_000704025.1_ASM70402v1_ge -            361 jackhmmer            -            113   8.3e-21   85.4   0.4   2   2       3.2   2.8e+06   -0.1   0.0    95   112   252   269   250   270 0.87 -
+Escherichiacoli.562.GCF_001891805.1_ASM189180v1_g -            152 jackhmmer            -            113   3.9e-20   83.2   0.3   1   2       7.1   6.2e+06   -1.2   0.1    88    94    25    31     2    51 0.48 -
+Escherichiacoli.562.GCF_001891805.1_ASM189180v1_g -            152 jackhmmer            -            113   3.9e-20   83.2   0.3   2   2   1.1e-25   9.8e-20   81.9   0.0     4    91    57   152    55   152 0.89 -
+Escherichiacoli.562.GCF_006381835.1_ASM638183v1_g -           1300 jackhmmer            -            113   4.3e-19   79.8   4.1   1   2   1.6e-24   1.4e-18   78.2   2.1     1    61     1    61     1    86 0.93 -
+Escherichiacoli.562.GCF_006381835.1_ASM638183v1_g -           1300 jackhmmer            -            113   4.3e-19   79.8   4.1   2   2       1.4   1.2e+06    1.0   0.0     3    35    90   121    88   134 0.81 -
+Escherichiacoli.562.GCF_003355175.1_ASM335517v1_g -            205 jackhmmer            -            113   6.1e-17   72.9   0.6   1   1   1.3e-22   1.1e-16   72.0   0.0     4    89    54   147    52   150 0.87 -
+PseudomonasspNFACC172.1566192.GCF_900104075.1_IMG -            110 jackhmmer            -            113   3.7e-16   70.4  12.8   1   1   5.1e-22   4.5e-16   70.1  12.8     3   100     5   105     3   109 0.78 -
+EnterobacterspDE0047.2584949.GCF_007680145.1_ASM7 -            104 jackhmmer            -            113   2.3e-13   61.4  20.7   1   1     1e-18   9.1e-13   59.5  20.7     1    89     1   104     1   104 0.80 -
+Escherichiacoli.562.GCF_003293175.1_ASM329317v1_g -            153 jackhmmer            -            113   7.9e-13   59.6   0.8   1   1   1.4e-18   1.2e-12   59.0   0.0     4    82    54   140    52   145 0.87 -
+Enterobactercloacae.550.GCF_002528975.1_ASM252897 -            115 jackhmmer            -            113   2.6e-09   48.3  18.8   1   1   1.6e-14   1.4e-08   45.9  18.9     1    81     1    96     1   100 0.78 -
+Escherichiacoli.562.GCF_007998065.1_ASM799806v1_g -            130 jackhmmer            -            113   2.4e-08   45.2   1.2   1   2       5.1   4.5e+06   -0.8   0.2    44    66    16    30     6    49 0.40 -
+Escherichiacoli.562.GCF_007998065.1_ASM799806v1_g -            130 jackhmmer            -            113   2.4e-08   45.2   1.2   2   2   4.7e-14   4.2e-08   44.4   0.0     4    65    53   123    51   128 0.85 -
+Yersiniapestis.632.GCF_003074275.1_ASM307427v1_ge -            198 jackhmmer            -            113   1.3e-07   42.9   0.1   1   1   2.8e-13   2.5e-07   42.0   0.1     1    31   151   181   151   186 0.96 -
+Serratiamarcescens.615.GCF_006974205.1_ASM697420v -            229 jackhmmer            -            113   1.4e-06   39.5  26.9   1   2   2.5e-11   2.2e-05   35.7  20.0     1    57     1    72     1    96 0.63 -
+Serratiamarcescens.615.GCF_006974205.1_ASM697420v -            229 jackhmmer            -            113   1.4e-06   39.5  26.9   2   2     0.033   2.9e+04    6.3   0.1    75    89   149   163   139   168 0.85 -
+Serratiamarcescens.615.GCF_006711145.1_ASM671114v -            112 jackhmmer            -            113   3.6e-06   38.2  21.2   1   1   1.5e-11   1.3e-05   36.4  21.2     1    58     1    73     1    95 0.62 -
+Escherichiacoli.562.GCF_005396085.1_ASM539608v1_g -            132 jackhmmer            -            113   4.1e-06   38.0   0.7   1   2       5.2   4.6e+06   -0.8   0.2    44    66    17    31     7    50 0.40 -
+Escherichiacoli.562.GCF_005396085.1_ASM539608v1_g -            132 jackhmmer            -            113   4.1e-06   38.0   0.7   2   2   4.7e-12   4.1e-06   38.0   0.7     4    48    54   105    52   116 0.79 -
+Escherichiacoli.562.GCF_003667385.1_ASM366738v1_g -            126 jackhmmer            -            113   5.6e-06   37.6   0.5   1   2       4.8   4.2e+06   -0.7   0.2    44    66    17    31     7    50 0.40 -
+Escherichiacoli.562.GCF_003667385.1_ASM366738v1_g -            126 jackhmmer            -            113   5.6e-06   37.6   0.5   2   2   6.4e-12   5.6e-06   37.6   0.5     4    48    54   101    52   122 0.73 -
+Escherichiacoli.562.GCF_002055605.1_ASM205560v1_g -            156 jackhmmer            -            113     2e-05   35.8   0.4   1   2       5.3   4.6e+06   -0.8   0.2    42    60    15    32     7    51 0.38 -
+Escherichiacoli.562.GCF_002055605.1_ASM205560v1_g -            156 jackhmmer            -            113     2e-05   35.8   0.4   2   2   2.3e-11     2e-05   35.8   0.4     4    46    54    98    52   108 0.74 -
+Escherichiacoli.562.GCF_002458625.1_ASM245862v1_g -            104 jackhmmer            -            113   2.5e-05   35.5   0.7   1   2       2.4   2.1e+06    0.3   0.3    42    68    15    33     6    51 0.38 -
+Escherichiacoli.562.GCF_002458625.1_ASM245862v1_g -            104 jackhmmer            -            113   2.5e-05   35.5   0.7   2   2   2.8e-11   2.5e-05   35.5   0.7     4    38    54    95    52   100 0.85 -
+Escherichiacoli.562.GCF_002229855.1_ASM222985v1_g -            309 jackhmmer            -            113     9e-05   33.7   0.5   1   1     1e-10     9e-05   33.7   0.5     4    43    54    96    52   119 0.86 -
+Escherichiaalbertii.208962.GCF_003864075.1_ASM386 -            112 jackhmmer            -            113   0.00012   33.3   8.7   1   1     2e-10   0.00018   32.7   8.7     3    58    33    94    32   109 0.53 -
+PseudomonasspRoot401.1736526.GCF_001425105.1_Root -            187 jackhmmer            -            113    0.0032   28.7   6.6   1   1   5.7e-09     0.005   28.1   6.6     3    44     5    42     3    55 0.80 -
+Pseudomonasaeruginosa.287.GCF_001034685.1_ASM1034 -            136 jackhmmer            -            113      0.01   27.1   4.3   1   2   1.2e-08      0.01   27.1   4.3     3    42     5    44     3    87 0.70 -
+Pseudomonasaeruginosa.287.GCF_001034685.1_ASM1034 -            136 jackhmmer            -            113      0.01   27.1   4.3   2   2       5.1   4.5e+06   -0.8   0.1    17    47   117   125    94   134 0.56 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      3FA0549C-CB54-11EA-9033-8FD5DBC3747A.2.hmm
+# Target file:     all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_NOPAAR_2.fasta
+# Option settings: hmmsearch -o all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_PAAR_3.out --domtblout all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_PAAR_3.domtblout --noali -E 1000 -Z 45638612 --cpu 32 3FA0549C-CB54-11EA-9033-8FD5DBC3747A.2.hmm all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_NOPAAR_2.fasta 
+# Current dir:     /Users/karatsang/Desktop/SherisProjects/EagProject/effectortree/kara_redundancy
+# Date:            Mon Jul 27 11:55:52 2020
+# [ok]

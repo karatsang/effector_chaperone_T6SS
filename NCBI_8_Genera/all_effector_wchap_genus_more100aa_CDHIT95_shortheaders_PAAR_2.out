@@ -1,0 +1,1857 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  569D480A-C535-11EA-8CA8-D460F75AEC3D.3.hmm
+# target sequence database:        all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_NOPAAR_1.fasta
+# output directed to file:         all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_PAAR_2.out
+# per-dom hits tabular output:     all_effector_wchap_genus_more100aa_CDHIT95_shortheaders_PAAR_2.domtblout
+# show alignments in output:       no
+# sequence reporting threshold:    E-value <= 1000
+# sequence search space set to:    45638612
+# number of worker threads:        32
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       jackhmmer  [M=88]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                                          Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                                          -----------
+      2e-31  119.0   0.1    5.5e-30  114.4   0.0    2.7  2  Pseudomonasabietaniphila.89065.GCF_900100795.1_IM  
+    2.3e-30  115.6   0.3    3.5e-29  111.8   0.1    2.4  2  PseudomonasspTC11.2161748.GCF_003052585.1_ASM3052  
+    3.9e-30  114.9   0.2    2.3e-29  112.4   0.0    2.2  1  Pseudomonasfluorescens.294.GCF_902497885.1_PS704_  
+    9.8e-30  113.6   0.3    1.7e-28  109.7   0.0    2.8  1  PseudomonasspBIOMIG1BAC.1758730.GCF_001705995.1_A  
+    2.4e-29  112.4   0.1    1.8e-28  109.6   0.0    2.2  1  PseudomonasspMC042.2614538.GCF_009380155.1_ASM938  
+    2.8e-28  109.0   0.1    2.4e-27  106.0   0.0    2.3  1  PseudomonasspPH1b.1397282.GCF_000633395.1_ASM6333  
+    5.1e-27  104.9   0.8    1.7e-18   77.6   0.1    3.3  3  Escherichiacoli.562.GCF_000316505.2_ASM31650v2_ge  
+    5.4e-27  104.8   0.9    1.7e-18   77.6   0.1    3.4  3  Escherichiacoli.562.GCF_002155195.1_ASM215519v1_g  
+    6.8e-27  104.5   0.9    1.9e-18   77.5   0.1    3.3  3  Escherichiacoli.562.GCF_002941625.1_ASM294162v1_g  
+    6.8e-27  104.5   0.9    1.9e-18   77.5   0.1    3.3  3  Escherichiacoli.562.GCF_001900985.1_ASM190098v1_g  
+    9.1e-27  104.1   0.8    2.1e-18   77.3   0.1    3.3  3  Escherichiacoli.562.GCF_000782795.1_ASM78279v1_ge  
+    9.2e-27  104.1   0.5    2.4e-18   77.1   0.1    3.3  3  Escherichiacoli.562.GCF_007559375.1_ASM755937v1_g  
+      1e-26  103.9   0.7    2.2e-18   77.2   0.1    3.3  3  Escherichiacoli.562.GCF_006383065.1_ASM638306v1_g  
+    1.1e-26  103.9   0.8    2.2e-18   77.2   0.1    3.3  3  Escherichiacoli.562.GCF_002469205.1_ASM246920v1_g  
+    1.1e-26  103.8   0.7    2.3e-18   77.2   0.1    3.3  3  Escherichiacoli.562.GCF_000464915.1_CFSAN002237_0  
+    1.1e-26  103.8   0.8    2.3e-18   77.2   0.1    3.3  3  Escherichiacoli.562.GCF_003850685.1_ASM385068v1_g  
+    1.7e-26  103.2   0.5    5.1e-18   76.1   0.1    3.3  3  Escherichiacoli.562.GCF_000618205.2_EcF9792_genom  
+    1.7e-26  103.2   0.8    2.8e-18   76.9   0.1    3.3  3  Escherichiacoli.562.GCF_001520835.1_ASM152083v1_g  
+    1.8e-26  103.1   0.8    2.7e-18   76.9   0.1    3.3  3  Escherichiacoli.562.GCF_004523305.1_ASM452330v1_g  
+    2.3e-26  102.8   0.9      9e-18   75.3   0.1    3.3  3  Escherichiacoli.562.GCF_002240935.1_ASM224093v1_g  
+    2.6e-26  102.7   0.3    1.6e-17   74.5   0.0    3.3  3  Escherichiacoli.562.GCF_902501575.1_IBESS113_geno  
+      3e-26  102.4   0.7    3.4e-18   76.6   0.1    3.3  3  Escherichiacoli.562.GCF_000355335.2_ASM35533v2_ge  
+    3.4e-26  102.3   1.0    9.9e-18   75.2   0.1    3.3  3  Escherichiacoli.562.GCF_002229595.1_ASM222959v1_g  
+    3.7e-26  102.2   0.7    3.8e-18   76.5   0.1    3.3  3  Escherichiacoli.562.GCF_002456375.1_ASM245637v1_g  
+    3.9e-26  102.1   0.8    3.5e-18   76.6   0.1    3.3  3  Escherichiacoli.562.GCF_900449735.1_41236_F02_gen  
+    4.1e-26  102.0   1.2    4.3e-18   76.3   0.2    3.4  3  Salmonellaenterica.28901.GCF_000330445.1_ASM33044  
+    4.1e-26  102.0   0.8      4e-18   76.4   0.1    3.3  3  Escherichiacoli.562.GCF_900015825.1_ED415_contigs  
+    4.4e-26  101.9   0.8    3.9e-18   76.4   0.1    3.3  3  Escherichiacoli.562.GCF_000356085.2_ASM35608v2_ge  
+    4.9e-26  101.8   0.8    4.2e-18   76.3   0.1    3.3  3  Escherichiacoli.562.GCF_900480685.1_17328_1_1_gen  
+    5.7e-26  101.6   0.7    1.9e-17   74.2   0.1    3.4  3  Escherichiacoli.562.GCF_000831335.1_Escherichia_c  
+    5.9e-26  101.5   0.7    4.5e-18   76.3   0.1    3.3  3  Escherichiacoli.562.GCF_008374035.1_ASM837403v1_g  
+      6e-26  101.5   1.0    1.2e-17   74.8   0.1    3.3  3  Escherichiacoli.562.GCF_004283675.1_ASM428367v1_g  
+    6.1e-26  101.5   0.3    1.4e-17   74.6   0.1    3.2  3  Escherichiacoli.562.GCF_000356765.2_ASM35676v2_ge  
+    6.4e-26  101.4   0.3    5.2e-18   76.0   0.1    3.2  2  Escherichiacoli.562.GCF_000797895.1_Escherichia_c  
+    6.5e-26  101.4   0.7    4.8e-18   76.1   0.1    3.2  3  Escherichiacoli.562.GCF_000471465.1_E_coliM22-1_N  
+    6.6e-26  101.4   1.2    6.3e-18   75.8   0.1    3.3  3  Escherichiacoli.562.GCF_004767125.1_ASM476712v1_g  
+    6.8e-26  101.3   0.8    4.6e-18   76.2   0.1    3.2  3  Escherichiacoli.562.GCF_005396325.1_ASM539632v1_g  
+    7.9e-26  101.1   0.3    6.9e-18   75.6   0.1    2.8  2  Escherichiacoli.562.GCF_002917665.1_ASM291766v1_g  
+    8.3e-26  101.0   0.8      5e-18   76.1   0.1    3.2  3  Escherichiacoli.562.GCF_000801185.2_ASM80118v2_ge  
+    8.3e-26  101.0   1.1    3.7e-18   76.5   0.1    3.2  2  Escherichiacoli.562.GCF_003464415.1_ASM346441v1_g  
+    9.1e-26  100.9   0.3    5.9e-18   75.9   0.1    3.2  2  Escherichiacoli.562.GCF_900449005.1_38490_C02_gen  
+    9.3e-26  100.9   0.3      6e-18   75.8   0.1    3.2  2  Escherichiacoli.562.GCF_002539895.1_ASM253989v1_g  
+    9.7e-26  100.8   0.8    5.7e-18   75.9   0.1    3.3  2  Escherichiacoli.562.GCF_006231065.1_ASM623106v1_g  
+      1e-25  100.7   0.7    5.8e-18   75.9   0.1    3.2  2  Escherichiacoli.562.GCF_000316825.2_ASM31682v2_ge  
+      1e-25  100.7   0.4    9.9e-18   75.1   0.1    3.4  2  Escherichiacoli.562.GCF_001572295.1_ASM157229v1_g  
+    1.1e-25  100.6   0.3    6.5e-18   75.7   0.1    3.2  2  Escherichiacoli.562.GCF_900196005.1_F2_17_genomic  
+    1.1e-25  100.6   0.3    6.5e-18   75.7   0.1    3.2  2  Escherichiacoli.562.GCF_000355575.2_ASM35557v2_ge  
+    1.1e-25  100.6   0.2    7.3e-18   75.6   0.1    3.3  2  Escherichiacoli.562.GCF_000250375.1_ASM25037v2_ge  
+    1.2e-25  100.5   0.8    6.2e-18   75.8   0.1    3.3  2  Escherichiacoli.562.GCF_006230225.1_ASM623022v1_g  
+    1.3e-25  100.4   0.2    8.1e-18   75.4   0.1    3.4  2  Shigellasonnei.624.GCF_002247525.1_ASM224752v1_ge  
+    1.3e-25  100.4   0.2    7.3e-18   75.6   0.1    3.3  2  Escherichiacoli.562.GCF_002971675.1_ASM297167v1_g  
+    1.3e-25  100.4   0.3    6.9e-18   75.6   0.1    3.2  2  Escherichiacoli.562.GCF_002959315.1_ASM295931v1_g  
+    1.3e-25  100.4   0.2      7e-18   75.6   0.1    3.2  2  Escherichiacoli.562.GCF_900449995.1_39954_B01_gen  
+    1.5e-25  100.2   0.3    5.1e-18   76.1   0.1    3.0  2  Escherichiacoli.562.GCF_002511525.1_ASM251152v1_g  
+    1.6e-25  100.1   0.4    1.1e-17   75.0   0.1    3.3  2  Escherichiacoli.562.GCF_000945955.1_FHI85_genomic  
+    1.6e-25  100.1   0.7    6.9e-18   75.7   0.1    3.2  2  Escherichiacoli.562.GCF_000614425.1_ASM61442v1_ge  
+    1.6e-25  100.1   1.0    1.1e-17   75.0   0.1    3.3  3  Escherichiacoli.562.GCF_002468645.1_ASM246864v1_g  
+    1.6e-25  100.1   0.7      2e-17   74.2   0.1    3.3  3  Escherichiacoli.562.GCF_000704925.1_ASM70492v1_ge  
+    1.7e-25  100.0   0.9    1.9e-17   74.3   0.1    3.3  3  Escherichiacoli.562.GCF_006230545.1_ASM623054v1_g  
+    1.7e-25  100.0   0.3    8.4e-18   75.4   0.1    3.4  2  Escherichiacoli.562.GCF_003886555.1_ASM388655v1_g  
+    1.7e-25  100.0   1.0    1.5e-17   74.6   0.1    3.7  3  Salmonellaenterica.28901.GCF_005885995.1_ASM58859  
+    1.7e-25  100.0   0.3    8.4e-18   75.4   0.1    3.4  2  Escherichiacoli.562.GCF_900093875.1_scaffolds_C33  
+      2e-25   99.8   0.3    9.5e-18   75.2   0.1    3.5  2  Escherichiacoli.562.GCF_000778635.1_ASM77863v1_ge  
+      2e-25   99.8   0.2    9.2e-18   75.3   0.1    3.4  2  Escherichiacoli.562.GCF_005399845.1_ASM539984v1_g  
+      2e-25   99.8   0.7    7.6e-18   75.5   0.1    3.3  2  Escherichiacoli.562.GCF_006234195.1_ASM623419v1_g  
+    2.1e-25   99.7   0.2    9.3e-18   75.2   0.1    3.4  2  Escherichiacoli.562.GCF_900196665.1_F2_95_genomic  
+    2.2e-25   99.7   0.3    8.5e-18   75.4   0.1    3.2  2  Escherichiacoli.562.GCF_900448905.1_38656_F02_gen  
+    2.3e-25   99.6   0.5    6.6e-18   75.7   0.1    3.2  2  Escherichiacoli.562.GCF_001484485.1_ASM148448v1_g  
+    2.3e-25   99.6   0.3    9.4e-18   75.2   0.1    3.3  2  Escherichiacoli.562.GCF_002225755.1_ASM222575v1_g  
+    2.3e-25   99.6   0.8    8.5e-18   75.4   0.1    3.4  2  Escherichiacoli.562.GCF_001677805.2_ASM167780v2_g  
+    2.4e-25   99.6   0.2    1.6e-17   74.5   0.1    3.2  2  Escherichiacoli.562.GCF_002317955.1_ASM231795v1_g  
+    2.5e-25   99.5   0.3    1.5e-17   74.6   0.1    3.4  2  Escherichiacoli.562.GCF_000188755.1_ASM18875v2_ge  
+    2.5e-25   99.5   0.7    8.9e-18   75.3   0.1    3.4  2  Escherichiacoli.562.GCF_006234015.1_ASM623401v1_g  
+    2.6e-25   99.4   0.8    9.1e-18   75.3   0.1    3.4  2  Escherichiacoli.562.GCF_001677695.2_ASM167769v2_g  
+    2.8e-25   99.4   0.8    2.4e-17   73.9   0.1    3.3  3  Escherichiacoli.562.GCF_002535125.1_ASM253512v1_g  
+    2.8e-25   99.3   0.9    9.8e-18   75.2   0.2    3.4  3  Salmonellaenterica.28901.GCF_002034005.1_ASM20340  
+    2.9e-25   99.3   0.2    9.5e-18   75.2   0.1    3.2  2  Escherichiacoli.562.GCF_002475125.1_ASM247512v1_g  
+    3.2e-25   99.2   0.4    9.3e-18   75.2   0.1    3.2  2  Escherichiacoli.562.GCF_006237685.1_ASM623768v1_g  
+    3.2e-25   99.1   0.3    1.6e-17   74.5   0.1    3.4  2  Escherichiacoli.562.GCF_000703205.1_Ec07-3763_gen  
+    3.3e-25   99.1   0.2    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_000752695.1_FHI96_genomic  
+    3.3e-25   99.1   0.8    5.1e-18   76.1   0.1    3.4  3  Escherichiacoli.562.GCF_006232705.1_ASM623270v1_g  
+    3.3e-25   99.1   0.8    9.9e-18   75.2   0.1    3.4  2  Escherichiacoli.562.GCF_001705405.1_ASM170540v1_g  
+    3.4e-25   99.1   0.2    1.2e-17   74.9   0.1    3.5  2  Escherichiacoli.562.GCF_005398185.1_ASM539818v1_g  
+    3.4e-25   99.1   0.8    9.8e-18   75.2   0.1    3.4  2  Escherichiacoli.562.GCF_000267065.1_ASM26706v1_ge  
+    3.5e-25   99.0   0.6    1.1e-17   75.0   0.1    3.4  2  Escherichiacoli.562.GCF_002417555.1_ASM241755v1_g  
+    3.5e-25   99.0   0.2    1.1e-17   75.0   0.1    3.3  2  Escherichiacoli.562.GCF_000703625.1_ASM70362v1_ge  
+    3.6e-25   99.0   0.2    1.1e-17   75.0   0.1    3.3  2  Escherichiacoli.562.GCF_002538315.1_ASM253831v1_g  
+    3.6e-25   99.0   4.4      5e-18   76.1   0.1    4.1  2  Escherichiacoli.562.GCF_002909585.1_ASM290958v1_g  
+    3.6e-25   99.0   0.2    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_000258785.1_EscCol1_NZ_AJ  
+    3.6e-25   99.0   0.8    4.5e-18   76.2   0.1    3.4  3  Escherichiacoli.562.GCF_902505055.1_IBESS811_geno  
+    3.6e-25   99.0   0.2    1.1e-17   75.0   0.1    3.3  2  Escherichiacoli.562.GCF_005397025.1_ASM539702v1_g  
+    3.7e-25   99.0   0.2    1.1e-17   75.0   0.1    3.3  2  Escherichiacoli.562.GCF_002522515.1_ASM252251v1_g  
+    3.8e-25   98.9   0.9    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_900449715.1_39641_G01_gen  
+    3.9e-25   98.9   0.6    1.1e-17   75.0   0.1    3.4  2  Escherichiacoli.562.GCF_002927655.1_ASM292765v1_g  
+    3.9e-25   98.9   0.8    5.4e-18   76.0   0.1    3.3  3  Escherichiacoli.562.GCF_006230745.1_ASM623074v1_g  
+    3.9e-25   98.9   0.8      1e-17   75.1   0.1    3.3  2  Escherichiacoli.562.GCF_000267525.2_ASM26752v2_ge  
+      4e-25   98.9   0.2    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_005885695.1_ASM588569v1_g  
+      4e-25   98.8   0.7      1e-17   75.1   0.1    3.3  2  Escherichiacoli.562.GCF_000778895.1_ASM77889v1_ge  
+      4e-25   98.8   0.2    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_008041685.1_ASM804168v1_g  
+    4.1e-25   98.8   0.7    1.1e-17   75.1   0.1    3.3  2  Escherichiacoli.562.GCF_006238625.1_ASM623862v1_g  
+    4.1e-25   98.8   0.2    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_000415485.1_E2265_1_genom  
+    4.1e-25   98.8   0.2    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_002518785.1_ASM251878v1_g  
+    4.1e-25   98.8   0.2    1.2e-17   74.9   0.1    3.4  2  Escherichiacoli.562.GCF_005399465.1_ASM539946v1_g  
+    4.2e-25   98.8   0.9    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_002487095.1_ASM248709v1_g  
+    4.4e-25   98.7   0.7    1.1e-17   75.0   0.1    3.4  2  Escherichiacoli.562.GCF_006230775.1_ASM623077v1_g  
+    4.4e-25   98.7   0.2    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_002518575.1_ASM251857v1_g  
+    4.6e-25   98.7   0.2    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_002226215.1_ASM222621v1_g  
+    4.6e-25   98.7   0.8    1.1e-17   75.0   0.1    3.3  2  Escherichiacoli.562.GCF_000461955.2_ASM46195v2_ge  
+    4.7e-25   98.6   0.2    1.2e-17   74.8   0.1    3.3  2  Escherichiacoli.562.GCF_000166575.1_ASM16657v2_ge  
+    4.7e-25   98.6   0.6      2e-17   74.2   0.1    3.4  2  Escherichiacoli.562.GCF_002972555.1_ASM297255v1_g  
+    4.7e-25   98.6   0.2    1.2e-17   74.8   0.1    3.3  2  Escherichiacoli.562.GCF_000250575.1_ASM25057v2_ge  
+    4.8e-25   98.6   0.7    1.2e-17   74.9   0.1    3.4  2  Escherichiacoli.562.GCF_900196255.1_F2_57_genomic  
+    4.9e-25   98.6   0.2    1.4e-17   74.7   0.1    3.3  2  Escherichiacoli.562.GCF_002277135.1_ASM227713v1_g  
+    4.9e-25   98.6   0.9      8e-18   75.4   0.1    3.1  2  Escherichiacoli.562.GCF_001911755.1_ASM191175v1_g  
+    5.2e-25   98.5   0.7    1.2e-17   74.8   0.1    3.4  2  Escherichiacoli.562.GCF_006231715.1_ASM623171v1_g  
+    5.3e-25   98.5   0.6    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_000304135.2_ASM30413v2_ge  
+    5.5e-25   98.4   0.8    1.1e-17   75.0   0.1    3.1  2  Escherichiacoli.562.GCF_001957225.1_ASM195722v1_g  
+    5.5e-25   98.4   0.2    1.4e-17   74.6   0.1    3.2  2  Escherichiacoli.562.GCF_005396125.1_ASM539612v1_g  
+    5.5e-25   98.4   0.2    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_001268565.1_1_NZ_CXYA0100  
+    5.6e-25   98.4   0.3      2e-17   74.2   0.1    3.3  2  Escherichiacoli.562.GCF_000249995.1_ASM24999v2_ge  
+    5.6e-25   98.4   0.7    3.4e-18   76.6   0.1    3.3  3  Escherichiacoli.562.GCF_004170805.1_ASM417080v1_g  
+    5.8e-25   98.3   0.8    4.6e-18   76.2   0.1    3.3  3  Escherichiacoli.562.GCF_001576325.1_ASM157632v1_g  
+    5.9e-25   98.3   0.8    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_000456105.1_Esch_coli_HVH  
+    6.2e-25   98.2   0.3    2.1e-17   74.1   0.1    3.3  2  Escherichiacoli.562.GCF_002923515.1_ASM292351v1_g  
+    6.2e-25   98.2   0.8    1.2e-17   74.8   0.1    3.3  2  Escherichiacoli.562.GCF_004005345.1_ASM400534v1_g  
+    6.4e-25   98.2   0.8    3.3e-17   73.5   0.1    3.2  2  Escherichiacoli.562.GCF_001615375.1_ASM161537v1_g  
+    6.4e-25   98.2   0.8    1.2e-17   74.9   0.1    3.3  2  Escherichiacoli.562.GCF_004567355.1_ASM456735v1_g  
+    6.4e-25   98.2   0.8    1.2e-17   74.9   0.1    3.1  2  Escherichiacoli.562.GCF_009600665.1_ASM960066v1_g  
+    6.7e-25   98.1   0.8    1.3e-17   74.8   0.1    3.3  2  Escherichiacoli.562.GCF_001516935.2_ASM151693v2_g  
+    6.7e-25   98.1   0.8    1.3e-17   74.8   0.1    3.3  2  Escherichiacoli.562.GCF_001677545.2_ASM167754v2_g  
+    7.4e-25   98.0   0.2    1.2e-17   74.8   0.1    3.1  2  Escherichiacoli.562.GCF_003123135.1_ASM312313v1_g  
+    7.5e-25   98.0   0.7    1.3e-17   74.7   0.1    3.3  2  Escherichiacoli.562.GCF_003360955.1_ASM336095v1_g  
+    7.6e-25   98.0   0.2    1.2e-17   74.8   0.1    3.2  2  Escherichiacoli.562.GCF_002519725.1_ASM251972v1_g  
+    7.6e-25   98.0   0.8    1.3e-17   74.8   0.1    3.3  2  Escherichiacoli.562.GCF_003361335.1_ASM336133v1_g  
+    7.6e-25   97.9   0.6    1.7e-17   74.4   0.1    3.5  2  Escherichiacoli.562.GCF_005386025.1_ASM538602v1_g  
+    8.4e-25   97.8   0.6    1.7e-17   74.4   0.1    3.4  2  Escherichiacoli.562.GCF_002468915.1_ASM246891v1_g  
+    8.7e-25   97.8   0.8    3.7e-17   73.3   0.1    3.2  2  Escherichiacoli.562.GCF_900636075.1_38670_C01_gen  
+    9.1e-25   97.7   0.3    2.4e-17   73.9   0.1    3.3  2  Escherichiacoli.562.GCF_001283765.1_7790_1_80_gen  
+    9.1e-25   97.7   0.6    2.6e-17   73.8   0.1    3.4  2  Escherichiacoli.562.GCF_002456665.1_ASM245666v1_g  
+    9.2e-25   97.7   0.3    2.4e-17   73.9   0.1    3.3  2  Escherichiacoli.562.GCF_002765575.1_ASM276557v1_g  
+    9.3e-25   97.7   0.3    7.5e-18   75.5   0.1    3.2  2  Escherichiacoli.562.GCF_000740545.1_ASM74054v1_ge  
+    9.5e-25   97.6   0.2    2.8e-17   73.7   0.1    3.3  2  Escherichiacoli.562.GCF_002099965.1_ASM209996v1_g  
+    9.6e-25   97.6   0.6    2.7e-17   73.7   0.1    3.4  2  Escherichiacoli.562.GCF_002484785.1_ASM248478v1_g  
+      1e-24   97.6   0.5    2.7e-17   73.8   0.1    3.3  2  Escherichiacoli.562.GCF_002226985.1_ASM222698v1_g  
+    1.2e-24   97.3   0.7    4.4e-17   73.1   0.1    3.2  2  Escherichiacoli.562.GCF_006234655.1_ASM623465v1_g  
+    1.3e-24   97.3   0.4    4.4e-24   95.5   0.1    2.0  1  Burkholderiaterritorii.1503055.GCF_001524485.1_AS  
+    1.4e-24   97.1   0.5      3e-17   73.6   0.1    3.3  2  Escherichiacoli.562.GCF_000753535.1_FHI54_genomic  
+    1.4e-24   97.1   0.7    4.9e-17   72.9   0.1    3.4  2  Escherichiacoli.562.GCF_003243675.1_ASM324367v1_g  
+    1.5e-24   97.0   0.2    5.9e-18   75.9   0.1    3.1  2  Escherichiacoli.562.GCF_901669795.1_ecoNCTC13476_  
+    1.5e-24   97.0   0.7    4.8e-17   73.0   0.1    3.2  2  Escherichiacoli.562.GCF_002809865.1_ASM280986v1_g  
+    1.7e-24   96.8   0.8    5.3e-17   72.8   0.1    3.4  2  Escherichiacoli.562.GCF_002152215.1_ASM215221v1_g  
+    1.8e-24   96.8   1.0    2.9e-17   73.6   0.1    3.3  2  Escherichiacoli.562.GCF_005044495.1_ASM504449v1_g  
+    1.9e-24   96.7   0.7    5.2e-17   72.9   0.1    3.2  2  Escherichiacoli.562.GCF_003146015.1_ASM314601v1_g  
+    2.2e-24   96.4   0.2    3.9e-17   73.2   0.1    3.1  2  Escherichiacoli.562.GCF_001616905.1_ASM161690v1_g  
+    2.2e-24   96.4   0.2    6.6e-17   72.5   0.1    3.3  2  Escherichiacoli.562.GCF_900481895.1_17651_3_64_ge  
+    2.3e-24   96.4   0.2    6.6e-17   72.5   0.1    3.3  2  Escherichiacoli.562.GCF_000258145.1_ASM25814v1_ge  
+    2.4e-24   96.3   0.8    5.9e-17   72.7   0.1    3.3  2  Escherichiacoli.562.GCF_002155645.1_ASM215564v1_g  
+    2.5e-24   96.3   0.6    5.4e-18   76.0   0.1    3.2  2  EscherichiaspTW10509.754332.GCF_000208545.1_ASM20  
+    2.7e-24   96.2   0.8    5.9e-17   72.7   0.1    3.2  2  Escherichiacoli.562.GCF_000781275.1_ASM78127v1_ge  
+    2.9e-24   96.1   0.8    6.2e-17   72.6   0.1    3.3  2  Escherichiacoli.562.GCF_006230535.1_ASM623053v1_g  
+    2.9e-24   96.1   0.2    4.4e-17   73.1   0.1    3.1  2  Escherichiacoli.562.GCF_002283505.1_ASM228350v1_g  
+    2.9e-24   96.1   0.9    3.6e-17   73.4   0.1    3.1  2  Escherichiacoli.562.GCF_002543285.1_ASM254328v1_g  
+    2.9e-24   96.1   0.7    6.1e-17   72.6   0.1    3.1  2  Escherichiacoli.562.GCF_002520575.1_ASM252057v1_g  
+      3e-24   96.0   0.9    3.3e-17   73.5   0.1    3.0  2  Escherichiacoli.562.GCF_002247735.1_ASM224773v1_g  
+      3e-24   96.0   0.7    6.1e-17   72.6   0.1    3.1  2  Escherichiacoli.562.GCF_000458955.1_Esch_coli_HVH  
+      3e-24   96.0   0.7    6.6e-17   72.5   0.1    3.3  2  Escherichiacoli.562.GCF_001191315.1_CFSAN026781_0  
+    3.2e-24   95.9   0.7    6.2e-17   72.6   0.1    3.1  2  Escherichiacoli.562.GCF_002542025.1_ASM254202v1_g  
+    3.4e-24   95.9   0.6    1.1e-23   94.2   0.2    2.0  1  Burkholderiaambifaria.152480.GCF_000182015.1_ASM1  
+    4.2e-24   95.6   0.9    6.7e-17   72.5   0.1    3.2  2  Escherichiacoli.562.GCF_000752815.1_FHI37_genomic  
+    4.3e-24   95.6   0.7      1e-17   75.1   0.1    3.3  3  Escherichiacoli.562.GCF_001614495.1_ASM161449v1_g  
+    4.3e-24   95.5   3.3    5.4e-24   95.2   2.4    1.6  1  PseudomonasspSample16.2448263.GCF_004307665.1_ASM  
+    4.4e-24   95.5   0.3    1.5e-17   74.6   0.1    3.7  2  Escherichiacoli.562.GCF_000617585.1_Ec2010C-4874_  
+      5e-24   95.3   0.7      8e-17   72.2   0.1    3.2  2  Escherichiacoli.562.GCF_001749055.1_ASM174905v1_g  
+    5.3e-24   95.2   0.2    8.8e-18   75.3   0.1    3.2  2  Escherichiacoli.562.GCF_006230405.1_ASM623040v1_g  
+    5.3e-24   95.2   2.4    1.2e-23   94.1   2.4    1.6  1  PseudomonasspGM33.1144329.GCF_000282295.1_Pseudom  
+    5.7e-24   95.1   0.2    9.8e-18   75.2   0.1    3.4  2  Escherichiacoli.562.GCF_002326895.1_ASM232689v1_g  
+    5.9e-24   95.1   0.2    1.3e-17   74.7   0.1    3.2  2  Escherichiacoli.562.GCF_902504935.1_IBESS664_geno  
+    6.1e-24   95.0   0.2    6.1e-24   95.0   0.2    2.1  1  Enterobacterhormaechei.158836.GCF_008180325.1_ASM  
+    6.2e-24   95.0   2.4    1.5e-23   93.8   2.4    1.6  1  PseudomonasspB12018.2233856.GCF_003097365.1_ASM30  
+    6.5e-24   95.0   2.4    1.5e-23   93.8   2.4    1.5  1  PseudomonasspSample10.2448269.GCF_004321495.1_ASM  
+    7.5e-24   94.8   0.2    7.5e-24   94.8   0.2    2.0  1  Enterobacterhormaechei.158836.GCF_000957895.1_ASM  
+    8.5e-24   94.6   0.2    1.8e-17   74.3   0.1    3.4  2  Escherichiacoli.562.GCF_001907375.1_ASM190737v1_g  
+    9.6e-24   94.4   0.7    4.3e-16   69.9   0.1    3.2  2  Escherichiacoli.562.GCF_000798015.1_Escherichia_c  
+    9.8e-24   94.4   0.7    1.6e-16   71.2   0.1    3.3  2  Escherichiacoli.562.GCF_005042235.1_ASM504223v1_g  
+    1.1e-23   94.2   0.6    1.7e-17   74.4   0.1    3.4  2  Escherichiacoli.562.GCF_000711355.1_ASM71135v1_ge  
+    1.2e-23   94.1   0.7    1.9e-17   74.2   0.1    3.5  2  Escherichiacoli.562.GCF_000781115.1_ASM78111v1_ge  
+    1.3e-23   94.0   0.5    1.1e-17   75.0   0.1    3.3  2  Escherichiacoli.562.GCF_001911405.1_ASM191140v1_g  
+    1.8e-23   93.6   2.5    4.2e-23   92.4   2.5    1.6  1  Pseudomonasfluorescens.294.GCF_902497715.1_PS659_  
+    1.8e-23   93.5   0.1      5e-23   92.1   0.0    1.8  1  Burkholderiaanthina.179879.GCF_001532915.1_ASM153  
+    1.9e-23   93.5   0.6    1.5e-17   74.5   0.1    3.3  2  Escherichiafergusonii.564.GCF_000968905.2_ASM9689  
+    1.9e-23   93.5   2.5    4.3e-23   92.3   2.5    1.6  1  Pseudomonasjessenii.77298.GCF_003225755.1_ASM3225  
+    2.5e-23   93.1   0.6    2.4e-17   73.9   0.1    3.3  2  Escherichiacoli.562.GCF_000704945.1_ASM70494v1_ge  
+    2.6e-23   93.1   0.6    2.3e-17   74.0   0.1    3.3  2  Escherichiacoli.562.GCF_000511545.1_EcoliFCH1_gen  
+    3.2e-23   92.8   0.7    2.5e-17   73.9   0.1    3.3  2  Escherichiacoli.562.GCF_900607785.1_ecoli012_geno  
+    3.3e-23   92.7   0.7    2.6e-17   73.8   0.1    3.3  2  Escherichiacoli.562.GCF_003145435.1_ASM314543v1_g  
+    3.5e-23   92.6   0.7    2.7e-17   73.7   0.1    3.3  2  Escherichiacoli.562.GCF_005402285.1_ASM540228v1_g  
+    3.5e-23   92.6   0.7    2.5e-17   73.8   0.1    3.3  2  Escherichiacoli.562.GCF_000496995.1_CE516_1_genom  
+    3.6e-23   92.6   0.7    2.8e-17   73.7   0.1    3.3  2  Shigellaboydii.621.GCF_002968135.1_ASM296813v1_ge  
+    5.3e-23   92.0   0.7    3.4e-17   73.4   0.1    3.4  2  Escherichiacoli.562.GCF_005399685.1_ASM539968v1_g  
+    9.3e-23   91.3   6.1    3.7e-16   70.1   0.4    3.2  2  Escherichiaalbertii.208962.GCF_005404405.1_ASM540  
+    5.8e-22   88.7   0.3    2.4e-15   67.5   0.0    3.3  3  Escherichiacoli.562.GCF_006229495.1_ASM622949v1_g  
+    7.8e-21   85.1   0.6    3.2e-12   57.5   0.1    3.4  3  Escherichiacoli.562.GCF_003338135.1_ASM333813v1_g  
+    2.7e-20   83.4   2.8    1.6e-14   64.9   0.7    2.8  2  Burkholderiacepacia.292.GCF_001039005.1_ASM103900  
+    3.1e-20   83.2   0.3    2.6e-12   57.8   0.0    3.3  3  Escherichiacoli.562.GCF_003357525.1_ASM335752v1_g  
+    1.2e-19   81.3   0.1    2.5e-18   77.0   0.0    2.4  2  Pseudomonasfuscovaginae.50340.GCF_000467005.1_ASM  
+    5.8e-17   72.7   0.0    3.4e-15   67.0   0.0    2.3  2  Pseudomonasaeruginosa.287.GCF_000794245.1_AZPAE14  
+    8.8e-15   65.7   0.4    1.3e-09   49.1   0.2    2.7  2  Serratiarubidaea.61652.GCF_901472405.1_28771_E01_  
+    1.2e-14   65.2   0.1    1.1e-05   36.6   0.0    3.4  3  Escherichiacoli.562.GCF_003018695.1_ASM301869v1_g  
+    4.9e-14   63.3   0.3    3.6e-09   47.7   0.2    2.8  2  Serratiarubidaea.61652.GCF_001304675.1_ASM130467v  
+    2.2e-13   61.2   0.1    2.2e-08   45.2   0.2    2.6  2  Enterobactercloacae.550.GCF_000496775.1_EDP2a_gen  
+    6.6e-13   59.7   0.3    1.3e-08   45.9   0.2    2.6  2  Serratiarubidaea.61652.GCF_900635665.1_31769_F01_  
+    6.9e-13   59.6   0.3    1.3e-08   45.9   0.2    2.6  2  Serratiarubidaea.61652.GCF_001598675.1_ASM159867v  
+    7.1e-13   59.6   0.3    1.3e-08   45.9   0.2    2.5  2  Serratiarubidaea.61652.GCF_001572725.1_ASM157272v  
+    1.2e-12   58.9   0.3    3.8e-08   44.4   0.2    2.5  2  EnterobacterspR4368.1166130.GCF_000410515.1_ASM41  
+    6.4e-12   56.5   3.4    9.2e-12   56.0   0.0    2.4  1  Enterobacterhormaechei.158836.GCF_003937295.1_ASM  
+    8.3e-12   56.2   0.2    3.6e-09   47.7   0.0    2.8  2  Pseudomonasalcaliphila.101564.GCF_900101755.1_IMG  
+    1.5e-11   55.4   0.3    3.6e-09   47.7   0.0    2.8  2  Pseudomonasmendocina.300.GCF_000725105.2_ASM72510  
+    3.7e-11   54.1   0.8    9.4e-11   52.8   0.4    1.7  1  Salmonellaenterica.28901.GCF_002055025.1_ASM20550  
+      6e-11   53.4   0.3    1.7e-10   52.0   0.1    1.7  1  Escherichiacoli.562.GCF_902502655.1_IBESS1204_gen  
+    2.4e-09   48.3   0.0    1.8e-05   35.8   0.0    2.5  2  Shigellaflexneri.623.GCF_001933085.2_ASM193308v2_  
+    4.8e-08   44.1   0.1      3e-07   41.6   0.0    2.0  1  PseudomonasspNBRC111127.1661042.GCF_001320345.1_A  
+    1.8e-06   39.1   0.5    0.00011   33.3   0.0    2.6  2  PseudomonasspNFACC172.1566192.GCF_900104075.1_IMG  
+    1.1e-05   36.6   0.8    2.5e-05   35.4   0.4    1.7  1  Salmonellaenterica.28901.GCF_001214785.1_5275_7_1  
+    0.00022   32.3   0.8     0.0045   28.2   0.1    2.4  2  Serratiamarcescens.615.GCF_003204685.1_ASM320468v  
+    0.00036   31.7   0.2     0.0048   28.1   0.0    2.4  2  Serratiamarcescens.615.GCF_006974205.1_ASM697420v  
+    0.00078   30.6   0.1       0.38   22.0   0.0    3.3  3  Escherichiacoli.562.GCF_003290785.1_ASM329078v1_g  
+      0.001   30.2   0.1      0.074   24.3   0.0    2.5  2  Escherichiacoli.562.GCF_900448575.1_37419_H01_gen  
+     0.0019   29.4   0.3       0.13   23.5   0.1    2.6  2  Escherichiacoli.562.GCF_002511505.1_ASM251150v1_g  
+     0.0021   29.2   0.1       0.17   23.1   0.0    2.5  2  Escherichiacoli.562.GCF_002536795.1_ASM253679v1_g  
+     0.0022   29.2   0.1       0.18   23.0   0.0    2.5  2  Escherichiacoli.562.GCF_000969495.1_ASM96949v1_ge  
+     0.0027   28.9   0.0       0.17   23.1   0.0    2.5  2  Escherichiacoli.562.GCF_005388745.1_ASM538874v1_g  
+     0.0027   28.9   0.0       0.17   23.1   0.0    2.5  2  Escherichiacoli.562.GCF_003460245.1_ASM346024v1_g  
+     0.0029   28.8   0.0       0.19   23.0   0.0    2.5  2  Escherichiacoli.562.GCF_006238805.1_ASM623880v1_g  
+     0.0033   28.6   0.0       0.23   22.7   0.0    2.7  2  Escherichiacoli.562.GCF_003290845.1_ASM329084v1_g  
+     0.0035   28.5   0.0       0.21   22.8   0.0    2.5  2  Escherichiacoli.562.GCF_900480075.1_17261_8_4_gen  
+     0.0044   28.2   0.1       0.15   23.3   0.0    2.6  2  Escherichiacoli.562.GCF_002941405.1_ASM294140v1_g  
+     0.0057   27.8   0.0       0.27   22.5   0.0    2.5  2  Escherichiacoli.562.GCF_002909275.1_ASM290927v1_g  
+     0.0062   27.7   0.0        0.3   22.3   0.0    2.5  2  Escherichiacoli.562.GCF_002460645.1_ASM246064v1_g  
+     0.0068   27.6   0.0        0.3   22.3   0.0    2.5  2  Escherichiacoli.562.GCF_002475345.1_ASM247534v1_g  
+     0.0075   27.5   0.0       0.35   22.1   0.0    2.6  2  Escherichiacoli.562.GCF_000812255.1_ASM81225v1_ge  
+     0.0079   27.4   0.2       0.37   22.0   0.0    2.7  2  Escherichiacoli.562.GCF_900009835.1_EF476_contigs  
+  ------ inclusion threshold ------
+      0.011   26.9   0.1       0.42   21.9   0.0    2.6  2  Escherichiacoli.562.GCF_002941495.1_ASM294149v1_g  
+      0.017   26.3   0.1        0.5   21.6   0.0    2.5  2  Escherichiacoli.562.GCF_001749665.1_ASM174966v1_g  
+      0.045   25.0   0.1        3.6   18.9   0.0    2.5  2  Shigellasonnei.624.GCF_001254035.1_5236_2_11_geno  
+      0.053   24.7   0.0        1.8   19.8   0.0    3.2  1  Escherichiacoli.562.GCF_900474495.1_38344_F01_gen  
+      0.063   24.5   0.1       0.24   22.6   0.0    1.8  1  Salmonellaenterica.28901.GCF_008362985.1_ASM83629  
+        0.1   23.8   0.0        1.4   20.2   0.0    2.4  1  Escherichiacoli.562.GCF_002485775.1_ASM248577v1_g  
+       0.11   23.7   0.0        6.4   18.1   0.0    2.5  2  Escherichiacoli.562.GCF_006229865.1_ASM622986v1_g  
+       0.11   23.7   0.0        6.4   18.1   0.0    2.5  2  Shigellasonnei.624.GCF_001246675.1_6551_1_10_geno  
+       0.14   23.3   0.0        7.4   17.9   0.0    2.5  2  Escherichiacoli.562.GCF_006229655.1_ASM622965v1_g  
+       0.22   22.7   0.0        9.5   17.5   0.0    2.5  2  Escherichiacoli.562.GCF_003145915.1_ASM314591v1_g  
+       0.23   22.7   0.0        9.6   17.5   0.0    2.5  2  Escherichiacoli.562.GCF_006236005.1_ASM623600v1_g  
+       0.29   22.4   0.0         11   17.2   0.0    2.6  2  Escherichiacoli.562.GCF_000704025.1_ASM70402v1_ge  
+       0.67   21.2   3.0         50   15.2   0.1    2.5  2  EnterobacterspDE0047.2584949.GCF_007680145.1_ASM7  
+        1.6   20.0   0.0         25   16.1   0.0    2.3  2  Escherichiacoli.562.GCF_006229965.1_ASM622996v1_g  
+        2.6   19.3   0.9      1e+02   14.2   0.1    2.7  2  Escherichiacoli.562.GCF_001891805.1_ASM189180v1_g  
+
+
+Domain annotation for each sequence:
+>> Pseudomonasabietaniphila.89065.GCF_900100795.1_IM  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.6   0.1         5   8.8e+05      61      74 ..       3      16 ..       1      33 [. 0.75
+   2 !  114.4   0.0   3.1e-35   5.5e-30       1      88 []      75     162 ..      75     162 .. 0.99
+
+>> PseudomonasspTC11.2161748.GCF_003052585.1_ASM3052  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.4   0.0       5.6   9.9e+05      61      74 ..       3      16 ..       1      25 [. 0.83
+   2 !  111.8   0.1     2e-34   3.5e-29       1      88 []      75     162 ..      75     162 .. 0.99
+
+>> Pseudomonasfluorescens.294.GCF_902497885.1_PS704_  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  112.4   0.0   1.3e-34   2.3e-29       1      88 []      75     162 ..      75     162 .. 0.99
+
+>> PseudomonasspBIOMIG1BAC.1758730.GCF_001705995.1_A  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  109.7   0.0   9.4e-34   1.7e-28       1      88 []      75     162 ..      75     162 .. 0.99
+
+>> PseudomonasspMC042.2614538.GCF_009380155.1_ASM938  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  109.6   0.0     1e-33   1.8e-28       1      88 []      75     162 ..      75     162 .. 0.99
+
+>> PseudomonasspPH1b.1397282.GCF_000633395.1_ASM6333  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  106.0   0.0   1.4e-32   2.4e-27       2      88 .]      76     162 ..      75     162 .. 0.98
+
+>> Escherichiacoli.562.GCF_000316505.2_ASM31650v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.1   0.0       3.6   6.3e+05      61      74 ..      51      64 ..      16      74 .. 0.87
+   2 !   21.9   0.0   2.3e-06      0.41       5      29 ..     132     156 ..     129     165 .. 0.88
+   3 !   77.6   0.1   9.7e-24   1.7e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002155195.1_ASM215519v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.0   0.0       3.6   6.5e+05      61      74 ..      51      64 ..      15      74 .. 0.88
+   2 !   21.8   0.0   2.5e-06      0.44       5      29 ..     132     156 ..     129     165 .. 0.87
+   3 !   77.6   0.1   9.6e-24   1.7e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002941625.1_ASM294162v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.9   0.0       3.9   6.9e+05      61      74 ..      51      64 ..      15      74 .. 0.88
+   2 !   21.7   0.0   2.6e-06      0.47       5      29 ..     132     156 ..     129     165 .. 0.87
+   3 !   77.5   0.1     1e-23   1.9e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001900985.1_ASM190098v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.9   0.0       3.9     7e+05      61      74 ..      51      64 ..      15      74 .. 0.88
+   2 !   21.7   0.0   2.6e-06      0.47       5      29 ..     132     156 ..     129     165 .. 0.87
+   3 !   77.5   0.1   1.1e-23   1.9e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000782795.1_ASM78279v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.8   0.0       4.3   7.7e+05      61      74 ..      51      64 ..      16      74 .. 0.89
+   2 !   21.6   0.0   2.9e-06      0.51       5      29 ..     132     156 ..     129     165 .. 0.87
+   3 !   77.3   0.1   1.2e-23   2.1e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_007559375.1_ASM755937v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.7   0.0       4.7   8.4e+05      61      74 ..      51      64 ..      16      74 .. 0.88
+   2 !   21.5   0.0   2.9e-06      0.52       5      29 ..     132     156 ..     129     164 .. 0.88
+   3 !   77.1   0.1   1.3e-23   2.4e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_006383065.1_ASM638306v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.7   0.0       4.6   8.2e+05      61      74 ..      51      64 ..      17      74 .. 0.89
+   2 !   21.5   0.0   3.1e-06      0.55       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   77.2   0.1   1.3e-23   2.2e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002469205.1_ASM246920v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.7   0.0       4.6   8.2e+05      61      74 ..      51      64 ..      17      74 .. 0.89
+   2 !   21.5   0.0   3.1e-06      0.54       5      29 ..     132     156 ..     129     165 .. 0.87
+   3 !   77.2   0.1   1.3e-23   2.2e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000464915.1_CFSAN002237_0  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.6   0.0       4.8   8.5e+05      61      74 ..      51      64 ..      17      74 .. 0.89
+   2 !   21.4   0.0   3.2e-06      0.57       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   77.2   0.1   1.3e-23   2.3e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_003850685.1_ASM385068v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.7   0.0       4.7   8.3e+05      61      74 ..      51      64 ..      17      74 .. 0.89
+   2 !   21.5   0.0   3.1e-06      0.55       5      29 ..     132     156 ..     129     165 .. 0.87
+   3 !   77.2   0.1   1.3e-23   2.3e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000618205.2_EcF9792_genom  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.7   0.0       4.5   8.1e+05      61      74 ..      51      64 ..      17      74 .. 0.88
+   2 !   21.6   0.0   2.8e-06       0.5       5      29 ..     132     156 ..     129     164 .. 0.88
+   3 !   76.1   0.1   2.9e-23   5.1e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001520835.1_ASM152083v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.5   0.0       5.2   9.2e+05      61      74 ..      51      64 ..      15      74 .. 0.86
+   2 !   21.2   0.0   3.7e-06      0.66       5      29 ..     132     156 ..     129     165 .. 0.87
+   3 !   76.9   0.1   1.6e-23   2.8e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_004523305.1_ASM452330v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.4   0.0       5.5   9.8e+05      61      74 ..      51      64 ..      18      74 .. 0.89
+   2 !   21.2   0.0   3.7e-06      0.65       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   76.9   0.1   1.5e-23   2.7e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002240935.1_ASM224093v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.2   0.0       3.3   5.8e+05      61      74 ..      51      64 ..      14      74 .. 0.86
+   2 !   22.0   0.0   2.1e-06      0.38       5      29 ..     132     156 ..     129     165 .. 0.88
+   3 !   75.3   0.1   5.1e-23     9e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_902501575.1_IBESS113_geno  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.2   0.0       3.2   5.7e+05      61      74 ..      51      64 ..      18      74 .. 0.89
+   2 !   22.0   0.0   2.1e-06      0.38       5      29 ..     132     156 ..     129     165 .. 0.87
+   3 !   74.5   0.0   8.9e-23   1.6e-17      28      87 ..     254     305 ..     236     305 .. 0.85
+
+>> Escherichiacoli.562.GCF_000355335.2_ASM35533v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.1   0.0       6.8   1.2e+06      61      74 ..      51      64 ..      19      74 .. 0.89
+   2 !   21.0   0.0   4.5e-06       0.8       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   76.6   0.1   1.9e-23   3.4e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002229595.1_ASM222959v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.1   0.0       3.5   6.3e+05      61      74 ..      51      64 ..      14      74 .. 0.86
+   2 !   21.7   0.0   2.6e-06      0.46       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   75.2   0.1   5.5e-23   9.9e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002456375.1_ASM245637v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.0   0.0       7.4   1.3e+06      61      74 ..      51      64 ..      19      74 .. 0.89
+   2 !   20.8   0.0   4.9e-06      0.87       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   76.5   0.1   2.1e-23   3.8e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_900449735.1_41236_F02_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.0   0.0       7.8   1.4e+06      61      74 ..      51      64 ..      20      74 .. 0.90
+   2 !   20.8   0.0   5.1e-06       0.9       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   76.6   0.1     2e-23   3.5e-18      28      88 .]     254     306 ..     235     306 .. 0.83
+
+>> Salmonellaenterica.28901.GCF_000330445.1_ASM33044  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.1   0.0       3.4     6e+05      61      74 ..      51      64 ..      24      75 .. 0.90
+   2 !   20.3   0.0   7.1e-06       1.3       5      29 ..     132     156 ..     129     172 .. 0.86
+   3 !   76.3   0.2   2.4e-23   4.3e-18      34      88 .]     255     306 ..     235     306 .. 0.82
+
+>> Escherichiacoli.562.GCF_900015825.1_ED415_contigs  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.0   0.0       7.4   1.3e+06      61      74 ..      51      64 ..      18      74 .. 0.88
+   2 !   20.9   0.0   4.7e-06      0.85       5      29 ..     132     156 ..     129     164 .. 0.88
+   3 !   76.4   0.1   2.2e-23     4e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000356085.2_ASM35608v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.0   0.0       7.8   1.4e+06      61      74 ..      51      64 ..      20      74 .. 0.90
+   2 !   20.8   0.0   5.1e-06       0.9       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   76.4   0.1   2.2e-23   3.9e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_900480685.1_17328_1_1_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.0   0.0       7.6   1.4e+06      61      74 ..      51      64 ..      20      74 .. 0.90
+   2 !   20.8   0.0     5e-06      0.88       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   76.3   0.1   2.4e-23   4.2e-18      35      88 .]     256     306 ..     235     306 .. 0.83
+
+>> Escherichiacoli.562.GCF_000831335.1_Escherichia_c  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.0   0.0       3.6   6.4e+05      61      74 ..      51      64 ..      14      74 .. 0.86
+   2 !   21.7   0.0   2.6e-06      0.47       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   74.2   0.1   1.1e-22   1.9e-17      35      88 .]     256     306 ..     236     306 .. 0.86
+
+>> Escherichiacoli.562.GCF_008374035.1_ASM837403v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.8   0.0       8.7   1.6e+06      61      74 ..      51      64 ..      21      74 .. 0.90
+   2 !   20.6   0.0   5.6e-06         1       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   76.3   0.1   2.5e-23   4.5e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_004283675.1_ASM428367v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.8   0.0       4.3   7.7e+05      61      74 ..      51      64 ..      15      74 .. 0.86
+   2 !   21.5   0.0   3.1e-06      0.55       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   74.8   0.1   6.9e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000356765.2_ASM35676v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.3   0.0       6.3   1.1e+06      61      74 ..      33      46 ..      31      56 .. 0.84
+   2 !   21.4   0.0   3.2e-06      0.58       5      29 ..     114     138 ..     111     146 .. 0.88
+   3 !   74.6   0.1   8.1e-23   1.4e-17      28      88 .]     236     288 ..     218     288 .. 0.85
+
+>> Escherichiacoli.562.GCF_000797895.1_Escherichia_c  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.4   0.0   6.5e-06       1.2       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   76.0   0.1   2.9e-23   5.2e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000471465.1_E_coliM22-1_N  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.8   0.0         9   1.6e+06      61      74 ..      51      64 ..      19      74 .. 0.89
+   2 !   20.6   0.0   5.7e-06         1       5      29 ..     132     156 ..     129     164 .. 0.88
+   3 !   76.1   0.1   2.7e-23   4.8e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_004767125.1_ASM476712v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.3   0.0       6.3   1.1e+06      61      74 ..      51      64 ..      18      74 .. 0.89
+   2 !   21.1   0.0   4.1e-06      0.74       5      29 ..     132     156 ..     129     165 .. 0.87
+   3 !   75.8   0.1   3.5e-23   6.3e-18      28      88 .]     254     306 ..     235     306 .. 0.81
+
+>> Escherichiacoli.562.GCF_005396325.1_ASM539632v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.8   0.0       9.1   1.6e+06      61      74 ..      51      64 ..      22      74 .. 0.90
+   2 !   20.6   0.0   5.8e-06         1       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   76.2   0.1   2.6e-23   4.6e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002917665.1_ASM291766v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   22.3   0.0   1.7e-06      0.31       5      29 ..      80     104 ..      77     113 .. 0.88
+   2 !   75.6   0.1   3.9e-23   6.9e-18      28      88 .]     202     254 ..     184     254 .. 0.85
+
+>> Escherichiacoli.562.GCF_000801185.2_ASM80118v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.7   0.0       9.6   1.7e+06      61      74 ..      51      64 ..      22      74 .. 0.90
+   2 !   20.5   0.0   6.2e-06       1.1       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   76.1   0.1   2.8e-23     5e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_003464415.1_ASM346441v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.9   0.0   4.8e-06      0.85       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   76.5   0.1   2.1e-23   3.7e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_900449005.1_38490_C02_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.3   0.0   7.3e-06       1.3       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.9   0.1   3.3e-23   5.9e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002539895.1_ASM253989v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.3   0.0   7.4e-06       1.3       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.8   0.1   3.4e-23     6e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_006231065.1_ASM623106v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.3   0.0     7e-06       1.3       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.9   0.1   3.2e-23   5.7e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000316825.2_ASM31682v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.4   0.0   6.7e-06       1.2       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   75.9   0.1   3.3e-23   5.8e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001572295.1_ASM157229v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.5   0.0   6.2e-06       1.1       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.1   0.1   5.6e-23   9.9e-18      28      88 .]     254     306 ..     235     306 .. 0.82
+
+>> Escherichiacoli.562.GCF_900196005.1_F2_17_genomic  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.2   0.0   7.9e-06       1.4       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.7   0.1   3.6e-23   6.5e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000355575.2_ASM35557v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.2   0.0   7.9e-06       1.4       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.7   0.1   3.6e-23   6.5e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000250375.1_ASM25037v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.2   0.0   7.9e-06       1.4       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   75.6   0.1   4.1e-23   7.3e-18      35      88 .]     256     306 ..     236     306 .. 0.84
+
+>> Escherichiacoli.562.GCF_006230225.1_ASM623022v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.2   0.0   7.6e-06       1.4       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.8   0.1   3.5e-23   6.2e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Shigellasonnei.624.GCF_002247525.1_ASM224752v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.9   0.0   9.7e-06       1.7       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.4   0.1   4.5e-23   8.1e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002971675.1_ASM297167v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.0   0.0   8.9e-06       1.6       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   75.6   0.1   4.1e-23   7.3e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002959315.1_ASM295931v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.1   0.0   8.4e-06       1.5       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.6   0.1   3.9e-23   6.9e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_900449995.1_39954_B01_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.1   0.0   8.6e-06       1.5       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   75.6   0.1   3.9e-23     7e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002511525.1_ASM251152v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.3   0.0   7.4e-06       1.3       5      29 ..     101     125 ..      98     135 .. 0.87
+   2 !   76.1   0.1   2.8e-23   5.1e-18      28      88 .]     223     275 ..     205     275 .. 0.85
+
+>> Escherichiacoli.562.GCF_000945955.1_FHI85_genomic  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.3   0.0     7e-06       1.2       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.0   0.1   6.3e-23   1.1e-17      28      88 .]     254     306 ..     235     306 .. 0.82
+
+>> Escherichiacoli.562.GCF_000614425.1_ASM61442v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.2   0.0   7.8e-06       1.4       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   75.7   0.1   3.8e-23   6.9e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002468645.1_ASM246864v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.9   0.0       8.3   1.5e+06      61      74 ..      51      64 ..      18      74 .. 0.87
+   2 !   20.6   0.0   5.7e-06         1       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   75.0   0.1   6.1e-23   1.1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000704925.1_ASM70492v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.2   0.0       6.7   1.2e+06      61      74 ..      51      64 ..      17      74 .. 0.87
+   2 !   21.0   0.0   4.3e-06      0.76       5      29 ..     132     156 ..     129     164 .. 0.88
+   3 !   74.2   0.1   1.1e-22     2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_006230545.1_ASM623054v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.3   0.0       6.3   1.1e+06      61      74 ..      51      64 ..      16      74 .. 0.87
+   2 !   21.0   0.0   4.4e-06      0.79       5      29 ..     132     156 ..     129     164 .. 0.87
+   3 !   74.3   0.1     1e-22   1.9e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_003886555.1_ASM388655v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.8   0.0     1e-05       1.8       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.4   0.1   4.7e-23   8.4e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Salmonellaenterica.28901.GCF_005885995.1_ASM58859  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.1   0.1       3.4   6.1e+05      61      74 ..      51      64 ..       6      74 .. 0.62
+   2 !   19.2   0.0   1.6e-05       2.8       5      29 ..     132     156 ..     129     171 .. 0.86
+   3 !   74.6   0.1   8.3e-23   1.5e-17      28      88 .]     254     306 ..     243     306 .. 0.87
+
+>> Escherichiacoli.562.GCF_900093875.1_scaffolds_C33  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.8   0.0     1e-05       1.8       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.4   0.1   4.7e-23   8.4e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000778635.1_ASM77863v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.7   0.0   1.1e-05         2       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.2   0.1   5.3e-23   9.5e-18      28      88 .]     246     298 ..     228     298 .. 0.85
+
+>> Escherichiacoli.562.GCF_005399845.1_ASM539984v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.7   0.0   1.1e-05         2       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   75.3   0.1   5.2e-23   9.2e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_006234195.1_ASM623419v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.0   0.0   9.2e-06       1.6       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.5   0.1   4.3e-23   7.6e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_900196665.1_F2_95_genomic  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.7   0.0   1.1e-05         2       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   75.2   0.1   5.2e-23   9.3e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_900448905.1_38656_F02_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.8   0.0     1e-05       1.8       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.4   0.1   4.8e-23   8.5e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001484485.1_ASM148448v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.4       5      27 ..     132     154 ..     129     160 .. 0.86
+   2 !   75.7   0.1   3.7e-23   6.6e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002225755.1_ASM222575v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.7   0.0   1.1e-05         2       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.2   0.1   5.3e-23   9.4e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001677805.2_ASM167780v2_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.9   0.0   9.5e-06       1.7       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   75.4   0.1   4.8e-23   8.5e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002317955.1_ASM231795v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.4   0.0   6.6e-06       1.2       5      29 ..     132     156 ..     129     171 .. 0.87
+   2 !   74.5   0.1   8.9e-23   1.6e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000188755.1_ASM18875v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.0   0.0   8.9e-06       1.6       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   74.6   0.1   8.3e-23   1.5e-17      28      88 .]     254     306 ..     235     306 .. 0.82
+
+>> Escherichiacoli.562.GCF_006234015.1_ASM623401v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.8   0.0   1.1e-05       1.9       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.3   0.1     5e-23   8.9e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001677695.2_ASM167769v2_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.8   0.0     1e-05       1.8       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   75.3   0.1   5.1e-23   9.1e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002535125.1_ASM253512v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.9   0.0       8.1   1.4e+06      61      74 ..      51      64 ..      18      74 .. 0.87
+   2 !   20.8   0.0     5e-06       0.9       5      29 ..     132     156 ..     129     164 .. 0.88
+   3 !   73.9   0.1   1.3e-22   2.4e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Salmonellaenterica.28901.GCF_002034005.1_ASM20340  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.9   0.0       7.9   1.4e+06      61      74 ..      51      64 ..      29      74 .. 0.91
+   2 !   19.2   0.0   1.5e-05       2.7       5      29 ..     132     156 ..     129     171 .. 0.86
+   3 !   75.2   0.2   5.5e-23   9.8e-18      34      88 .]     255     306 ..     235     306 .. 0.82
+
+>> Escherichiacoli.562.GCF_002475125.1_ASM247512v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.7   0.0   1.1e-05         2       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   75.2   0.1   5.3e-23   9.5e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_006237685.1_ASM623768v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.6   0.0   1.2e-05       2.1       5      29 ..     132     156 ..     129     161 .. 0.86
+   2 !   75.2   0.1   5.2e-23   9.3e-18      28      88 .]     261     313 ..     243     313 .. 0.85
+
+>> Escherichiacoli.562.GCF_000703205.1_Ec07-3763_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.9   0.0   9.7e-06       1.7       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   74.5   0.1   9.1e-23   1.6e-17      28      88 .]     254     306 ..     235     306 .. 0.82
+
+>> Escherichiacoli.562.GCF_000752695.1_FHI96_genomic  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.6   0.0   1.2e-05       2.2       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   74.9   0.1   6.6e-23   1.2e-17      35      88 .]     256     306 ..     236     306 .. 0.84
+
+>> Escherichiacoli.562.GCF_006232705.1_ASM623270v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.2   0.0       3.1   5.5e+05      61      74 ..      51      64 ..      14      74 .. 0.86
+   2 !   17.3   0.0   6.1e-05        11       5      29 ..     132     156 ..     129     165 .. 0.89
+   3 !   76.1   0.1   2.9e-23   5.1e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001705405.1_ASM170540v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.7   0.0   1.1e-05       1.9       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   75.2   0.1   5.5e-23   9.9e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_005398185.1_ASM539818v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.3   0.0   1.4e-05       2.6       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   74.9   0.1   6.8e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000267065.1_ASM26706v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.7   0.0   1.1e-05       1.9       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   75.2   0.1   5.5e-23   9.8e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002417555.1_ASM241755v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.6   0.0   1.2e-05       2.1       5      29 ..     132     156 ..     129     170 .. 0.87
+   2 !   75.0   0.1     6e-23   1.1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000703625.1_ASM70362v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.3e-05       2.4       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   75.0   0.1   6.3e-23   1.1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002538315.1_ASM253831v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.3e-05       2.3       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   75.0   0.1   6.2e-23   1.1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002909585.1_ASM290958v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.5   0.0   6.2e-06       1.1       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   76.1   0.1   2.8e-23     5e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000258785.1_EscCol1_NZ_AJ  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.6   0.0   1.2e-05       2.2       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   74.9   0.1   6.5e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_902505055.1_IBESS811_geno  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.0   0.0       3.6   6.4e+05      61      74 ..      51      64 ..      14      74 .. 0.86
+   2 !   17.2   0.0   6.9e-05        12       5      29 ..     132     156 ..     129     165 .. 0.89
+   3 !   76.2   0.1   2.5e-23   4.5e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_005397025.1_ASM539702v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.3e-05       2.3       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   75.0   0.1   6.2e-23   1.1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002522515.1_ASM252251v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.3e-05       2.3       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.0   0.1   6.2e-23   1.1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_900449715.1_39641_G01_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.1   0.0   8.2e-06       1.5       5      30 ..     132     157 ..     129     171 .. 0.85
+   2 !   74.9   0.1   6.6e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002927655.1_ASM292765v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.6   0.0   1.2e-05       2.2       5      29 ..     132     156 ..     129     170 .. 0.87
+   2 !   75.0   0.1   6.3e-23   1.1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_006230745.1_ASM623074v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.2   0.0       3.2   5.8e+05      61      74 ..      51      64 ..      14      74 .. 0.86
+   2 !   17.3   0.0   6.4e-05        11       5      29 ..     132     156 ..     129     165 .. 0.89
+   3 !   76.0   0.1     3e-23   5.4e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000267525.2_ASM26752v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.7   0.0   1.1e-05         2       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   75.1   0.1   5.7e-23     1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_005885695.1_ASM588569v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.4       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   74.9   0.1   6.5e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000778895.1_ASM77889v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.2e-05       2.2       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.1   0.1   5.9e-23     1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_008041685.1_ASM804168v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.4       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   74.9   0.1   6.5e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_006238625.1_ASM623862v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.2e-05       2.2       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.1   0.1   5.9e-23   1.1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000415485.1_E2265_1_genom  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.4       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   74.9   0.1   6.5e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002518785.1_ASM251878v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.4       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   74.9   0.1   6.5e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_005399465.1_ASM539946v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.3   0.0   1.4e-05       2.6       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   74.9   0.1   6.9e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002487095.1_ASM248709v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.1   0.0   8.5e-06       1.5       5      30 ..     132     157 ..     129     171 .. 0.85
+   2 !   74.9   0.1   6.8e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_006230775.1_ASM623077v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.3e-05       2.3       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.0   0.1   6.2e-23   1.1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002518575.1_ASM251857v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.5       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   74.9   0.1   6.6e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002226215.1_ASM222621v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.3   0.0   1.4e-05       2.5       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   74.9   0.1   6.8e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000461955.2_ASM46195v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.6   0.0   1.2e-05       2.1       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   75.0   0.1   6.1e-23   1.1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000166575.1_ASM16657v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.3   0.0   1.4e-05       2.6       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   74.8   0.1   6.9e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002972555.1_ASM297255v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.9   0.0   9.5e-06       1.7       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   74.2   0.1   1.1e-22     2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000250575.1_ASM25057v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.3   0.0   1.4e-05       2.6       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   74.8   0.1   6.9e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_900196255.1_F2_57_genomic  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.3e-05       2.4       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   74.9   0.1   6.5e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002277135.1_ASM227713v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.5       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   74.7   0.1   7.6e-23   1.4e-17      35      88 .]     256     306 ..     236     306 .. 0.84
+
+>> Escherichiacoli.562.GCF_001911755.1_ASM191175v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.9   0.0   9.6e-06       1.7       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   75.4   0.1   4.5e-23     8e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_006231715.1_ASM623171v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.3e-05       2.4       5      29 ..     132     156 ..     129     170 .. 0.87
+   2 !   74.8   0.1   6.9e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000304135.2_ASM30413v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.3e-05       2.3       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   74.9   0.1   6.8e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001957225.1_ASM195722v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.2   0.0   7.6e-06       1.3       5      29 ..     135     159 ..     132     167 .. 0.87
+   2 !   75.0   0.1   6.4e-23   1.1e-17      28      88 .]     257     309 ..     239     309 .. 0.85
+
+>> Escherichiacoli.562.GCF_005396125.1_ASM539612v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.3   0.0   1.5e-05       2.6       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   74.6   0.1   7.9e-23   1.4e-17      35      88 .]     256     306 ..     236     306 .. 0.84
+
+>> Escherichiacoli.562.GCF_001268565.1_1_NZ_CXYA0100  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.5       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   74.9   0.1   6.8e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000249995.1_ASM24999v2_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.6   0.0   1.2e-05       2.1       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   74.2   0.1   1.1e-22     2e-17      28      88 .]     254     306 ..     235     306 .. 0.82
+
+>> Escherichiacoli.562.GCF_004170805.1_ASM417080v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.2   0.0       6.7   1.2e+06      61      74 ..      51      64 ..      18      74 .. 0.89
+   2 !   16.8   0.0   9.2e-05        16       5      28 ..     132     155 ..     124     162 .. 0.79
+   3 !   76.6   0.1   1.9e-23   3.4e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001576325.1_ASM157632v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.7   0.0       4.5   8.1e+05      61      74 ..      51      64 ..      15      74 .. 0.86
+   2 !   16.9   0.0   8.5e-05        15       5      29 ..     132     156 ..     129     165 .. 0.89
+   3 !   76.2   0.1   2.6e-23   4.6e-18      28      88 .]     254     306 ..     235     306 .. 0.83
+
+>> Escherichiacoli.562.GCF_000456105.1_Esch_coli_HVH  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.4       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   74.9   0.1   6.6e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002923515.1_ASM292351v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.6   0.0   1.2e-05       2.2       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   74.1   0.1   1.2e-22   2.1e-17      28      88 .]     254     306 ..     235     306 .. 0.82
+
+>> Escherichiacoli.562.GCF_004005345.1_ASM400534v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.3e-05       2.4       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   74.8   0.1   6.9e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001615375.1_ASM161537v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.4   0.0   6.7e-06       1.2       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   73.5   0.1   1.8e-22   3.3e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_004567355.1_ASM456735v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.5       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   74.9   0.1   6.8e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_009600665.1_ASM960066v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.1   0.0     8e-06       1.4       5      29 ..     135     159 ..     132     167 .. 0.87
+   2 !   74.9   0.1   6.8e-23   1.2e-17      28      88 .]     257     309 ..     239     309 .. 0.85
+
+>> Escherichiacoli.562.GCF_001516935.2_ASM151693v2_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.4       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   74.8   0.1     7e-23   1.3e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001677545.2_ASM167754v2_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.4       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   74.8   0.1     7e-23   1.3e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_003123135.1_ASM312313v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.3   0.0   1.4e-05       2.6       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   74.8   0.1   6.9e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_003360955.1_ASM336095v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.3   0.0   1.4e-05       2.6       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   74.7   0.1   7.4e-23   1.3e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002519725.1_ASM251972v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.1   0.0   1.7e-05         3       5      29 ..     132     156 ..     128     170 .. 0.85
+   2 !   74.8   0.1   6.9e-23   1.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_003361335.1_ASM336133v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.5       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   74.8   0.1   7.3e-23   1.3e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_005386025.1_ASM538602v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.1   0.0   1.7e-05         3       5      29 ..     132     156 ..     128     170 .. 0.85
+   2 !   74.4   0.1   9.5e-23   1.7e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002468915.1_ASM246891v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.1   0.0   1.7e-05         3       5      29 ..     132     156 ..     128     170 .. 0.85
+   2 !   74.4   0.1   9.5e-23   1.7e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_900636075.1_38670_C01_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.3   0.0   7.5e-06       1.3       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   73.3   0.1   2.1e-22   3.7e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001283765.1_7790_1_80_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.5       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   73.9   0.1   1.3e-22   2.4e-17      28      88 .]     254     306 ..     235     306 .. 0.82
+
+>> Escherichiacoli.562.GCF_002456665.1_ASM245666v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.2e-05       2.2       5      29 ..     132     156 ..     129     170 .. 0.87
+   2 !   73.8   0.1   1.5e-22   2.6e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002765575.1_ASM276557v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.5       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   73.9   0.1   1.3e-22   2.4e-17      28      88 .]     254     306 ..     235     306 .. 0.82
+
+>> Escherichiacoli.562.GCF_000740545.1_ASM74054v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   17.6   0.0   5.1e-05       9.2       5      29 ..     132     156 ..     130     164 .. 0.88
+   2 !   75.5   0.1   4.2e-23   7.5e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002099965.1_ASM209996v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.3e-05       2.3       5      29 ..     132     156 ..     129     163 .. 0.88
+   2 !   73.7   0.1   1.6e-22   2.8e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002484785.1_ASM248478v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.3e-05       2.3       5      29 ..     132     156 ..     129     170 .. 0.87
+   2 !   73.7   0.1   1.5e-22   2.7e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002226985.1_ASM222698v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.2e-05       2.2       5      29 ..     132     156 ..     129     163 .. 0.88
+   2 !   73.8   0.1   1.5e-22   2.7e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_006234655.1_ASM623465v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.0   0.0   8.7e-06       1.6       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   73.1   0.1   2.5e-22   4.4e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Burkholderiaterritorii.1503055.GCF_001524485.1_AS  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   95.5   0.1   2.5e-29   4.4e-24       4      88 .]      83     166 ..      80     166 .. 0.95
+
+>> Escherichiacoli.562.GCF_000753535.1_FHI54_genomic  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.5       5      29 ..     132     156 ..     129     163 .. 0.88
+   2 !   73.6   0.1   1.7e-22     3e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_003243675.1_ASM324367v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.9   0.0   9.7e-06       1.7       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   72.9   0.1   2.8e-22   4.9e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_901669795.1_ecoNCTC13476_  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   16.6   0.0   0.00011        19       5      29 ..      89     113 ..      86     121 .. 0.88
+   2 !   75.9   0.1   3.3e-23   5.9e-18      28      88 .]     211     263 ..     192     263 .. 0.83
+
+>> Escherichiacoli.562.GCF_002809865.1_ASM280986v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.9   0.0   9.4e-06       1.7       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   73.0   0.1   2.7e-22   4.8e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002152215.1_ASM215221v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.6   0.0   1.2e-05       2.1       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   72.8   0.1     3e-22   5.3e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_005044495.1_ASM504449v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.5       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   73.6   0.1   1.6e-22   2.9e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_003146015.1_ASM314601v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.8   0.0     1e-05       1.8       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   72.9   0.1   2.9e-22   5.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001616905.1_ASM161690v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.4e-05       2.5       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   73.2   0.1   2.2e-22   3.9e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_900481895.1_17651_3_64_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.3e-05       2.3       5      29 ..     132     156 ..     129     163 .. 0.88
+   2 !   72.5   0.1   3.7e-22   6.6e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000258145.1_ASM25814v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.3e-05       2.3       5      29 ..     132     156 ..     129     163 .. 0.88
+   2 !   72.5   0.1   3.7e-22   6.6e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002155645.1_ASM215564v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.3e-05       2.3       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   72.7   0.1   3.3e-22   5.9e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> EscherichiaspTW10509.754332.GCF_000208545.1_ASM20  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.8   0.0   0.00019        33       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   76.0   0.1     3e-23   5.4e-18      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000781275.1_ASM78127v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.3e-05       2.3       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   72.7   0.1   3.3e-22   5.9e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_006230535.1_ASM623053v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.4   0.0   1.3e-05       2.4       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   72.6   0.1   3.5e-22   6.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002283505.1_ASM228350v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.2   0.0   1.5e-05       2.8       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   73.1   0.1   2.4e-22   4.4e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002543285.1_ASM254328v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.3e-05       2.3       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   73.4   0.1     2e-22   3.6e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002520575.1_ASM252057v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.6   0.0   1.2e-05       2.1       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   72.6   0.1   3.4e-22   6.1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002247735.1_ASM224773v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.6   0.0   1.2e-05       2.1       5      29 ..     132     156 ..     129     164 .. 0.87
+   2 !   73.5   0.1   1.9e-22   3.3e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000458955.1_Esch_coli_HVH  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.6   0.0   1.2e-05       2.1       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   72.6   0.1   3.4e-22   6.1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001191315.1_CFSAN026781_0  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.5   0.0   1.3e-05       2.3       5      29 ..     132     156 ..     129     163 .. 0.88
+   2 !   72.5   0.1   3.7e-22   6.6e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_002542025.1_ASM254202v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.6   0.0   1.2e-05       2.2       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   72.6   0.1   3.5e-22   6.2e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Burkholderiaambifaria.152480.GCF_000182015.1_ASM1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   94.2   0.2   6.3e-29   1.1e-23       4      88 .]      83     166 ..      80     166 .. 0.96
+
+>> Escherichiacoli.562.GCF_000752815.1_FHI37_genomic  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.3   0.0   1.4e-05       2.6       5      29 ..     132     156 ..     129     163 .. 0.87
+   2 !   72.5   0.1   3.8e-22   6.7e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_001614495.1_ASM161449v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.7   0.0       9.5   1.7e+06      61      74 ..      51      64 ..      18      74 .. 0.88
+   2 !   15.9   0.0   0.00017        31       5      29 ..     132     156 ..     129     164 .. 0.88
+   3 !   75.1   0.1   5.7e-23     1e-17      28      88 .]     254     306 ..     235     306 .. 0.83
+
+>> PseudomonasspSample16.2448263.GCF_004307665.1_ASM  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   95.2   2.4     3e-29   5.4e-24       9      88 .]      79     150 ..      71     150 .. 0.93
+
+>> Escherichiacoli.562.GCF_000617585.1_Ec2010C-4874_  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.4   0.0   0.00024        42       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   74.6   0.1   8.1e-23   1.5e-17      28      88 .]     254     306 ..     235     306 .. 0.83
+
+>> Escherichiacoli.562.GCF_001749055.1_ASM174905v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.2   0.0   1.5e-05       2.7       5      29 ..     132     156 ..     129     163 .. 0.88
+   2 !   72.2   0.1   4.5e-22     8e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_006230405.1_ASM623040v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.4   0.0   0.00024        43       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   75.3   0.1   4.9e-23   8.8e-18      35      88 .]     256     306 ..     236     306 .. 0.84
+
+>> PseudomonasspGM33.1144329.GCF_000282295.1_Pseudom  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   94.1   2.4   6.9e-29   1.2e-23       9      88 .]      79     150 ..      71     150 .. 0.93
+
+>> Escherichiacoli.562.GCF_002326895.1_ASM232689v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.3   0.0   0.00027        48       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   75.2   0.1   5.5e-23   9.8e-18      35      88 .]     256     306 ..     236     306 .. 0.84
+
+>> Escherichiacoli.562.GCF_902504935.1_IBESS664_geno  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.7   0.0    0.0002        36       5      29 ..     112     136 ..     109     144 .. 0.88
+   2 !   74.7   0.1   7.4e-23   1.3e-17      28      88 .]     234     286 ..     215     286 .. 0.83
+
+>> Enterobacterhormaechei.158836.GCF_008180325.1_ASM  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   95.0   0.2   3.4e-29   6.1e-24       2      88 .]      72     151 ..      71     151 .. 0.97
+
+>> PseudomonasspB12018.2233856.GCF_003097365.1_ASM30  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   93.8   2.4   8.1e-29   1.5e-23       9      88 .]      79     150 ..      71     150 .. 0.93
+
+>> PseudomonasspSample10.2448269.GCF_004321495.1_ASM  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   93.8   2.4   8.2e-29   1.5e-23       9      88 .]      79     150 ..      71     150 .. 0.93
+
+>> Enterobacterhormaechei.158836.GCF_000957895.1_ASM  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   94.8   0.2   4.2e-29   7.5e-24       2      88 .]      72     151 ..      71     151 .. 0.97
+
+>> Escherichiacoli.562.GCF_001907375.1_ASM190737v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.4   0.0   0.00025        45       5      29 ..     112     136 ..     109     144 .. 0.88
+   2 !   74.3   0.1   9.9e-23   1.8e-17      28      88 .]     234     286 ..     216     286 .. 0.84
+
+>> Escherichiacoli.562.GCF_000798015.1_Escherichia_c  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.2   0.0   7.5e-06       1.3       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   69.9   0.1   2.4e-21   4.3e-16      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_005042235.1_ASM504223v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.2   0.0   1.6e-05       2.9       5      29 ..     132     156 ..     129     163 .. 0.88
+   2 !   71.2   0.1   9.2e-22   1.6e-16      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_000711355.1_ASM71135v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.3   0.0   0.00027        48       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   74.4   0.1   9.7e-23   1.7e-17      28      88 .]     254     306 ..     236     306 .. 0.84
+
+>> Escherichiacoli.562.GCF_000781115.1_ASM78111v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.3   0.0   0.00027        47       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   74.2   0.1   1.1e-22   1.9e-17      28      88 .]     254     306 ..     236     306 .. 0.84
+
+>> Escherichiacoli.562.GCF_001911405.1_ASM191140v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.8   0.0   0.00037        67       5      29 ..     132     156 ..     129     163 .. 0.88
+   2 !   75.0   0.1   6.3e-23   1.1e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Pseudomonasfluorescens.294.GCF_902497715.1_PS659_  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   92.4   2.5   2.4e-28   4.2e-23       9      88 .]      79     150 ..      71     150 .. 0.93
+
+>> Burkholderiaanthina.179879.GCF_001532915.1_ASM153  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   92.1   0.0   2.8e-28     5e-23       2      88 .]      81     166 ..      80     166 .. 0.96
+
+>> Escherichiafergusonii.564.GCF_000968905.2_ASM9689  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.8   0.0   0.00037        66       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   74.5   0.1   8.7e-23   1.5e-17      28      88 .]     254     306 ..     236     306 .. 0.86
+
+>> Pseudomonasjessenii.77298.GCF_003225755.1_ASM3225  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   92.3   2.5   2.4e-28   4.3e-23       9      88 .]      79     150 ..      71     150 .. 0.93
+
+>> Escherichiacoli.562.GCF_000704945.1_ASM70494v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.0   0.0   0.00033        60       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   73.9   0.1   1.4e-22   2.4e-17      28      88 .]     254     306 ..     236     306 .. 0.84
+
+>> Escherichiacoli.562.GCF_000511545.1_EcoliFCH1_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.9   0.0   0.00035        63       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   74.0   0.1   1.3e-22   2.3e-17      28      88 .]     254     306 ..     236     306 .. 0.84
+
+>> Escherichiacoli.562.GCF_900607785.1_ecoli012_geno  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.8   0.0   0.00037        67       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   73.9   0.1   1.4e-22   2.5e-17      28      88 .]     254     306 ..     236     306 .. 0.84
+
+>> Escherichiacoli.562.GCF_003145435.1_ASM314543v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.8   0.0   0.00036        65       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   73.8   0.1   1.5e-22   2.6e-17      28      88 .]     254     306 ..     236     306 .. 0.84
+
+>> Escherichiacoli.562.GCF_005402285.1_ASM540228v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.8   0.0   0.00037        67       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   73.7   0.1   1.5e-22   2.7e-17      28      88 .]     254     306 ..     236     306 .. 0.84
+
+>> Escherichiacoli.562.GCF_000496995.1_CE516_1_genom  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.8   0.0   0.00038        68       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   73.8   0.1   1.4e-22   2.5e-17      28      88 .]     254     306 ..     236     306 .. 0.84
+
+>> Shigellaboydii.621.GCF_002968135.1_ASM296813v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.9   0.0   0.00036        64       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   73.7   0.1   1.6e-22   2.8e-17      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Escherichiacoli.562.GCF_005399685.1_ASM539968v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.5   0.0   0.00046        83       5      29 ..     132     156 ..     129     164 .. 0.88
+   2 !   73.4   0.1   1.9e-22   3.4e-17      28      88 .]     254     306 ..     236     306 .. 0.84
+
+>> Escherichiaalbertii.208962.GCF_005404405.1_ASM540  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   21.3   0.6   3.4e-06      0.61       5      71 ..     104     166 ..     101     170 .. 0.84
+   2 !   70.1   0.4   2.1e-21   3.7e-16      26      87 ..     193     247 ..     183     248 .. 0.87
+
+>> Escherichiacoli.562.GCF_006229495.1_ASM622949v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.9   0.0       8.2   1.5e+06      61      74 ..      51      64 ..      18      74 .. 0.87
+   2 !   16.0   0.0   0.00015        27       5      29 ..     132     156 ..     129     164 .. 0.88
+   3 !   67.5   0.0   1.3e-20   2.4e-15      28      85 ..     254     303 ..     236     305 .. 0.84
+
+>> Escherichiacoli.562.GCF_003338135.1_ASM333813v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.2   0.0       3.1   5.5e+05      61      74 ..      51      64 ..      14      74 .. 0.86
+   2 !   21.8   0.0   2.5e-06      0.44       5      29 ..     132     156 ..     128     171 .. 0.85
+   3 !   57.5   0.1   1.8e-17   3.2e-12      28      88 .]     254     306 ..     236     306 .. 0.85
+
+>> Burkholderiacepacia.292.GCF_001039005.1_ASM103900  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   17.7   0.1   4.5e-05         8       2      27 ..      99     124 ..      98     142 .. 0.90
+   2 !   64.9   0.7     9e-20   1.6e-14      32      88 .]     152     203 ..     133     203 .. 0.88
+
+>> Escherichiacoli.562.GCF_003357525.1_ASM335752v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.7   0.0       9.1   1.6e+06      61      74 ..      51      64 ..      18      74 .. 0.88
+   2 !   20.3   0.0   7.2e-06       1.3       5      29 ..     132     156 ..     128     170 .. 0.85
+   3 !   57.8   0.0   1.4e-17   2.6e-12      28      81 ..     254     299 ..     236     300 .. 0.84
+
+>> Pseudomonasfuscovaginae.50340.GCF_000467005.1_ASM  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.9   0.0       4.1   7.3e+05      62      75 ..       4      17 ..       1      29 [. 0.79
+   2 !   77.0   0.0   1.4e-23   2.5e-18       1      66 [.      75     140 ..      75     148 .. 0.96
+
+>> Pseudomonasaeruginosa.287.GCF_000794245.1_AZPAE14  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.4   0.1       1.3   2.3e+05      60      75 ..       2      17 ..       1      28 [. 0.81
+   2 !   67.0   0.0   1.9e-20   3.4e-15       1      60 [.      97     156 .]      97     156 .] 0.98
+
+>> Serratiarubidaea.61652.GCF_901472405.1_28771_E01_  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   13.8   0.0   0.00078   1.4e+02      48      71 ..      87     110 ..      71     121 .. 0.67
+   2 !   49.1   0.2   7.4e-15   1.3e-09      25      88 .]     186     245 ..     174     245 .. 0.81
+
+>> Escherichiacoli.562.GCF_003018695.1_ASM301869v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.3   0.0       2.9   5.2e+05      61      74 ..      51      64 ..      15      74 .. 0.86
+   2 !   22.1   0.0   1.9e-06      0.35       5      29 ..     132     156 ..     129     165 .. 0.88
+   3 !   36.6   0.0     6e-11   1.1e-05      28      69 ..     254     287 ..     236     291 .. 0.78
+
+>> Serratiarubidaea.61652.GCF_001304675.1_ASM130467v  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   12.6   0.0    0.0019   3.3e+02      48      70 ..      87     109 ..      72     121 .. 0.67
+   2 !   47.7   0.2     2e-14   3.6e-09      25      88 .]     186     245 ..     174     245 .. 0.81
+
+>> Enterobactercloacae.550.GCF_000496775.1_EDP2a_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   13.2   0.0    0.0012   2.2e+02       6      30 ..      82     106 ..      70     120 .. 0.70
+   2 !   45.2   0.2   1.2e-13   2.2e-08      32      88 .]     194     247 ..     182     247 .. 0.84
+
+>> Serratiarubidaea.61652.GCF_900635665.1_31769_F01_  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   10.9   0.0     0.006   1.1e+03      48      70 ..      87     109 ..      74     120 .. 0.65
+   2 !   45.9   0.2   7.2e-14   1.3e-08      26      88 .]     187     245 ..     175     245 .. 0.81
+
+>> Serratiarubidaea.61652.GCF_001598675.1_ASM159867v  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   10.9   0.0    0.0061   1.1e+03      48      70 ..      87     109 ..      74     120 .. 0.65
+   2 !   45.9   0.2   7.3e-14   1.3e-08      26      88 .]     187     245 ..     175     245 .. 0.81
+
+>> Serratiarubidaea.61652.GCF_001572725.1_ASM157272v  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   10.9   0.0    0.0061   1.1e+03      48      70 ..      87     109 ..      73     120 .. 0.66
+   2 !   45.9   0.2   7.3e-14   1.3e-08      26      88 .]     187     245 ..     175     245 .. 0.81
+
+>> EnterobacterspR4368.1166130.GCF_000410515.1_ASM41  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   11.8   0.0    0.0032   5.6e+02       6      30 ..      82     106 ..      68     121 .. 0.72
+   2 !   44.4   0.2   2.1e-13   3.8e-08      32      88 .]     196     249 ..     184     249 .. 0.83
+
+>> Enterobacterhormaechei.158836.GCF_003937295.1_ASM  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   56.0   0.0   5.1e-17   9.2e-12       2      63 ..      72     126 ..      71     129 .. 0.94
+
+>> Pseudomonasalcaliphila.101564.GCF_900101755.1_IMG  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    5.3   0.0      0.35   6.2e+04      31      71 ..      80     120 ..      58     126 .. 0.75
+   2 !   47.7   0.0     2e-14   3.6e-09      36      88 .]     170     224 ..     164     224 .. 0.89
+
+>> Pseudomonasmendocina.300.GCF_000725105.2_ASM72510  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    4.5   0.0      0.59   1.1e+05      31      71 ..      80     120 ..      62     126 .. 0.77
+   2 !   47.7   0.0     2e-14   3.6e-09      36      88 .]     170     224 ..     164     224 .. 0.89
+
+>> Salmonellaenterica.28901.GCF_002055025.1_ASM20550  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   52.8   0.4   5.3e-16   9.4e-11       3      60 ..      72     121 .]      71     121 .] 0.96
+
+>> Escherichiacoli.562.GCF_902502655.1_IBESS1204_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   52.0   0.1   9.4e-16   1.7e-10       4      67 ..      73     128 ..      71     133 .. 0.91
+
+>> Shigellaflexneri.623.GCF_001933085.2_ASM193308v2_  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    9.7   0.0     0.014   2.6e+03       4      23 ..      73      92 ..      71     110 .. 0.87
+   2 !   35.8   0.0     1e-10   1.8e-05      61      88 .]     118     145 ..     115     145 .. 0.96
+
+>> PseudomonasspNBRC111127.1661042.GCF_001320345.1_A  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   41.6   0.0   1.7e-12     3e-07       4      53 ..      73     114 .]      70     114 .] 0.94
+
+>> PseudomonasspNFACC172.1566192.GCF_900104075.1_IMG  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.8   0.1      0.99   1.8e+05      60      74 ..       2      16 ..       1      45 [. 0.88
+   2 !   33.3   0.0   6.2e-10   0.00011       1      35 [.      75     109 ..      75     110 .] 0.95
+
+>> Salmonellaenterica.28901.GCF_001214785.1_5275_7_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.4   0.4   1.4e-10   2.5e-05       3      52 ..      72     119 ..      71     123 .. 0.87
+
+>> Serratiamarcescens.615.GCF_003204685.1_ASM320468v  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.6   0.1       2.5   4.4e+05      63      87 ..       3      27 ..       1      28 [. 0.72
+   2 !   28.2   0.1   2.5e-08    0.0045       5      29 ..      89     113 ..      86     115 .] 0.91
+
+>> Serratiamarcescens.615.GCF_006974205.1_ASM697420v  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.1   0.1       6.8   1.2e+06      63      87 ..       3      27 ..       1      28 [. 0.71
+   2 !   28.1   0.0   2.7e-08    0.0048      67      88 .]     142     163 ..     134     163 .. 0.90
+
+>> Escherichiacoli.562.GCF_003290785.1_ASM329078v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.2   0.0       3.2   5.7e+05      61      74 ..      51      64 ..      18      74 .. 0.89
+   2 !   22.0   0.0   2.1e-06      0.38       5      29 ..     132     156 ..     129     165 .. 0.87
+   3 ?    2.1   0.0       3.5   6.3e+05      28      55 ..     254     273 ..     236     286 .. 0.74
+
+>> Escherichiacoli.562.GCF_900448575.1_37419_H01_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.4   0.0       1.3   2.4e+05      61      74 ..      51      64 ..      14      75 .. 0.82
+   2 !   24.3   0.0   4.1e-07     0.074       5      30 ..     132     157 ..     130     175 .. 0.77
+
+>> Escherichiacoli.562.GCF_002511505.1_ASM251150v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.7   0.0       1.1   1.9e+05      61      74 ..      51      64 ..       9      75 .. 0.87
+   2 !   23.5   0.1   7.3e-07      0.13       5      29 ..     132     156 ..     129     167 .. 0.85
+
+>> Escherichiacoli.562.GCF_002536795.1_ASM253679v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.7   0.0       1.1     2e+05      61      74 ..      51      64 ..       9      75 .. 0.87
+   2 !   23.1   0.0   9.3e-07      0.17       5      29 ..     132     156 ..     129     163 .. 0.87
+
+>> Escherichiacoli.562.GCF_000969495.1_ASM96949v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.7   0.0       1.1   1.9e+05      61      74 ..      51      64 ..       9      75 .. 0.84
+   2 !   23.0   0.0     1e-06      0.18       5      29 ..     132     156 ..     129     161 .. 0.87
+
+>> Escherichiacoli.562.GCF_005388745.1_ASM538874v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.4   0.0       1.4   2.5e+05      61      74 ..      51      64 ..      14      75 .. 0.84
+   2 !   23.1   0.0   9.8e-07      0.17       5      29 ..     132     156 ..     129     171 .. 0.86
+
+>> Escherichiacoli.562.GCF_003460245.1_ASM346024v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.4   0.0       1.4   2.5e+05      61      74 ..      51      64 ..      14      75 .. 0.84
+   2 !   23.1   0.0   9.8e-07      0.17       5      29 ..     132     156 ..     129     171 .. 0.86
+
+>> Escherichiacoli.562.GCF_006238805.1_ASM623880v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.3   0.0       1.4   2.5e+05      61      74 ..      51      64 ..      14      75 .. 0.84
+   2 !   23.0   0.0     1e-06      0.19       5      29 ..     132     156 ..     129     164 .. 0.88
+
+>> Escherichiacoli.562.GCF_003290845.1_ASM329084v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.0   0.0       1.8   3.2e+05      61      74 ..      51      64 ..      17      75 .. 0.88
+   2 !   22.7   0.0   1.3e-06      0.23       5      29 ..     132     156 ..     129     167 .. 0.88
+
+>> Escherichiacoli.562.GCF_900480075.1_17261_8_4_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.2   0.0       1.5   2.8e+05      61      74 ..      51      64 ..      13      75 .. 0.87
+   2 !   22.8   0.0   1.2e-06      0.21       5      29 ..     132     156 ..     129     166 .. 0.88
+
+>> Escherichiacoli.562.GCF_002941405.1_ASM294140v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.3   0.1         3   5.4e+05      61      74 ..      51      64 ..       6      75 .. 0.79
+   2 !   23.3   0.0   8.3e-07      0.15       5      29 ..     132     156 ..     129     176 .. 0.84
+
+>> Escherichiacoli.562.GCF_002909275.1_ASM290927v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.8   0.0         2   3.6e+05      61      74 ..      51      64 ..      13      75 .. 0.87
+   2 !   22.5   0.0   1.5e-06      0.27       5      29 ..     132     156 ..     129     166 .. 0.88
+
+>> Escherichiacoli.562.GCF_002460645.1_ASM246064v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.8   0.0       2.1   3.8e+05      61      74 ..      51      64 ..      15      75 .. 0.85
+   2 !   22.3   0.0   1.7e-06       0.3       5      29 ..     132     156 ..     129     165 .. 0.87
+
+>> Escherichiacoli.562.GCF_002475345.1_ASM247534v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.6   0.0       2.3   4.2e+05      61      74 ..      51      64 ..      18      75 .. 0.88
+   2 !   22.3   0.0   1.7e-06       0.3       5      29 ..     132     156 ..     129     165 .. 0.87
+
+>> Escherichiacoli.562.GCF_000812255.1_ASM81225v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.3   0.0         3   5.3e+05      61      74 ..      51      64 ..      17      74 .. 0.89
+   2 !   22.1   0.0     2e-06      0.35       5      29 ..     132     156 ..     129     165 .. 0.87
+
+>> Escherichiacoli.562.GCF_900009835.1_EF476_contigs  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.8   0.1       2.1   3.8e+05      61      74 ..      51      64 ..       6      75 .. 0.79
+   2 !   22.0   0.0   2.1e-06      0.37       5      28 ..     132     155 ..     116     163 .. 0.79
+
+>> Escherichiacoli.562.GCF_002941495.1_ASM294149v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.1   0.0       3.5   6.2e+05      61      74 ..      51      64 ..      15      74 .. 0.88
+   2 ?   21.9   0.0   2.3e-06      0.42       5      29 ..     132     156 ..     129     165 .. 0.87
+
+>> Escherichiacoli.562.GCF_001749665.1_ASM174966v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.8   0.0       4.2   7.5e+05      61      74 ..      51      64 ..      16      74 .. 0.89
+   2 ?   21.6   0.0   2.8e-06       0.5       5      29 ..     132     156 ..     129     164 .. 0.87
+
+>> Shigellasonnei.624.GCF_001254035.1_5236_2_11_geno  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.8   0.0         1   1.9e+05      61      74 ..      51      64 ..       9      75 .. 0.84
+   2 ?   18.9   0.0     2e-05       3.6       5      29 ..     132     156 ..     129     166 .. 0.87
+
+>> Escherichiacoli.562.GCF_900474495.1_38344_F01_gen  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   19.8   0.0     1e-05       1.8       5      29 ..     132     156 ..     129     164 .. 0.87
+
+>> Salmonellaenterica.28901.GCF_008362985.1_ASM83629  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   22.6   0.0   1.4e-06      0.24       3      27 ..      72      96 ..      71     101 .. 0.90
+
+>> Escherichiacoli.562.GCF_002485775.1_ASM248577v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   20.2   0.0   7.8e-06       1.4       5      29 ..     132     156 ..     129     164 .. 0.87
+
+>> Escherichiacoli.562.GCF_006229865.1_ASM622986v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.1   0.0       1.7     3e+05      61      74 ..      51      64 ..      15      75 .. 0.85
+   2 ?   18.1   0.0   3.6e-05       6.4       5      29 ..     132     156 ..     129     165 .. 0.89
+
+>> Shigellasonnei.624.GCF_001246675.1_6551_1_10_geno  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.1   0.0       1.7   3.1e+05      61      74 ..      51      64 ..      14      75 .. 0.85
+   2 ?   18.1   0.0   3.6e-05       6.4       5      29 ..     132     156 ..     129     166 .. 0.89
+
+>> Escherichiacoli.562.GCF_006229655.1_ASM622965v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.9   0.0       1.9   3.5e+05      61      74 ..      51      64 ..      15      75 .. 0.85
+   2 ?   17.9   0.0   4.1e-05       7.4       5      29 ..     132     156 ..     129     165 .. 0.89
+
+>> Escherichiacoli.562.GCF_003145915.1_ASM314591v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.4   0.0       2.8     5e+05      61      74 ..      51      64 ..      15      74 .. 0.86
+   2 ?   17.5   0.0   5.3e-05       9.5       5      29 ..     132     156 ..     129     165 .. 0.89
+
+>> Escherichiacoli.562.GCF_006236005.1_ASM623600v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.4   0.0       2.7   4.9e+05      61      74 ..      51      64 ..      15      74 .. 0.86
+   2 ?   17.5   0.0   5.4e-05       9.6       5      29 ..     132     156 ..     129     165 .. 0.89
+
+>> Escherichiacoli.562.GCF_000704025.1_ASM70402v1_ge  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.1   0.0       3.4     6e+05      61      74 ..      51      64 ..      14      74 .. 0.86
+   2 ?   17.2   0.0   6.4e-05        11       5      29 ..     132     156 ..     129     165 .. 0.89
+
+>> EnterobacterspDE0047.2584949.GCF_007680145.1_ASM7  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    6.2   0.4      0.18   3.2e+04      63      88 .]       3      28 ..       1      28 [. 0.88
+   2 ?   15.2   0.1   0.00028        50       4      20 ..      88     104 .]      85     104 .] 0.78
+
+>> Escherichiacoli.562.GCF_006229965.1_ASM622996v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.0   0.0       7.5   1.3e+06      61      74 ..      51      64 ..      17      74 .. 0.87
+   2 ?   16.1   0.0   0.00014        25       5      29 ..     132     156 ..     129     164 .. 0.88
+
+>> Escherichiacoli.562.GCF_001891805.1_ASM189180v1_g  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.1   0.1       1.7   3.1e+05      61      74 ..      54      67 ..       8      78 .. 0.76
+   2 ?   14.2   0.1   0.00056     1e+02       5      22 ..     135     152 .]     131     152 .] 0.87
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (88 nodes)
+Target sequences:                          271  (255131 residues searched)
+Passed MSV filter:                       269  (0.99262); expected 5.4 (0.02)
+Passed bias filter:                      269  (0.99262); expected 5.4 (0.02)
+Passed Vit filter:                       258  (0.95203); expected 0.3 (0.001)
+Passed Fwd filter:                       256  (0.944649); expected 0.0 (1e-05)
+Initial search space (Z):           45638612  [as set by --Z on cmdline]
+Domain search space  (domZ):             256  [number of targets reported over threshold]
+# CPU time: 0.87u 0.01s 00:00:00.88 Elapsed: 00:00:00.89
+# Mc/sec: 25.23
+//
+[ok]
