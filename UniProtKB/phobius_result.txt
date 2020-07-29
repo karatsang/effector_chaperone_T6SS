@@ -1,0 +1,402 @@
+ID   notm_Shigellasonnei_A0A3Z4DQX4_SHISO
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    379       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3P5DMN0_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1441       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3T4D2E9_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1207       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A4T6J3V0_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1613       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3Z9CHV0_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1610       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A0L1CCN2_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1620       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3Z8Z747_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1599       NON CYTOPLASMIC.
+//
+ID   notm_EscherichiacolistrainATCC9637CCM2024DSM1116NCIMB8666NRRLB766W_A0A0H3ETC9_ECOLW
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1606       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A2H2UKJ6_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    767       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A403LUE5_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1259       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A4Y8DWN0_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1617       NON CYTOPLASMIC.
+//
+ID   notm_EscherichiacolistrainSE11_B6I1I8_ECOSE
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1619       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3U6DZG9_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    411       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A2A3UJV3_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1578       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A2X1NX29_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    328       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli242707S4C3_A0A073G164_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1199       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3L9J1V1_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    521       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3U6AFV0_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1092       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3T5TWL8_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1153       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A377C3M6_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1619       NON CYTOPLASMIC.
+//
+ID   notm_EscherichiacoliTA447_A0A1X3J4J6_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1628       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3W5XXA9_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1609       NON CYTOPLASMIC.
+//
+ID   notm_Shigellaboydii96558_I6DU35_SHIBO
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1564       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3Z9KHU0_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1512       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3W3G7V2_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1323       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A2T3UZM5_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1608       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A0K3VLQ9_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1619       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3Z8QVZ0_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1601       NON CYTOPLASMIC.
+//
+ID   notm_EscherichiacoliKTE75_L3QDQ8_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1379       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli908573_V0YFR8_ECOLX
+FT   TOPO_DOM      1     64       CYTOPLASMIC.
+FT   TRANSMEM     65     81       
+FT   TOPO_DOM     82     86       NON CYTOPLASMIC.
+FT   TRANSMEM     87    109       
+FT   TOPO_DOM    110    252       CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3W5E2V0_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1506       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3Y5KUZ0_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1482       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A376L0G4_ECOLX
+FT   TOPO_DOM      1     64       CYTOPLASMIC.
+FT   TRANSMEM     65     81       
+FT   TOPO_DOM     82     86       NON CYTOPLASMIC.
+FT   TRANSMEM     87    109       
+FT   TOPO_DOM    110    253       CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A478GVF9_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    269       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3Y8DHZ4_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1574       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A2X5PU26_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1606       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A1V3CIE9_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1645       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3U2E1S3_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    573       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A4Q0WVM3_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1601       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A376MT30_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    469       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A377ECY8_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    770       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A376ZPC3_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    642       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A377FD89_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    705       NON CYTOPLASMIC.
+//
+ID   notm_Shigellaboydii_A0A237FT57_SHIBO
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    818       NON CYTOPLASMIC.
+//
+ID   notm_Shigellaboydii521682_F3WEZ1_9ENTR
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    902       NON CYTOPLASMIC.
+//
+ID   notm_Escherichiacoli_A0A3T7NK21_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91    986       NON CYTOPLASMIC.
+//
+ID   notm_EscherichiacoliLAUEC10_V8KJ00_ECOLX
+FT   TOPO_DOM      1     65       CYTOPLASMIC.
+FT   TRANSMEM     66     90       
+FT   TOPO_DOM     91   1037       NON CYTOPLASMIC.
+//
+ID   notm_CronobacterdublinensissubspdublinensisLMG23823_A0A0K2NX67_9ENTR
+FT   TOPO_DOM      1   1520       NON CYTOPLASMIC.
+//
+ID   notm_Cronobacterturicensis_A0A2T7AUC2_9ENTR
+FT   TOPO_DOM      1    717       NON CYTOPLASMIC.
+//
+ID   notm_CronobacterturicensisstrainDSM18703LMG23827z3032_C9Y459_CROTZ
+FT   TOPO_DOM      1   1523       NON CYTOPLASMIC.
+//
+ID   notm_SerratiarubidaeaSerratiamarinorubra_A0A4U9HM22_SERRU
+FT   TOPO_DOM      1    291       NON CYTOPLASMIC.
+//
+ID   notm_CronobactersakazakiistrainATCCBAA894Enterobactersakazakii_A7MQ50_CROS8
+FT   TOPO_DOM      1   1515       NON CYTOPLASMIC.
+//
+ID   notm_CronobactersakazakiiEnterobactersakazakii_A0A3Q9CK68_CROSK
+FT   TOPO_DOM      1   1523       NON CYTOPLASMIC.
+//
+ID   notm_CronobactersakazakiiEnterobactersakazakii_A0A384ERA8_CROSK
+FT   TOPO_DOM      1   1527       NON CYTOPLASMIC.
+//
+ID   notm_SerratiarubidaeaSerratiamarinorubra_A0A447QD32_SERRU
+FT   TOPO_DOM      1   1483       NON CYTOPLASMIC.
+//
+ID   notm_SerratiarubidaeaSerratiamarinorubra_A0A3S4X0V7_SERRU
+FT   TOPO_DOM      1   1503       NON CYTOPLASMIC.
+//
+ID   notm_TatumellaspOPLPL6_A0A2G8C5L1_9GAMM
+FT   TOPO_DOM      1   1511       NON CYTOPLASMIC.
+//
+ID   notm_Acidovoraxavenaesubspavenae_A0A2R4EBD8_9BURK
+FT   TOPO_DOM      1    113       NON CYTOPLASMIC.
+//
+ID   notm_ErwiniabillingiaestrainEb661_D8MMS3_ERWBE
+FT   TOPO_DOM      1   1532       NON CYTOPLASMIC.
+//
+ID   notm_Cronobactermuytjensii_A0A2T7AHS1_9ENTR
+FT   TOPO_DOM      1    907       NON CYTOPLASMIC.
+//
+ID   notm_Cronobactermalonaticus_V5TU15_9ENTR
+FT   TOPO_DOM      1   1519       NON CYTOPLASMIC.
+//
+ID   notm_CronobacteruniversalisNCTC9529_A0A376DW80_9ENTR
+FT   TOPO_DOM      1   1522       NON CYTOPLASMIC.
+//
+ID   notm_MassiliaspSOD_A0A430HNW0_9BURK
+FT   TOPO_DOM      1    111       NON CYTOPLASMIC.
+//
+ID   notm_Tahibacteraquaticus_A0A4R6Z6U7_9GAMM
+FT   TOPO_DOM      1    111       NON CYTOPLASMIC.
+//
+ID   notm_Xanthomonadalesbacterium6970_A0A1Q4FV57_9GAMM
+FT   TOPO_DOM      1    111       NON CYTOPLASMIC.
+//
+ID   notm_PseudomonasspDMKUBBB304_A0A553GT80_9PSED
+FT   TOPO_DOM      1    112       NON CYTOPLASMIC.
+//
+ID   notm_PseudomonasspDMKUBBB304_A0A553GU87_9PSED
+FT   TOPO_DOM      1    112       NON CYTOPLASMIC.
+//
+ID   notm_Chondromycescrocatus_A0A0K1EKE4_CHOCO
+FT   TOPO_DOM      1    131       NON CYTOPLASMIC.
+//
+ID   3reg_Pseudomonassp43mfcvi11_A0A2V1YCC8_9PSED
+FT   TOPO_DOM      1     16       CYTOPLASMIC.
+FT   TRANSMEM     17     39       
+FT   TOPO_DOM     40     44       NON CYTOPLASMIC.
+FT   TRANSMEM     45     66       
+FT   TOPO_DOM     67    185       CYTOPLASMIC.
+FT   TRANSMEM    186    215       
+FT   TOPO_DOM    216    234       NON CYTOPLASMIC.
+FT   TRANSMEM    235    252       
+FT   TOPO_DOM    253    403       CYTOPLASMIC.
+//
+ID   3reg_Pseudomonasfluorescens_A0A161H4G4_PSEFL
+FT   TOPO_DOM      1     16       CYTOPLASMIC.
+FT   TRANSMEM     17     39       
+FT   TOPO_DOM     40     44       NON CYTOPLASMIC.
+FT   TRANSMEM     45     66       
+FT   TOPO_DOM     67    182       CYTOPLASMIC.
+FT   TRANSMEM    183    215       
+FT   TOPO_DOM    216    234       NON CYTOPLASMIC.
+FT   TRANSMEM    235    252       
+FT   TOPO_DOM    253    421       CYTOPLASMIC.
+//
+ID   3reg_Pseudomonasbrassicacearum_A0A423FRI8_9PSED
+FT   TOPO_DOM      1     16       CYTOPLASMIC.
+FT   TRANSMEM     17     39       
+FT   TOPO_DOM     40     44       NON CYTOPLASMIC.
+FT   TRANSMEM     45     66       
+FT   TOPO_DOM     67    185       CYTOPLASMIC.
+FT   TRANSMEM    186    215       
+FT   TOPO_DOM    216    234       NON CYTOPLASMIC.
+FT   TRANSMEM    235    252       
+FT   TOPO_DOM    253    457       CYTOPLASMIC.
+//
+ID   3reg_PseudomonasspSHC52_A0A0A1HR54_9PSED
+FT   TOPO_DOM      1     12       NON CYTOPLASMIC.
+FT   TRANSMEM     13     39       
+FT   TOPO_DOM     40     45       CYTOPLASMIC.
+FT   TRANSMEM     46     66       
+FT   TOPO_DOM     67    116       NON CYTOPLASMIC.
+FT   TRANSMEM    117    135       
+FT   TOPO_DOM    136    155       CYTOPLASMIC.
+FT   TRANSMEM    156    177       
+FT   TOPO_DOM    178    182       NON CYTOPLASMIC.
+FT   TRANSMEM    183    210       
+FT   TOPO_DOM    211    431       CYTOPLASMIC.
+//
+ID   3reg_PseudomonasspTC11_A0A2T5PFS4_9PSED
+FT   TOPO_DOM      1     16       CYTOPLASMIC.
+FT   TRANSMEM     17     39       
+FT   TOPO_DOM     40     44       NON CYTOPLASMIC.
+FT   TRANSMEM     45     66       
+FT   TOPO_DOM     67    185       CYTOPLASMIC.
+FT   TRANSMEM    186    215       
+FT   TOPO_DOM    216    234       NON CYTOPLASMIC.
+FT   TRANSMEM    235    252       
+FT   TOPO_DOM    253    430       CYTOPLASMIC.
+//
+ID   3reg_PseudomonasgingeriNCPPB3146LMG5327_A0A2K1FLR4_9PSED
+FT   TOPO_DOM      1     16       CYTOPLASMIC.
+FT   TRANSMEM     17     39       
+FT   TOPO_DOM     40     44       NON CYTOPLASMIC.
+FT   TRANSMEM     45     66       
+FT   TOPO_DOM     67    182       CYTOPLASMIC.
+FT   TRANSMEM    183    215       
+FT   TOPO_DOM    216    234       NON CYTOPLASMIC.
+FT   TRANSMEM    235    252       
+FT   TOPO_DOM    253    431       CYTOPLASMIC.
+//
+ID   3reg_Pantoeadispersa_A0A518XJ76_9GAMM
+FT   TOPO_DOM      1    387       NON CYTOPLASMIC.
+//
+ID   3reg_Inquilinuslimosus_A0A211Z7Y4_9PROT
+FT   TOPO_DOM      1     20       CYTOPLASMIC.
+FT   TRANSMEM     21     41       
+FT   TOPO_DOM     42     46       NON CYTOPLASMIC.
+FT   TRANSMEM     47     67       
+FT   TOPO_DOM     68    176       CYTOPLASMIC.
+FT   TRANSMEM    177    203       
+FT   TOPO_DOM    204   1449       NON CYTOPLASMIC.
+//
+ID   3reg_Polyangiumfumosum_A0A4U1JB68_9DELT
+FT   TOPO_DOM      1     19       NON CYTOPLASMIC.
+FT   TRANSMEM     20     43       
+FT   TOPO_DOM     44     49       CYTOPLASMIC.
+FT   TRANSMEM     50     74       
+FT   TOPO_DOM     75    123       NON CYTOPLASMIC.
+FT   TRANSMEM    124    143       
+FT   TOPO_DOM    144    212       CYTOPLASMIC.
+FT   TRANSMEM    213    234       
+FT   TOPO_DOM    235    397       NON CYTOPLASMIC.
+//
+ID   3reg_CaulobacterspUNC279MFTsu51_A0A1I3SLZ6_9CAUL
+FT   TOPO_DOM      1     20       CYTOPLASMIC.
+FT   TRANSMEM     21     43       
+FT   TOPO_DOM     44     48       NON CYTOPLASMIC.
+FT   TRANSMEM     49     74       
+FT   TOPO_DOM     75    183       CYTOPLASMIC.
+FT   TRANSMEM    184    213       
+FT   TOPO_DOM    214   1430       NON CYTOPLASMIC.
+//

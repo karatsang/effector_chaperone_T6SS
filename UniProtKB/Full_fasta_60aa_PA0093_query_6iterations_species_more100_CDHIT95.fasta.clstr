@@ -1,0 +1,2988 @@
+>Cluster 0
+0	1683aa, >LampropediaspYIMMLB... *
+>Cluster 1
+0	1645aa, >Escherichiacoli_A0A... *
+1	1645aa, >EscherichiacoliO157... at 100.00%
+>Cluster 2
+0	1642aa, >Photorhabdusaustral... *
+>Cluster 3
+0	1628aa, >EscherichiacoliTA44... *
+1	1625aa, >Escherichiacoli_A0A... at 97.54%
+2	1625aa, >Escherichiacoli_A0A... at 97.42%
+3	1625aa, >Escherichiacoli_A0A... at 97.48%
+4	1580aa, >Escherichiacoli_A0A... at 96.90%
+5	1589aa, >Escherichiacoli_A0A... at 96.98%
+6	1591aa, >Escherichiacoli_A0A... at 96.98%
+7	1612aa, >Escherichiacoli_A0A... at 96.90%
+8	1616aa, >Escherichiacoli_A0A... at 96.84%
+9	1616aa, >Escherichiacoli_A0A... at 96.97%
+10	1616aa, >EscherichiacoliO55H... at 96.97%
+11	1616aa, >Escherichiacoli_A0A... at 96.97%
+12	1616aa, >Escherichiacoli_A0A... at 96.84%
+13	1616aa, >Escherichiacoli_A0A... at 96.78%
+14	1616aa, >Escherichiacoli_A0A... at 96.84%
+15	1616aa, >Escherichiacoli_A0A... at 96.84%
+16	1616aa, >Escherichiacoli_A0A... at 96.84%
+17	1615aa, >Escherichiacoli_A0A... at 96.90%
+18	1616aa, >Escherichiacoli_A0A... at 96.91%
+19	1616aa, >Escherichiacoli_A0A... at 96.72%
+20	1616aa, >Escherichiacoli_A0A... at 96.78%
+21	1616aa, >Escherichiacoli_A0A... at 96.84%
+22	1616aa, >Escherichiacoli_A0A... at 96.84%
+23	1616aa, >Escherichiacoli_A0A... at 96.84%
+24	1616aa, >Escherichiacoli_A0A... at 96.84%
+25	1616aa, >EscherichiacoliO157... at 96.91%
+26	1616aa, >EscherichiacoliO157... at 96.91%
+27	1616aa, >Escherichiacoli_C5I... at 96.91%
+28	1616aa, >EscherichiacoliO157... at 96.91%
+29	1616aa, >EscherichiacoliXuzh... at 96.91%
+30	1616aa, >Escherichiacoli_A0A... at 96.84%
+31	1616aa, >Escherichiacoli_A0A... at 96.84%
+32	1625aa, >Escherichiacoli_A0A... at 96.86%
+33	1616aa, >Escherichiacoli_A0A... at 96.78%
+>Cluster 4
+0	1620aa, >Escherichiacoli_A0A... *
+1	1620aa, >EnterobacterspECNT1... at 99.69%
+2	1620aa, >Escherichiacoli_A0A... at 99.69%
+3	1620aa, >Escherichiacoli_A0A... at 99.75%
+4	1620aa, >Escherichiacoli_A0A... at 98.64%
+5	1620aa, >Escherichiacoli_A0A... at 98.58%
+6	1620aa, >Escherichiacoli_A0A... at 98.46%
+7	1620aa, >Escherichiacoli_A0A... at 98.46%
+8	1620aa, >EscherichiacoliMS11... at 98.70%
+9	1620aa, >Escherichiacoli_A0A... at 98.70%
+10	1620aa, >Escherichiacoli_A0A... at 98.83%
+11	1620aa, >Escherichiacoli_A0A... at 98.77%
+12	1620aa, >Escherichiacoli_A0A... at 98.46%
+13	1620aa, >Escherichiacoli_A0A... at 98.46%
+14	1579aa, >Shigelladysenteriae... at 97.15%
+15	1579aa, >Shigelladysenteriae... at 97.09%
+16	1607aa, >Escherichiacoli_A0A... at 98.20%
+17	1620aa, >Escherichiacolistra... at 98.33%
+18	1620aa, >EscherichiacoliNCCP... at 98.33%
+19	1620aa, >Escherichiacoli_A0A... at 98.33%
+20	1615aa, >Shigellaboydii_A0A3... at 97.71%
+21	1620aa, >Escherichiacoli_A0A... at 99.20%
+22	1620aa, >Escherichiacoli_A0A... at 97.96%
+23	1620aa, >Escherichiacoli_A0A... at 98.52%
+24	1620aa, >EscherichiacoliMS12... at 98.52%
+25	1620aa, >EscherichiacoliMS84... at 98.52%
+26	1620aa, >EscherichiacoliMS85... at 98.52%
+27	1620aa, >Escherichiacoli_A0A... at 97.84%
+28	1620aa, >Escherichiacoli_A0A... at 97.90%
+29	1611aa, >Escherichiacoli_A0A... at 96.96%
+30	1611aa, >Escherichiacoli_A0A... at 97.08%
+31	1620aa, >Escherichiacoli_A0A... at 98.09%
+32	1620aa, >Escherichiacoli_A0A... at 98.15%
+33	1620aa, >Escherichiacoli_A0A... at 97.65%
+34	1620aa, >Escherichiacoli_A0A... at 97.65%
+35	1620aa, >Escherichiacoli_A0A... at 98.15%
+36	1620aa, >Escherichiacoli_A0A... at 98.15%
+37	1620aa, >Escherichiacoli_A0A... at 98.21%
+38	1620aa, >Escherichiacoli_A0A... at 98.15%
+39	1620aa, >Escherichiacoli9702... at 97.72%
+40	1620aa, >Escherichiacoli_A0A... at 98.33%
+41	1620aa, >Escherichiacoli_A0A... at 98.27%
+42	1620aa, >Escherichiacoli_A0A... at 97.96%
+43	1620aa, >Escherichiacoli_A0A... at 97.72%
+44	1620aa, >Escherichiacoli_A0A... at 96.73%
+45	1620aa, >Escherichiacoli_A0A... at 96.30%
+46	1620aa, >Escherichiacoli_A0A... at 98.09%
+47	1600aa, >EscherichiacoliO139... at 98.31%
+48	1620aa, >Escherichiacoli_A0A... at 98.09%
+49	1620aa, >Escherichiacoli_A0A... at 97.90%
+>Cluster 5
+0	1619aa, >Escherichiacolistra... *
+1	1619aa, >Escherichiacoli_A0A... at 96.60%
+>Cluster 6
+0	1619aa, >Escherichiacoli_A0A... *
+>Cluster 7
+0	1619aa, >Escherichiacoli_A0A... *
+1	1619aa, >Escherichiacoli_A0A... at 99.94%
+>Cluster 8
+0	1617aa, >Escherichiacoli_A0A... *
+1	1617aa, >Escherichiacoli_A0A... at 99.01%
+2	1617aa, >Escherichiacoli_A0A... at 99.07%
+3	1610aa, >EscherichiacoliO174... at 99.07%
+4	1617aa, >Escherichiacoli_A0A... at 97.71%
+5	1617aa, >Escherichiacoli_A0A... at 96.17%
+6	1617aa, >Escherichiacoli_A0A... at 96.23%
+7	1617aa, >Klebsiellaoxytoca_A... at 96.23%
+8	1617aa, >Escherichiacoli_A0A... at 96.17%
+>Cluster 9
+0	1613aa, >Escherichiacoli_A0A... *
+1	1613aa, >Escherichiacoli_A0A... at 99.88%
+2	1613aa, >Escherichiacoli_A0A... at 97.64%
+3	1589aa, >Escherichiacoli_A0A... at 97.55%
+4	1613aa, >EscherichiacoliMS14... at 97.77%
+5	1613aa, >Escherichiacoli_A0A... at 98.26%
+>Cluster 10
+0	1610aa, >Escherichiacoli_A0A... *
+1	1610aa, >EscherichiacoliMS11... at 99.94%
+2	1610aa, >Escherichiacoli_A0A... at 98.20%
+3	1610aa, >Escherichiacoli_A0A... at 97.58%
+4	1610aa, >Escherichiacoli_A0A... at 97.64%
+5	1610aa, >EscherichiacoliM056... at 97.64%
+6	1610aa, >Escherichiacoli_A0A... at 97.33%
+7	1610aa, >Escherichiacoli_A0A... at 97.70%
+8	1610aa, >Escherichiacoli_A0A... at 97.64%
+9	1610aa, >Escherichiacoli_A0A... at 97.70%
+>Cluster 11
+0	1609aa, >Escherichiacoli_A0A... *
+1	1609aa, >Escherichiacoli_A0A... at 97.95%
+2	1609aa, >Escherichiacoli_A0A... at 96.64%
+>Cluster 12
+0	1608aa, >Escherichiacoli_A0A... *
+1	1608aa, >Escherichiacoli_A0A... at 96.77%
+>Cluster 13
+0	1606aa, >Escherichiacolistra... *
+1	1606aa, >Escherichiacoli9907... at 98.01%
+2	1606aa, >Escherichiacoli_A0A... at 97.95%
+3	1606aa, >Escherichiacoli_A0A... at 98.01%
+>Cluster 14
+0	1595aa, >Escherichiacoli1132... at 99.37%
+1	1606aa, >Escherichiacoli_A0A... *
+2	1606aa, >Escherichiacoli_A0A... at 99.88%
+3	1606aa, >Escherichiacoli_A0A... at 99.81%
+>Cluster 15
+0	1606aa, >Frischellaperrara_A... *
+>Cluster 16
+0	1605aa, >Frischellaperrara_A... *
+>Cluster 17
+0	1601aa, >Escherichiacoli_A0A... *
+1	1601aa, >Escherichiacoli_A0A... at 96.50%
+2	1601aa, >Escherichiacoli_A0A... at 98.13%
+>Cluster 18
+0	1601aa, >Escherichiacoli_A0A... *
+>Cluster 19
+0	1599aa, >Escherichiacoli_A0A... *
+1	1599aa, >Escherichiacoli_A0A... at 99.19%
+2	1599aa, >Escherichiacoli_A0A... at 97.56%
+3	1599aa, >Escherichiacoli_A0A... at 98.12%
+4	1599aa, >EscherichiacoliO118... at 98.19%
+5	1599aa, >EscherichiacoliO111... at 98.19%
+6	1599aa, >Escherichiacoli_A0A... at 98.19%
+7	1598aa, >Escherichiacoli_A0A... at 98.06%
+8	1599aa, >EscherichiacoliO111... at 98.06%
+9	1599aa, >EscherichiacoliO111... at 98.06%
+10	1599aa, >Escherichiacoli4052... at 98.06%
+11	1599aa, >Escherichiacoli_A0A... at 98.06%
+12	1599aa, >EscherichiacoliO11_... at 98.06%
+13	1599aa, >Escherichiacoli_A0A... at 98.00%
+14	1599aa, >Escherichiacoli_A0A... at 98.00%
+15	1599aa, >Escherichiacoli_A0A... at 98.06%
+16	1599aa, >Escherichiacoli_A0A... at 96.31%
+17	1599aa, >Escherichiacoli_A0A... at 96.31%
+18	1599aa, >Escherichiacoli_A0A... at 97.37%
+19	1599aa, >Escherichiacoli_A0A... at 96.62%
+20	1599aa, >Escherichiacoli_A0A... at 96.56%
+>Cluster 20
+0	1596aa, >Acidovoraxsp99_A0A2... at 96.74%
+1	1597aa, >Acidovoraxkalamii_A... *
+>Cluster 21
+0	1590aa, >SerratiafonticolaAU... *
+>Cluster 22
+0	1586aa, >Actinobacillusrossi... *
+>Cluster 23
+0	1584aa, >Acidovoraxavenaestr... *
+>Cluster 24
+0	1579aa, >Salmonellaentericas... *
+>Cluster 25
+0	1578aa, >Escherichiacoli_A0A... *
+1	1578aa, >Escherichiacoli_A0A... at 99.87%
+2	1578aa, >Escherichiacoli_A0A... at 99.94%
+3	1578aa, >EscherichiacoliO26_... at 99.94%
+4	1578aa, >EscherichiacoliO69H... at 99.94%
+>Cluster 26
+0	1578aa, >Providenciastuartii... *
+>Cluster 27
+0	1574aa, >Escherichiacoli_A0A... *
+>Cluster 28
+0	1573aa, >Providenciastuartii... *
+>Cluster 29
+0	1570aa, >Morganellapsychroto... *
+>Cluster 30
+0	1570aa, >Providenciastuartii... *
+>Cluster 31
+0	1567aa, >Burkholderiapuraqua... *
+>Cluster 32
+0	1566aa, >Xenorhabdusstockiae... *
+>Cluster 33
+0	1566aa, >Proteusmirabilis_A0... *
+>Cluster 34
+0	1564aa, >Shigellaboydii96558... *
+>Cluster 35
+0	1561aa, >Ralstoniasolanacear... *
+>Cluster 36
+0	1561aa, >Providenciastuartii... *
+>Cluster 37
+0	1560aa, >Xenorhabdusdoucetia... *
+>Cluster 38
+0	1560aa, >MorganellamorganiiP... *
+>Cluster 39
+0	1560aa, >Erwiniaamylovorastr... *
+>Cluster 40
+0	1553aa, >Burkholderiasp20027... *
+1	1553aa, >BurkholderiaspMSMB1... at 99.61%
+2	1553aa, >Burkholderiathailan... at 99.55%
+>Cluster 41
+0	1553aa, >Burkholderiathailan... *
+1	1553aa, >Burkholderiathailan... at 100.00%
+2	1553aa, >Burkholderiathailan... at 99.81%
+>Cluster 42
+0	1552aa, >Xenorhabdusdoucetia... *
+>Cluster 43
+0	1548aa, >Enterobacillustribo... *
+>Cluster 44
+0	1547aa, >XenorhabdusspKK74_A... *
+>Cluster 45
+0	1547aa, >Chaniamultitudinise... *
+>Cluster 46
+0	1546aa, >Escherichiacoli_A0A... *
+1	1546aa, >Escherichiacoli_A0A... at 99.74%
+2	1546aa, >Escherichiacoli_A0A... at 99.87%
+3	1546aa, >Escherichiacoli_A0A... at 99.81%
+>Cluster 47
+0	1545aa, >Xenorhabdusinnexi_A... *
+>Cluster 48
+0	1545aa, >Serratiafonticola_A... *
+>Cluster 49
+0	1544aa, >Polyangiumbrachyspo... *
+>Cluster 50
+0	1544aa, >Xenorhabdusvietname... *
+>Cluster 51
+0	1542aa, >Photorhabdustempera... *
+>Cluster 52
+0	1541aa, >Burkholderiapseudom... *
+1	1541aa, >Burkholderiapseudom... at 99.87%
+2	1541aa, >Burkholderiapseudom... at 99.81%
+3	1541aa, >Burkholderiapseudom... at 100.00%
+4	1541aa, >Burkholderiapseudom... at 99.81%
+5	1541aa, >Burkholderiapseudom... at 99.94%
+6	1541aa, >Burkholderiapseudom... at 99.81%
+7	1541aa, >BurkholderiamalleiP... at 99.74%
+8	1541aa, >Burkholderiamalleis... at 99.74%
+9	1541aa, >Burkholderiapseudom... at 99.68%
+10	1541aa, >Burkholderiapseudom... at 99.68%
+11	1541aa, >Burkholderiapseudom... at 99.81%
+12	1541aa, >Burkholderiapseudom... at 99.74%
+13	1541aa, >BurkholderiamalleiG... at 99.74%
+14	1541aa, >Burkholderiapseudom... at 99.94%
+15	1541aa, >Burkholderiapseudom... at 99.87%
+16	1541aa, >Burkholderiapseudom... at 99.87%
+17	1541aa, >Burkholderiapseudom... at 99.68%
+18	1541aa, >Burkholderiapseudom... at 99.94%
+19	1541aa, >Burkholderiapseudom... at 99.87%
+20	1541aa, >Burkholderiapseudom... at 99.87%
+21	1541aa, >Burkholderiapseudom... at 99.94%
+>Cluster 53
+0	1540aa, >PhotorhabduskhaniiN... *
+>Cluster 54
+0	1540aa, >ErwiniaamylovoraATC... *
+>Cluster 55
+0	1539aa, >Ralstoniasolanacear... *
+1	1539aa, >Ralstoniasolanacear... at 96.95%
+>Cluster 56
+0	1538aa, >Ralstoniasolanacear... *
+>Cluster 57
+0	1537aa, >BurkholderiaspAU4i_... *
+>Cluster 58
+0	1535aa, >EwingellaamericanaA... *
+1	1535aa, >Ewingellaamericana_... at 100.00%
+>Cluster 59
+0	1534aa, >SerratiaspMYb239_A0... *
+>Cluster 60
+0	1533aa, >Burkholderiaanthina... *
+1	1533aa, >BurkholderiaspAU173... at 97.39%
+>Cluster 61
+0	1533aa, >Burkholderiapyrroci... *
+>Cluster 62
+0	1532aa, >Erwiniabillingiaest... *
+>Cluster 63
+0	1530aa, >Xenorhabdusbovienii... *
+1	1530aa, >Xenorhabdusbovienii... at 99.08%
+2	1530aa, >Xenorhabdusbovienii... at 99.02%
+3	1530aa, >Xenorhabdusbovienii... at 99.15%
+>Cluster 64
+0	1529aa, >Caballeroniaudeis_A... *
+>Cluster 65
+0	1529aa, >VariovoraxspOK202_A... *
+>Cluster 66
+0	1528aa, >Caballeroniaudeis_A... *
+>Cluster 67
+0	1528aa, >Photorhabdustempera... *
+>Cluster 68
+0	1528aa, >CitrobacteryoungaeA... *
+>Cluster 69
+0	1527aa, >Cronobactersakazaki... *
+>Cluster 70
+0	1527aa, >Yersiniapseudotuber... *
+>Cluster 71
+0	1526aa, >Trinickiacaryophyll... *
+>Cluster 72
+0	1526aa, >Serratiasp3ACOL1_A0... *
+>Cluster 73
+0	1525aa, >Pluralibactergergov... *
+1	1525aa, >Pluralibactergergov... at 95.15%
+>Cluster 74
+0	1525aa, >KosakoniaspCCTCCM20... *
+>Cluster 75
+0	1525aa, >Xenorhabdusbovienii... *
+1	1525aa, >Xenorhabdusbovienii... at 99.93%
+>Cluster 76
+0	1525aa, >Xenorhabdusbovienii... *
+>Cluster 77
+0	1523aa, >blooddiseasebacteri... *
+1	1523aa, >blooddiseasebacteri... at 100.00%
+>Cluster 78
+0	1523aa, >Cronobacterturicens... *
+>Cluster 79
+0	1523aa, >Cronobactersakazaki... *
+>Cluster 80
+0	1522aa, >Cronobacteruniversa... *
+>Cluster 81
+0	1522aa, >EscherichiacoliB354... *
+>Cluster 82
+0	1521aa, >Ralstoniasolanacear... *
+1	1521aa, >Ralstoniapseudosola... at 99.15%
+2	1521aa, >Ralstoniasolanacear... at 99.34%
+3	1521aa, >Ralstoniasolanacear... at 99.15%
+4	1521aa, >Ralstoniasolanacear... at 99.28%
+>Cluster 83
+0	1521aa, >Mangrovibacterplant... *
+>Cluster 84
+0	1521aa, >Mixtatheicola_A0A2K... *
+>Cluster 85
+0	1521aa, >PasteurellaspWM03_A... *
+>Cluster 86
+0	1520aa, >Cronobacterdublinen... *
+1	1520aa, >Cronobacterdublinen... at 100.00%
+>Cluster 87
+0	1520aa, >Variovoraxsp679_A0A... *
+>Cluster 88
+0	1520aa, >Citrobacterfreundii... *
+>Cluster 89
+0	1520aa, >Yersiniawautersii_A... *
+1	1520aa, >Yersiniapseudotuber... at 99.21%
+>Cluster 90
+0	1519aa, >BurkholderiaspTJI49... *
+>Cluster 91
+0	1519aa, >SerratiarubidaeaSer... *
+>Cluster 92
+0	1519aa, >Cronobactermalonati... *
+>Cluster 93
+0	1518aa, >Variovoraxsp_A0A2E9... *
+1	1518aa, >Variovoraxparadoxus... at 99.01%
+>Cluster 94
+0	1518aa, >Erwiniaaphidicola_A... *
+>Cluster 95
+0	1518aa, >Erwiniapsidii_A0A3N... *
+>Cluster 96
+0	1517aa, >Ralstoniapseudosola... *
+1	1517aa, >Ralstoniasolanacear... at 100.00%
+2	1517aa, >Ralstoniasolanacear... at 99.47%
+3	1517aa, >Ralstoniasolanacear... at 99.34%
+>Cluster 97
+0	1517aa, >Burkholderiamultivo... *
+>Cluster 98
+0	1516aa, >Xenorhabdusstockiae... *
+>Cluster 99
+0	1515aa, >Burkholderiacenocep... *
+1	1515aa, >Burkholderiacenocep... at 100.00%
+2	1515aa, >Burkholderiacepacia... at 96.11%
+>Cluster 100
+0	1515aa, >Cronobactersakazaki... *
+>Cluster 101
+0	1514aa, >MangrovibacterspMFB... *
+>Cluster 102
+0	1512aa, >Yersiniapestis_A0A3... at 100.00%
+1	1512aa, >YersiniapestisbvAnt... at 100.00%
+2	1512aa, >YersiniapestisbvAnt... at 100.00%
+3	1514aa, >Yersiniapestis_Q8D1... *
+4	1513aa, >Yersiniapestis_A0A0... at 99.93%
+>Cluster 103
+0	1513aa, >Variovoraxgossypii_... *
+>Cluster 104
+0	1505aa, >Escherichiacoli_A0A... at 96.94%
+1	1505aa, >Escherichiacoli_A0A... at 96.61%
+2	1505aa, >Escherichiacoli_A0A... at 96.68%
+3	1505aa, >Escherichiacoli_A0A... at 97.21%
+4	1505aa, >Escherichiacoli_A0A... at 98.01%
+5	1505aa, >Escherichiacoli_A0A... at 98.54%
+6	1512aa, >Escherichiacoli_A0A... *
+7	1505aa, >Escherichiacoli_A0A... at 96.88%
+8	1505aa, >Escherichiacoli_A0A... at 97.01%
+9	1505aa, >Escherichiacoli_A0A... at 96.28%
+10	1505aa, >Escherichiacoli_A0A... at 96.35%
+11	1505aa, >Escherichiacoli_A0A... at 96.94%
+12	1505aa, >Escherichiacoli1303... at 96.94%
+13	1505aa, >Escherichiacoli_A0A... at 96.21%
+14	1505aa, >Escherichiacoli_A0A... at 96.94%
+15	1505aa, >Escherichiacoli_A0A... at 96.94%
+16	1505aa, >Escherichiacoli_A0A... at 97.34%
+17	1505aa, >Escherichiacoli_A0A... at 96.88%
+18	1505aa, >Escherichiacoli_A0A... at 96.74%
+19	1505aa, >Escherichiacoli_A0A... at 96.81%
+20	1505aa, >Escherichiacoli_A0A... at 96.74%
+21	1505aa, >Escherichiacoli_A0A... at 97.08%
+22	1505aa, >Escherichiacoli_A0A... at 95.28%
+23	1505aa, >Escherichiacoli_A0A... at 95.42%
+24	1505aa, >Escherichiacoli_A0A... at 95.42%
+25	1505aa, >Escherichiacoli_A0A... at 96.08%
+26	1505aa, >Escherichiacoli_A0A... at 95.28%
+27	1505aa, >Escherichiacoli_A0A... at 95.48%
+28	1505aa, >Escherichiacoli_A0A... at 95.95%
+29	1505aa, >EscherichiacoliUMNK... at 96.21%
+30	1505aa, >Escherichiacoli_A0A... at 96.21%
+>Cluster 105
+0	1512aa, >Variovoraxsp_A0A521... *
+1	1512aa, >VariovoraxspPDC80_A... at 98.02%
+>Cluster 106
+0	1511aa, >TatumellaspOPLPL6_A... *
+>Cluster 107
+0	1509aa, >Kosakoniaoryzae_A0A... *
+>Cluster 108
+0	1509aa, >bacteriasymbiontBFo... *
+1	1509aa, >ErwiniaspOLMDLW33_A... at 99.07%
+>Cluster 109
+0	1509aa, >Yersiniaaldovae_A0A... *
+>Cluster 110
+0	1508aa, >Xenorhabdusbudapest... *
+>Cluster 111
+0	1507aa, >PantoeaspstrainAt9b... *
+>Cluster 112
+0	1507aa, >PantoeaspaB_E0M4Z1_... *
+1	1507aa, >Pantoeaeucalypti_A0... at 99.93%
+>Cluster 113
+0	1507aa, >Serratiafonticola_A... *
+>Cluster 114
+0	1506aa, >Escherichiacoli_A0A... *
+>Cluster 115
+0	1506aa, >Variovoraxguangxien... *
+>Cluster 116
+0	1505aa, >Ewingellaamericana_... *
+>Cluster 117
+0	1504aa, >Burkholderiagladiol... *
+1	1504aa, >Burkholderiagladiol... at 99.67%
+>Cluster 118
+0	1504aa, >Pseudomonasalcaliph... *
+>Cluster 119
+0	1503aa, >SerratiarubidaeaSer... *
+>Cluster 120
+0	1503aa, >Escherichiacoli1133... *
+1	1503aa, >Escherichiacoli_A0A... at 100.00%
+2	1503aa, >Escherichiacoli_A0A... at 99.00%
+>Cluster 121
+0	1503aa, >Pluralibactergergov... *
+>Cluster 122
+0	1501aa, >VariovoraxspYR752_A... *
+>Cluster 123
+0	1501aa, >SalmonellaentericaI... *
+1	1501aa, >SalmonellaentericaI... at 98.13%
+2	1501aa, >SalmonellaentericaI... at 99.93%
+3	1501aa, >SalmonellaentericaI... at 98.93%
+4	1501aa, >Salmonellamontevide... at 98.13%
+5	1501aa, >SalmonellaentericaS... at 98.13%
+6	1501aa, >Salmonellaoranienbe... at 100.00%
+7	1501aa, >SalmonellaentericaI... at 97.20%
+8	1501aa, >SalmonellaentericaI... at 98.13%
+9	1501aa, >SalmonellaentericaI... at 98.13%
+10	1501aa, >SalmonellaentericaI... at 98.27%
+11	1501aa, >SalmonellaentericaS... at 98.07%
+12	1501aa, >Salmonellaentericas... at 98.13%
+13	1501aa, >SalmonellaentericaS... at 98.13%
+14	1501aa, >SalmonellaentericaI... at 98.20%
+>Cluster 124
+0	1501aa, >EnterobacterspWCHEs... *
+>Cluster 125
+0	1500aa, >Enterobactercloacae... *
+>Cluster 126
+0	1486aa, >SalmonellaentericaI... at 97.71%
+1	1499aa, >SalmonellaentericaI... *
+2	1499aa, >SalmonellaentericaI... at 98.20%
+3	1499aa, >Salmonellaentericas... at 98.20%
+4	1499aa, >SalmonellaentericaI... at 99.00%
+5	1499aa, >SalmonellaentericaI... at 99.93%
+6	1499aa, >SalmonellaentericaS... at 99.93%
+7	1499aa, >SalmonellaentericaS... at 97.80%
+8	1499aa, >Salmonellaentericas... at 98.20%
+9	1499aa, >SalmonellaentericaI... at 97.80%
+10	1499aa, >Salmonellaentericas... at 97.87%
+11	1499aa, >SalmonellaentericaS... at 98.60%
+12	1499aa, >Salmonellasenftenbe... at 98.60%
+13	1499aa, >Salmonellaentericas... at 98.20%
+14	1499aa, >SalmonellaentericaI... at 97.87%
+15	1499aa, >SalmonellaentericaS... at 100.00%
+16	1499aa, >SalmonellaentericaS... at 97.73%
+17	1499aa, >SalmonellaentericaS... at 98.53%
+18	1499aa, >Salmonellaentericas... at 97.87%
+19	1499aa, >SalmonellaentericaI... at 98.20%
+20	1499aa, >SalmonellaentericaI... at 97.87%
+>Cluster 127
+0	1498aa, >Burkholderiacenocep... *
+>Cluster 128
+0	1498aa, >Photorhabduslaumond... *
+>Cluster 129
+0	1482aa, >SalmonellaentericaS... at 98.38%
+1	1498aa, >SalmonellaentericaI... *
+2	1498aa, >Salmonellaentericas... at 98.40%
+3	1498aa, >SalmonellaentericaS... at 99.93%
+4	1498aa, >Salmonellaentericas... at 98.40%
+5	1498aa, >SalmonellaentericaI... at 99.93%
+6	1498aa, >SalmonellaentericaI... at 98.40%
+7	1498aa, >SalmonellaentericaS... at 98.40%
+>Cluster 130
+0	1498aa, >SalmonellaentericaS... *
+>Cluster 131
+0	1497aa, >Kosakoniacowanii_A0... *
+>Cluster 132
+0	1497aa, >CaulobacterspRoot14... *
+>Cluster 133
+0	1496aa, >BurkholderiaspSJZ11... *
+1	1496aa, >Burkholderiagladiol... at 99.60%
+2	1496aa, >Burkholderiagladiol... at 99.40%
+>Cluster 134
+0	1496aa, >PantoeaspASPWVM4_U2... *
+>Cluster 135
+0	1496aa, >Tistrellasp_A0A2D8Q... *
+1	1489aa, >Tistrellamobilisstr... at 95.30%
+>Cluster 136
+0	1496aa, >Snodgrassellaalvi_A... *
+>Cluster 137
+0	1495aa, >Burkholderiaambifar... *
+>Cluster 138
+0	1495aa, >PantoeaspGL12022402... *
+>Cluster 139
+0	1494aa, >Burkholderiacenocep... *
+1	1494aa, >Burkholderiacenocep... at 98.39%
+2	1494aa, >Burkholderiacenocep... at 98.39%
+3	1494aa, >Burkholderiacenocep... at 96.99%
+>Cluster 140
+0	1494aa, >BurkholderiaspMSMB1... *
+>Cluster 141
+0	1494aa, >EnterobacterspR4368... *
+>Cluster 142
+0	1492aa, >Kosakoniaoryziphila... *
+>Cluster 143
+0	1492aa, >Enterobactersp18A13... *
+>Cluster 144
+0	1491aa, >Enterobacterkobei_A... *
+>Cluster 145
+0	1491aa, >Pantoeaalhagi_A0A1W... *
+>Cluster 146
+0	1489aa, >Burkholderiaoklahom... *
+>Cluster 147
+0	1488aa, >Xenorhabdusehlersii... *
+>Cluster 148
+0	1487aa, >Burkholderiacenocep... *
+>Cluster 149
+0	1487aa, >XenorhabdusspKK74_A... *
+>Cluster 150
+0	1487aa, >Serratiafonticola_A... *
+>Cluster 151
+0	1486aa, >Granulicellamallens... *
+>Cluster 152
+0	1485aa, >Paraburkholderiaasp... *
+>Cluster 153
+0	1485aa, >VariovoraxspSCN6785... *
+>Cluster 154
+0	1485aa, >Pluralibactergergov... *
+>Cluster 155
+0	1483aa, >SerratiarubidaeaSer... *
+>Cluster 156
+0	1483aa, >Kosakoniaoryzendoph... *
+>Cluster 157
+0	1480aa, >Photorhabdustempera... at 98.99%
+1	1483aa, >Photorhabdustempera... *
+>Cluster 158
+0	1483aa, >Cronobactermuytjens... *
+>Cluster 159
+0	1482aa, >Escherichiacoli_A0A... *
+>Cluster 160
+0	1482aa, >Janthinobacteriumsp... *
+>Cluster 161
+0	1481aa, >Photorhabduslumines... *
+>Cluster 162
+0	1481aa, >EnterobacterspR4368... *
+>Cluster 163
+0	1480aa, >Burkholderiacepacia... *
+>Cluster 164
+0	1479aa, >Serratiafonticola_A... *
+>Cluster 165
+0	1479aa, >VariovoraxspPMC12_A... *
+>Cluster 166
+0	1479aa, >Xenorhabduscabanill... *
+>Cluster 167
+0	1477aa, >Xenorhabdusdoucetia... *
+>Cluster 168
+0	1477aa, >Enterobactercloacae... *
+>Cluster 169
+0	1476aa, >Xenorhabdusnematoph... *
+1	1476aa, >Xenorhabdusnematoph... at 96.82%
+2	1476aa, >Xenorhabdusnematoph... at 96.82%
+>Cluster 170
+0	1476aa, >Tistrellasp_A0A2E3E... *
+>Cluster 171
+0	1475aa, >Ralstoniasolanacear... *
+>Cluster 172
+0	1475aa, >Xenorhabdusjaponica... *
+>Cluster 173
+0	1475aa, >Serratiafonticola_A... *
+>Cluster 174
+0	1475aa, >Photorhabdustempera... *
+>Cluster 175
+0	1475aa, >Nitrospirillumamazo... *
+>Cluster 176
+0	1475aa, >KosakoniaspAG348_A0... *
+>Cluster 177
+0	1475aa, >Kosakoniaradicincit... *
+1	1475aa, >Kosakoniaoryzae_A0A... at 100.00%
+>Cluster 178
+0	1474aa, >VariovoraxspBK151_A... *
+>Cluster 179
+0	1474aa, >Pantoeasesami_A0A1M... *
+1	1474aa, >Enterobactercloacae... at 96.95%
+2	1474aa, >Enterobacterhormaec... at 97.01%
+>Cluster 180
+0	1474aa, >Cronobactermalonati... *
+>Cluster 181
+0	1473aa, >Ralstoniasolanacear... *
+1	1473aa, >Ralstoniasolanacear... at 99.05%
+>Cluster 182
+0	1473aa, >Kosakoniaarachidis_... *
+>Cluster 183
+0	1472aa, >Nitrospirillumamazo... *
+>Cluster 184
+0	1471aa, >Janthinobacteriumsp... *
+>Cluster 185
+0	1471aa, >Photorhabduslaumond... *
+>Cluster 186
+0	1471aa, >Paraburkholderiameg... *
+>Cluster 187
+0	1471aa, >Enterobacterasburia... *
+1	1471aa, >Lelliottianimipress... at 96.19%
+>Cluster 188
+0	1471aa, >Enterobactercloacae... *
+>Cluster 189
+0	1469aa, >Photorhabduslumines... *
+>Cluster 190
+0	1469aa, >Enterobacteriaceaeb... *
+1	1469aa, >Enterobacterludwigi... at 99.05%
+>Cluster 191
+0	1469aa, >Enterobactercloacae... *
+>Cluster 192
+0	1469aa, >Enterobactercloacae... *
+>Cluster 193
+0	1467aa, >Nitrospirillumamazo... *
+>Cluster 194
+0	1467aa, >Nitrospirillumamazo... *
+>Cluster 195
+0	1467aa, >Xenorhabdusvietname... *
+>Cluster 196
+0	1465aa, >Xenorhabdusnematoph... *
+>Cluster 197
+0	1464aa, >Xenorhabdusehlersii... *
+>Cluster 198
+0	1464aa, >Xenorhabdusehlersii... *
+>Cluster 199
+0	1464aa, >Xenorhabdusmiranien... *
+>Cluster 200
+0	1463aa, >Enterobactercloacae... *
+1	1463aa, >Enterobactergenomos... at 95.69%
+>Cluster 201
+0	1463aa, >Enterobactercloacae... *
+>Cluster 202
+0	1463aa, >Pantoeadeleyi_A0A50... *
+>Cluster 203
+0	1463aa, >Cronobactersakazaki... *
+>Cluster 204
+0	1462aa, >Xenorhabdusbovienii... *
+1	1462aa, >Xenorhabdusjaponica... at 98.50%
+>Cluster 205
+0	1462aa, >XenorhabdusspKJ121_... *
+>Cluster 206
+0	1462aa, >Massiliaviolaceinig... *
+>Cluster 207
+0	1462aa, >BrenneriaspCFCC1184... *
+>Cluster 208
+0	1462aa, >Enterobactercloacae... *
+1	1462aa, >Enterobactercloacae... at 95.55%
+2	1462aa, >Enterobactercloacae... at 95.49%
+>Cluster 209
+0	1462aa, >Pantoeaanthophila_A... *
+>Cluster 210
+0	1462aa, >Lelliottianimipress... *
+>Cluster 211
+0	1461aa, >Paraburkholderiacaf... *
+>Cluster 212
+0	1461aa, >Enterobactermori_A0... *
+1	1461aa, >Enterobactermori_A0... at 99.45%
+>Cluster 213
+0	1459aa, >Nitrospirillumamazo... at 97.74%
+1	1460aa, >Nitrospirillumamazo... *
+>Cluster 214
+0	1458aa, >Enterobactercloacae... *
+1	1458aa, >Klebsiellapneumonia... at 99.04%
+>Cluster 215
+0	1457aa, >Burkholderiacenocep... *
+>Cluster 216
+0	1457aa, >BurkholderiaspABCPW... *
+1	1457aa, >Burkholderiapseudom... at 99.31%
+2	1457aa, >Burkholderiacenocep... at 98.49%
+>Cluster 217
+0	1455aa, >Xenorhabdushominick... *
+>Cluster 218
+0	1454aa, >Xenorhabduskozodoii... *
+>Cluster 219
+0	1454aa, >EnterobacterspMGH24... *
+1	1454aa, >Enterobacterasburia... at 98.28%
+2	1454aa, >Enterobacterasburia... at 97.73%
+>Cluster 220
+0	1453aa, >Xenorhabdusmauleoni... *
+>Cluster 221
+0	1453aa, >Photorhabdustempera... *
+1	1453aa, >Photorhabdustempera... at 99.52%
+>Cluster 222
+0	1452aa, >Enterobacterchuanda... *
+>Cluster 223
+0	1451aa, >Photorhabdusasymbio... *
+>Cluster 224
+0	1451aa, >Yersinianurmii_A0A0... *
+>Cluster 225
+0	1449aa, >Marinobacteriumstan... *
+>Cluster 226
+0	1449aa, >Inquilinuslimosus_A... *
+>Cluster 227
+0	1449aa, >Paracoccussiganidru... *
+>Cluster 228
+0	1449aa, >Burkholderiastabili... *
+1	1449aa, >Burkholderiapyrroci... at 97.24%
+>Cluster 229
+0	1448aa, >Methylocaldummarinu... *
+>Cluster 230
+0	1448aa, >AzospirillumspRU38E... *
+>Cluster 231
+0	1448aa, >Xenorhabduskhoisana... *
+>Cluster 232
+0	1445aa, >Burkholderiacepacia... *
+>Cluster 233
+0	1444aa, >Yersiniaentomophaga... *
+>Cluster 234
+0	1444aa, >Photorhabduslumines... *
+>Cluster 235
+0	1444aa, >Burkholderiapyrroci... *
+>Cluster 236
+0	1443aa, >SalmonellaentericaS... *
+>Cluster 237
+0	1443aa, >Paraburkholderiasp7... *
+>Cluster 238
+0	1443aa, >EnterobacterspBIDMC... *
+>Cluster 239
+0	1441aa, >Escherichiacoli_A0A... *
+1	1412aa, >ShigellaboydiiATCC9... at 95.18%
+2	1417aa, >Escherichiacoli_A0A... at 95.20%
+3	1417aa, >EscherichiacoliUMEA... at 95.27%
+4	1417aa, >Escherichiacoli_A0A... at 95.27%
+5	1417aa, >EscherichiacoliO78H... at 95.13%
+>Cluster 240
+0	1440aa, >Trinickiacaryophyll... *
+>Cluster 241
+0	1440aa, >Xenorhabduskoppenho... *
+>Cluster 242
+0	1440aa, >SerratiarubidaeaSer... *
+>Cluster 243
+0	1440aa, >Caulobacterrhizosph... *
+>Cluster 244
+0	1439aa, >Serratiaproteamacul... *
+>Cluster 245
+0	1438aa, >ProvidenciasneebiaD... *
+>Cluster 246
+0	1438aa, >DuganellaspCF458_A0... *
+>Cluster 247
+0	1437aa, >SerratiaspFGI94_L0M... *
+>Cluster 248
+0	1437aa, >BurkholderiaspLS044... *
+>Cluster 249
+0	1437aa, >Burkholderiacepacia... *
+>Cluster 250
+0	1436aa, >Serratiaproteamacul... *
+>Cluster 251
+0	1436aa, >BurkholderiaspNFACC... *
+>Cluster 252
+0	1435aa, >Xenorhabdusbovienii... *
+1	1435aa, >Xenorhabdusbovienii... at 98.26%
+>Cluster 253
+0	1435aa, >Xenorhabdusnematoph... *
+1	1435aa, >Xenorhabdusnematoph... at 100.00%
+>Cluster 254
+0	1435aa, >Erwiniatasmaniensis... *
+>Cluster 255
+0	1434aa, >SerratiarubidaeaSer... *
+>Cluster 256
+0	1433aa, >Ralstoniasolanacear... *
+>Cluster 257
+0	1433aa, >Methylocaldummarinu... *
+>Cluster 258
+0	1433aa, >SerratiaspMYb239_A0... *
+>Cluster 259
+0	1433aa, >Paracoccuslutimaris... *
+>Cluster 260
+0	1432aa, >Ralstoniasolanacear... *
+1	1432aa, >Ralstoniasolanacear... at 100.00%
+2	1432aa, >Ralstoniasolanacear... at 96.16%
+3	1432aa, >Ralstoniasolanacear... at 98.39%
+>Cluster 261
+0	1432aa, >Serratiamarcescens_... *
+>Cluster 262
+0	1431aa, >Xenorhabdusehlersii... *
+>Cluster 263
+0	1431aa, >Xenorhabdusbovienii... *
+>Cluster 264
+0	1430aa, >Trinickiasymbiotica... *
+>Cluster 265
+0	1430aa, >CaulobacterspUNC279... *
+>Cluster 266
+0	1430aa, >BurkholderiaspAU4i_... *
+1	1430aa, >Burkholderiareimsis... at 98.81%
+>Cluster 267
+0	1418aa, >Enterobactercloacae... at 95.13%
+1	1429aa, >Enterobacterroggenk... *
+>Cluster 268
+0	1428aa, >Erwiniapyrifoliaest... *
+>Cluster 269
+0	1428aa, >Erwiniapyrifoliaest... *
+>Cluster 270
+0	1427aa, >Burkholderiacenocep... *
+1	1427aa, >Burkholderiacenocep... at 99.79%
+>Cluster 271
+0	1427aa, >SerratiarubidaeaSer... *
+>Cluster 272
+0	1427aa, >Pectobacteriumatros... *
+>Cluster 273
+0	1426aa, >Pseudomonasamygdali... *
+>Cluster 274
+0	1426aa, >Erwiniaamylovorastr... *
+>Cluster 275
+0	1426aa, >Erwiniabillingiaest... *
+>Cluster 276
+0	1425aa, >BurkholderiaspSJZ11... *
+>Cluster 277
+0	1425aa, >BurkholderiaglumaeP... *
+1	1425aa, >Burkholderiaglumaes... at 100.00%
+>Cluster 278
+0	1425aa, >Escherichiacoli_A0A... *
+>Cluster 279
+0	1425aa, >Janthinobacteriumag... *
+>Cluster 280
+0	1424aa, >Burkholderiagladiol... *
+>Cluster 281
+0	1424aa, >MassiliatimonaeCCUG... *
+1	1420aa, >Massiliatimonae_A0A... at 98.38%
+>Cluster 282
+0	1424aa, >Paracoccusaminovora... *
+>Cluster 283
+0	1424aa, >Photorhabduslaumond... *
+>Cluster 284
+0	1424aa, >SerratiaspOLAL2_A0A... *
+>Cluster 285
+0	1423aa, >Pseudomonasamygdali... *
+1	1423aa, >Pseudomonassyringae... at 100.00%
+>Cluster 286
+0	1423aa, >Photorhabdusasymbio... *
+>Cluster 287
+0	1423aa, >SerratiaodoriferaDS... *
+1	1423aa, >Serratiaodorifera_A... at 100.00%
+>Cluster 288
+0	1423aa, >Yersiniapseudotuber... *
+>Cluster 289
+0	1423aa, >Pectobacteriumparme... *
+>Cluster 290
+0	1422aa, >BurkholderiaspMSHR3... *
+1	1422aa, >Burkholderiaubonens... at 98.73%
+2	1422aa, >Burkholderiaubonens... at 99.16%
+>Cluster 291
+0	1422aa, >SalmonellaentericaS... *
+>Cluster 292
+0	1422aa, >Massiliaviolaceinig... *
+>Cluster 293
+0	1422aa, >PseudomonasspNP285_... *
+1	1422aa, >Pseudomonassyringae... at 98.03%
+>Cluster 294
+0	1422aa, >Yersiniapseudotuber... *
+>Cluster 295
+0	1421aa, >Burkholderiaubonens... *
+1	1421aa, >Burkholderiaubonens... at 98.94%
+2	1421aa, >Burkholderiaubonens... at 99.30%
+>Cluster 296
+0	1421aa, >Burkholderiacontami... *
+1	1421aa, >Burkholderiaseminal... at 95.71%
+2	1421aa, >BurkholderiaspMSMB1... at 97.68%
+>Cluster 297
+0	1421aa, >Burkholderialatens_... *
+>Cluster 298
+0	1421aa, >Xenorhabdusbovienii... *
+>Cluster 299
+0	1421aa, >Xenorhabdusszentirm... *
+>Cluster 300
+0	1421aa, >Klebsiellaoxytoca_A... *
+>Cluster 301
+0	1420aa, >Burkholderiametalli... *
+1	1420aa, >BurkholderiaspKJ006... at 96.48%
+2	1420aa, >Burkholderiapyrroci... at 96.34%
+3	1420aa, >BurkholderiaspABCPW... at 96.76%
+>Cluster 302
+0	1420aa, >BurkholderiaspBp903... *
+>Cluster 303
+0	1420aa, >ParaburkholderiaspD... *
+>Cluster 304
+0	1420aa, >MassiliaspSOD_A0A43... *
+>Cluster 305
+0	1420aa, >Serratiafonticola_A... *
+>Cluster 306
+0	1420aa, >Yersiniapseudotuber... *
+>Cluster 307
+0	1420aa, >Yersiniapseudotuber... *
+>Cluster 308
+0	1420aa, >Yersiniapseudotuber... *
+>Cluster 309
+0	1420aa, >Serratiaficaria_A0A... *
+>Cluster 310
+0	1420aa, >Providenciastuartii... *
+>Cluster 311
+0	1420aa, >Serratiamarcescens_... *
+>Cluster 312
+0	1420aa, >SerratiaspFGI94_L0M... *
+>Cluster 313
+0	1420aa, >Erwiniapiriflorinig... *
+>Cluster 314
+0	1419aa, >Serratiasp142641_A0... *
+>Cluster 315
+0	1419aa, >Yersiniapseudotuber... *
+>Cluster 316
+0	1419aa, >XenorhabdusspKK74_A... *
+>Cluster 317
+0	1419aa, >SerratiarubidaeaSer... *
+>Cluster 318
+0	1419aa, >DuganellaspBJB480_A... *
+>Cluster 319
+0	1419aa, >Yersiniapseudotuber... *
+1	1418aa, >Yersiniasimilis_A0A... at 96.54%
+>Cluster 320
+0	1419aa, >Pectobacteriumatros... *
+>Cluster 321
+0	1418aa, >PseudomonasputidaAr... *
+>Cluster 322
+0	1418aa, >Yersiniapseudotuber... *
+>Cluster 323
+0	1418aa, >Pectobacteriumcarot... *
+>Cluster 324
+0	1417aa, >SerratiarubidaeaSer... *
+1	1417aa, >SerratiaodoriferaDS... at 97.25%
+>Cluster 325
+0	1417aa, >Erwiniatasmaniensis... *
+>Cluster 326
+0	1416aa, >BurkholderiaspSRS46... *
+>Cluster 327
+0	1416aa, >Massiliaviolaceinig... *
+>Cluster 328
+0	1416aa, >Janthinobacteriumsp... *
+>Cluster 329
+0	1416aa, >Serratiaproteamacul... *
+>Cluster 330
+0	1415aa, >Burkholderiamultivo... *
+>Cluster 331
+0	1415aa, >Burkholderiacenocep... *
+1	1415aa, >Burkholderiacenocep... at 98.59%
+2	1415aa, >Burkholderiavietnam... at 98.09%
+3	1415aa, >Burkholderiacenocep... at 100.00%
+4	1415aa, >Burkholderiacenocep... at 97.88%
+>Cluster 332
+0	1415aa, >BurkholderiaspBp901... *
+1	1415aa, >BurkholderiaspLA233... at 98.16%
+>Cluster 333
+0	1415aa, >PseudomonasspRIT412... *
+>Cluster 334
+0	1414aa, >Pseudomonassyringae... at 99.15%
+1	1415aa, >Pseudomonassyringae... *
+>Cluster 335
+0	1415aa, >Pseudomonassyringae... *
+>Cluster 336
+0	1415aa, >Pseudomonassyringae... *
+>Cluster 337
+0	1415aa, >Xenorhabdusmauleoni... *
+>Cluster 338
+0	1415aa, >Serratiamarcescens_... *
+>Cluster 339
+0	1415aa, >Erwiniaamylovorastr... *
+>Cluster 340
+0	1414aa, >PseudomonasspNP285_... *
+1	1414aa, >Pseudomonassyringae... at 99.65%
+>Cluster 341
+0	1414aa, >PantoeaspPNA033_A0A... *
+>Cluster 342
+0	1413aa, >Burkholderiaubonens... *
+1	1413aa, >Burkholderiaubonens... at 99.29%
+2	1413aa, >Burkholderiaubonens... at 99.15%
+3	1413aa, >Burkholderiacepacia... at 98.94%
+4	1370aa, >Burkholderiaubonens... at 97.23%
+>Cluster 343
+0	1413aa, >Burkholderiacenocep... *
+>Cluster 344
+0	1413aa, >Pseudomonassyringae... *
+>Cluster 345
+0	1413aa, >Serratiamarcescens_... *
+>Cluster 346
+0	1413aa, >SerratiaspMYb239_A0... *
+>Cluster 347
+0	1412aa, >Burkholderiaubonens... *
+>Cluster 348
+0	1412aa, >BurkholderiaspHI276... *
+1	1412aa, >Burkholderiaambifar... at 99.01%
+>Cluster 349
+0	1412aa, >BurkholderiaspIDO3_... *
+>Cluster 350
+0	1412aa, >Burkholderiaplantar... *
+1	1412aa, >Burkholderiagladiol... at 98.37%
+2	1412aa, >Burkholderiagladiol... at 97.88%
+>Cluster 351
+0	1412aa, >BurkholderiadolosaA... *
+1	1412aa, >BurkholderiaspAU299... at 100.00%
+>Cluster 352
+0	1412aa, >Enterobactersp18A13... *
+>Cluster 353
+0	1411aa, >PseudomonasputidaAr... *
+1	1411aa, >PseudomonasspFFUPPS... at 100.00%
+2	1411aa, >PseudomonasputidaHB... at 100.00%
+>Cluster 354
+0	1411aa, >Pseudomonasputidast... *
+>Cluster 355
+0	1411aa, >Pseudomonasgraminis... *
+>Cluster 356
+0	1410aa, >Burkholderiamultivo... *
+1	1410aa, >Burkholderiamultivo... at 99.15%
+2	1410aa, >Burkholderiamultivo... at 99.15%
+>Cluster 357
+0	1410aa, >Pseudomonasamygdali... *
+1	1410aa, >Pseudomonassavastan... at 98.87%
+2	1408aa, >Pseudomonassyringae... at 99.93%
+3	1408aa, >Pseudomonasamygdali... at 99.93%
+4	1408aa, >PseudomonasspST1_A0... at 98.86%
+5	1408aa, >Pseudomonassavastan... at 98.86%
+6	1408aa, >Pseudomonassavastan... at 98.93%
+7	1408aa, >Pseudomonasamygdali... at 95.17%
+>Cluster 358
+0	1410aa, >Pseudomonasjessenii... *
+>Cluster 359
+0	1410aa, >PseudomonasputidaAr... *
+1	1410aa, >Pseudomonasmonteili... at 99.86%
+2	1410aa, >Pseudomonasplecoglo... at 99.93%
+>Cluster 360
+0	1410aa, >Pseudomonasmonteili... *
+>Cluster 361
+0	1410aa, >EwingellaamericanaA... *
+>Cluster 362
+0	1410aa, >DuganellaspRoot1480... *
+>Cluster 363
+0	1410aa, >DuganellaspBK054_A0... *
+>Cluster 364
+0	1410aa, >Pectobacteriumcarot... *
+>Cluster 365
+0	1409aa, >Pseudomonassyringae... *
+1	1409aa, >Pseudomonassyringae... at 100.00%
+>Cluster 366
+0	1409aa, >PseudomonasspCC1202... *
+1	1409aa, >PseudomonasspCC1202... at 100.00%
+>Cluster 367
+0	1409aa, >Enterobactergenomos... *
+1	1409aa, >Enterobactercloacae... at 96.31%
+>Cluster 368
+0	1405aa, >Pluralibactergergov... at 96.73%
+1	1409aa, >Pluralibactergergov... *
+>Cluster 369
+0	1408aa, >Pseudomonascoronafa... *
+>Cluster 370
+0	1408aa, >Pseudomonasplecoglo... *
+>Cluster 371
+0	1408aa, >Pseudomonassavastan... *
+>Cluster 372
+0	1408aa, >Pseudomonassilesien... *
+>Cluster 373
+0	1408aa, >Pseudomonassyringae... *
+>Cluster 374
+0	1408aa, >PseudomonasputidaAr... *
+>Cluster 375
+0	1407aa, >ParaburkholderiaspB... *
+>Cluster 376
+0	1407aa, >Pseudomonassp101B_A... *
+>Cluster 377
+0	1407aa, >PseudomonasputidaAr... *
+>Cluster 378
+0	1407aa, >PseudomonasputidaAr... *
+>Cluster 379
+0	1407aa, >PseudomonasspGM55_J... *
+>Cluster 380
+0	1407aa, >Enterobactermori_A0... *
+>Cluster 381
+0	1407aa, >Yersiniapseudotuber... *
+>Cluster 382
+0	1406aa, >PseudomonasspLTJR52... *
+>Cluster 383
+0	1406aa, >Pseudomonasfrederik... *
+>Cluster 384
+0	1406aa, >Pseudomonassyringae... *
+>Cluster 385
+0	1406aa, >PseudomonasspVI41_A... *
+>Cluster 386
+0	1406aa, >Pseudomonaschlorora... *
+>Cluster 387
+0	1406aa, >SerratiarubidaeaSer... *
+>Cluster 388
+0	1406aa, >Pluralibactergergov... *
+>Cluster 389
+0	1406aa, >EnterobacterspBIDMC... *
+>Cluster 390
+0	1406aa, >Pectobacteriumpolon... *
+>Cluster 391
+0	1405aa, >Pseudomonassyringae... *
+1	1404aa, >Pseudomonascoronafa... at 95.09%
+>Cluster 392
+0	1405aa, >PseudomonasspNP103_... *
+1	1376aa, >Pseudomonassyringae... at 97.60%
+>Cluster 393
+0	1405aa, >Klebsiellaaerogenes... *
+>Cluster 394
+0	1404aa, >Pseudomonascoronafa... *
+>Cluster 395
+0	1404aa, >Pseudomonasplecoglo... *
+1	1404aa, >Pseudomonasmonteili... at 99.43%
+2	1404aa, >PseudomonasputidaAr... at 99.79%
+3	1404aa, >Pseudomonasputidast... at 99.79%
+>Cluster 396
+0	1404aa, >PseudomonasspCC1202... *
+1	1404aa, >PseudomonasspCC1202... at 99.93%
+>Cluster 397
+0	1404aa, >Pseudomonasfrederik... *
+>Cluster 398
+0	1404aa, >PseudomonasspNFR16_... *
+>Cluster 399
+0	1404aa, >Pseudomonassyringae... *
+>Cluster 400
+0	1403aa, >Pseudomonassyringae... *
+>Cluster 401
+0	1403aa, >Pseudomonassyringae... *
+>Cluster 402
+0	1403aa, >Pseudomonassyringae... *
+>Cluster 403
+0	1403aa, >Enterobactercloacae... *
+1	1403aa, >Enterobactercloacae... at 98.79%
+2	1403aa, >Enterobactersp50588... at 96.01%
+>Cluster 404
+0	1403aa, >Pantoeadispersa_A0A... *
+>Cluster 405
+0	1402aa, >PseudomonasspLS2_A0... *
+>Cluster 406
+0	1402aa, >Yersiniapseudotuber... *
+>Cluster 407
+0	1402aa, >IzhakiellaspKSNA2_A... *
+>Cluster 408
+0	1402aa, >SerratiaspFGI94_L0M... *
+>Cluster 409
+0	1401aa, >BurkholderiaspJKS00... *
+>Cluster 410
+0	1401aa, >Pseudomonasviridifl... *
+>Cluster 411
+0	1400aa, >Pseudomonassavastan... at 99.29%
+1	1401aa, >Pseudomonassavastan... *
+2	1401aa, >Pseudomonascongelan... at 97.22%
+>Cluster 412
+0	1401aa, >Pectobacteriumcarot... *
+>Cluster 413
+0	1400aa, >Pseudomonasputidast... *
+1	1400aa, >PseudomonasputidaND... at 98.43%
+>Cluster 414
+0	1400aa, >Pseudomonassavastan... *
+1	1400aa, >Pseudomonassyringae... at 100.00%
+>Cluster 415
+0	1400aa, >Pseudomonasgraminis... *
+>Cluster 416
+0	1400aa, >Pseudomonassyringae... *
+>Cluster 417
+0	1395aa, >Pseudomonassavastan... at 100.00%
+1	1400aa, >Pseudomonassyringae... *
+>Cluster 418
+0	1400aa, >Pseudomonassyringae... *
+>Cluster 419
+0	1400aa, >Enterobactercloacae... *
+1	1400aa, >Enterobactercloacae... at 96.71%
+>Cluster 420
+0	1400aa, >Yersiniaentomophaga... *
+>Cluster 421
+0	1400aa, >Yersiniawautersii_A... *
+>Cluster 422
+0	1399aa, >Burkholderiacepacia... *
+>Cluster 423
+0	1399aa, >Pseudomonasagarici_... *
+>Cluster 424
+0	1399aa, >PseudomonasspGW456E... *
+>Cluster 425
+0	1399aa, >Pseudomonasgraminis... *
+>Cluster 426
+0	1399aa, >Enterobacterchengdu... *
+>Cluster 427
+0	1399aa, >Pectobacteriumpolar... *
+>Cluster 428
+0	1398aa, >Pseudomonasputidast... *
+>Cluster 429
+0	1398aa, >Pseudomonasgraminis... *
+>Cluster 430
+0	1398aa, >Xenorhabdusbovienii... *
+>Cluster 431
+0	1398aa, >Enterobacterkobei_A... *
+1	1398aa, >Enterobactercloacae... at 100.00%
+>Cluster 432
+0	1397aa, >BurkholderiaspBp912... *
+>Cluster 433
+0	1397aa, >Pseudomonassyringae... *
+1	1397aa, >Pseudomonassyringae... at 99.79%
+>Cluster 434
+0	1397aa, >PseudomonasspLB0906... *
+>Cluster 435
+0	1397aa, >PseudomonasputidaAr... *
+>Cluster 436
+0	1397aa, >Kosakoniaarachidis_... *
+>Cluster 437
+0	1397aa, >Pseudomonasplecoglo... *
+>Cluster 438
+0	1397aa, >Serratiamarcescens_... *
+>Cluster 439
+0	1397aa, >Pantoeaananatisstra... *
+>Cluster 440
+0	1397aa, >Pantoeaallii_A0A2V2... *
+>Cluster 441
+0	1397aa, >SerratiarubidaeaSer... *
+>Cluster 442
+0	1396aa, >Pseudomonaszeshuii_... *
+>Cluster 443
+0	1396aa, >PseudomonasputidaAr... *
+>Cluster 444
+0	1396aa, >Pseudomonasreinekei... *
+>Cluster 445
+0	1396aa, >PseudomonasspGV021_... *
+>Cluster 446
+0	1396aa, >Pseudomonassyringae... *
+>Cluster 447
+0	1396aa, >Yersiniasimilis_A0A... *
+1	1396aa, >Yersiniapseudotuber... at 100.00%
+>Cluster 448
+0	1395aa, >Pseudomonassyringae... *
+1	1395aa, >Pseudomonassyringae... at 98.78%
+2	1395aa, >PseudomonasspBS3759... at 100.00%
+>Cluster 449
+0	1395aa, >Enterobacterkobei_A... *
+>Cluster 450
+0	1395aa, >Yersinianurmii_A0A0... *
+>Cluster 451
+0	1395aa, >Pantoeaananatisstra... *
+1	1395aa, >PantoeaananasErwini... at 99.78%
+>Cluster 452
+0	1395aa, >DickeyasolaniRNS082... *
+>Cluster 453
+0	1393aa, >Pseudomonassyringae... *
+>Cluster 454
+0	1393aa, >PseudomonasspB12018... *
+>Cluster 455
+0	1393aa, >Pseudomonassyringae... *
+1	1393aa, >PseudomonasspBS3759... at 100.00%
+>Cluster 456
+0	1393aa, >Lelliottianimipress... *
+>Cluster 457
+0	1392aa, >PseudomonasspNFPP22... *
+>Cluster 458
+0	1392aa, >Pseudomonassyringae... *
+>Cluster 459
+0	1391aa, >Pseudomonasamygdali... *
+>Cluster 460
+0	1391aa, >Acidomonasmethanoli... *
+>Cluster 461
+0	1390aa, >CandidatusMagnetomo... *
+>Cluster 462
+0	1390aa, >Yersiniapseudotuber... *
+>Cluster 463
+0	1389aa, >EnterobacterspBIDMC... *
+>Cluster 464
+0	1388aa, >PseudomonasspTAD18_... *
+>Cluster 465
+0	1388aa, >SerratiafonticolaAU... *
+>Cluster 466
+0	1387aa, >Escherichiasp47265_... *
+1	1387aa, >EscherichiaspKTE114... at 100.00%
+>Cluster 467
+0	1386aa, >ParaburkholderiaspB... *
+>Cluster 468
+0	1386aa, >Pseudomonasputidast... *
+>Cluster 469
+0	1386aa, >PseudomonasspNFPP09... *
+>Cluster 470
+0	1385aa, >SalmonellaentericaI... *
+1	1385aa, >SalmonellaentericaS... at 100.00%
+>Cluster 471
+0	1385aa, >ParaburkholderiaspB... *
+>Cluster 472
+0	1385aa, >Pseudomonasputidast... *
+1	1385aa, >PseudomonasspSMT1_A... at 100.00%
+2	1385aa, >PseudomonasputidaAr... at 100.00%
+>Cluster 473
+0	1384aa, >Paraburkholderiadip... *
+>Cluster 474
+0	1384aa, >Pseudomonassyringae... *
+1	1384aa, >Pseudomonasamygdali... at 100.00%
+>Cluster 475
+0	1384aa, >Xenorhabdusbudapest... *
+>Cluster 476
+0	1382aa, >SalmonellaentericaI... *
+>Cluster 477
+0	1381aa, >SalmonellaentericaS... *
+>Cluster 478
+0	1381aa, >Pseudomonasoriental... *
+1	1381aa, >Pseudomonassynxanth... at 95.66%
+>Cluster 479
+0	1380aa, >Salmonellaentericas... *
+>Cluster 480
+0	1349aa, >Escherichiacoli_A0A... at 96.59%
+1	1373aa, >Escherichiacoli_A0A... at 95.99%
+2	1379aa, >EscherichiacoliKTE7... *
+>Cluster 481
+0	1379aa, >Pectobacteriumpolon... *
+>Cluster 482
+0	1379aa, >Pectobacteriumparme... *
+>Cluster 483
+0	1377aa, >EscherichiacoliKTE1... *
+>Cluster 484
+0	1377aa, >EscherichiacoliTA28... *
+1	1377aa, >Escherichiacoli_A0A... at 99.85%
+>Cluster 485
+0	1377aa, >Escherichiacoli_A0A... *
+>Cluster 486
+0	1377aa, >SalmonellaentericaI... *
+1	1377aa, >SalmonellaentericaS... at 100.00%
+2	1377aa, >SalmonellaentericaI... at 99.35%
+3	1377aa, >SalmonellaentericaI... at 99.93%
+4	1377aa, >SalmonellaentericaS... at 99.49%
+5	1377aa, >SalmonellaentericaI... at 99.56%
+6	1377aa, >SalmonellaentericaI... at 99.93%
+7	1377aa, >SalmonellaentericaI... at 98.98%
+8	1377aa, >Salmonellaentericas... at 98.98%
+>Cluster 487
+0	1377aa, >SalmonellaentericaI... *
+1	1377aa, >Salmonellaanatum_A0... at 99.85%
+2	1377aa, >SalmonellaentericaI... at 99.85%
+3	1377aa, >Salmonellaanatum_A0... at 99.93%
+4	1377aa, >SalmonellaentericaS... at 99.56%
+5	1377aa, >SalmonellaentericaI... at 99.49%
+6	1377aa, >SalmonellaentericaI... at 99.56%
+7	1377aa, >SalmonellaentericaS... at 99.78%
+8	1377aa, >SalmonellaentericaI... at 99.93%
+9	1377aa, >SalmonellaentericaI... at 99.06%
+>Cluster 488
+0	1377aa, >SalmonellaentericaI... *
+1	1377aa, >SalmonellaentericaI... at 98.33%
+2	1377aa, >SalmonellaentericaI... at 98.40%
+3	1377aa, >SalmonellaentericaI... at 98.26%
+>Cluster 489
+0	1373aa, >SalmonellaentericaI... at 96.21%
+1	1373aa, >SalmonellaentericaI... at 96.29%
+2	1373aa, >SalmonellaentericaI... at 96.14%
+3	1373aa, >Salmonellaentericas... at 96.21%
+4	1377aa, >SalmonellaentericaS... *
+>Cluster 490
+0	1377aa, >Yersiniapekkanenii_... *
+>Cluster 491
+0	1376aa, >SalmonellaentericaI... *
+1	1376aa, >SalmonellaentericaS... at 99.27%
+2	1376aa, >SalmonellaentericaS... at 98.98%
+3	1376aa, >SalmonellaentericaI... at 98.91%
+4	1376aa, >SalmonellaentericaI... at 98.33%
+>Cluster 492
+0	1375aa, >Klebsiellapneumonia... *
+>Cluster 493
+0	1374aa, >SalmonellaentericaI... *
+1	1374aa, >SalmonellaentericaS... at 99.93%
+2	1374aa, >SalmonellaentericaS... at 98.62%
+3	1374aa, >Salmonellamontevide... at 100.00%
+4	1374aa, >SalmonellaentericaI... at 98.69%
+5	1374aa, >Salmonellaentericas... at 98.69%
+6	1374aa, >SalmonellaentericaS... at 100.00%
+7	1374aa, >Salmonellamontevide... at 98.62%
+8	1374aa, >SalmonellaentericaI... at 98.62%
+9	1374aa, >SalmonellaentericaS... at 98.54%
+10	1374aa, >Salmonellamontevide... at 98.62%
+11	1374aa, >SalmonellaentericaS... at 98.54%
+>Cluster 494
+0	1373aa, >Pseudomonassyringae... *
+1	1373aa, >Pseudomonassyringae... at 99.93%
+>Cluster 495
+0	1370aa, >Escherichiamarmotae... *
+>Cluster 496
+0	1370aa, >Pseudomonassyringae... *
+>Cluster 497
+0	1369aa, >Citrobacterfarmeri_... *
+>Cluster 498
+0	1367aa, >EscherichiacoliKTE6... *
+1	1367aa, >Escherichiacoli_A0A... at 98.17%
+>Cluster 499
+0	1366aa, >Salmonellaentericas... *
+1	1366aa, >SalmonellaentericaS... at 99.78%
+2	1366aa, >SalmonellaentericaS... at 98.76%
+3	1366aa, >SalmonellaentericaI... at 99.41%
+4	1366aa, >SalmonellaentericaI... at 99.63%
+5	1366aa, >SalmonellaentericaS... at 100.00%
+6	1366aa, >SalmonellaentericaI... at 99.93%
+7	1366aa, >SalmonellaentericaI... at 99.78%
+8	1366aa, >SalmonellaentericaI... at 99.27%
+9	1366aa, >SalmonellaentericaS... at 99.93%
+10	1366aa, >Salmonellaentericas... at 99.27%
+11	1366aa, >SalmonellaentericaI... at 98.76%
+>Cluster 500
+0	1315aa, >SalmonellaentericaS... at 95.06%
+1	1365aa, >SalmonellaentericaS... *
+2	1365aa, >SalmonellaentericaS... at 99.93%
+3	1365aa, >SalmonellaentericaI... at 99.93%
+4	1365aa, >SalmonellaentericaI... at 99.93%
+>Cluster 501
+0	1364aa, >SalmonellaentericaS... *
+1	1364aa, >SalmonellaentericaI... at 99.78%
+2	1364aa, >SalmonellaentericaI... at 99.85%
+3	1364aa, >Salmonellatyphimuri... at 99.85%
+4	1364aa, >Salmonellatyphimuri... at 99.93%
+5	1364aa, >Salmonellaentericas... at 99.93%
+6	1364aa, >Salmonellatyphimuri... at 99.85%
+7	1364aa, >SalmonellaentericaI... at 99.78%
+8	1364aa, >SalmonellaentericaS... at 99.78%
+9	1364aa, >SalmonellaentericaS... at 99.85%
+10	1364aa, >SalmonellaentericaI... at 99.93%
+11	1364aa, >SalmonellaentericaI... at 99.78%
+12	1364aa, >Salmonellaentericas... at 99.93%
+13	1364aa, >Salmonellatyphimuri... at 99.93%
+14	1364aa, >SalmonellaentericaS... at 99.93%
+15	1364aa, >Salmonellaentericas... at 99.93%
+16	1364aa, >Salmonellatyphimuri... at 99.93%
+17	1364aa, >SalmonellaentericaI... at 99.85%
+18	1364aa, >Salmonellasenftenbe... at 99.19%
+19	1364aa, >Salmonellaentericas... at 99.93%
+20	1364aa, >SalmonellaentericaI... at 99.85%
+21	1364aa, >Salmonellatyphimuri... at 99.85%
+22	1364aa, >Salmonellaentericas... at 99.93%
+23	1364aa, >SalmonellaentericaI... at 99.85%
+24	1364aa, >Salmonellatyphimuri... at 99.78%
+25	1364aa, >SalmonellaentericaI... at 98.24%
+>Cluster 502
+0	1364aa, >Erwiniatracheiphila... *
+>Cluster 503
+0	1363aa, >Escherichiacoli_A0A... *
+>Cluster 504
+0	1362aa, >SalmonellaentericaI... *
+1	1362aa, >SalmonellaentericaI... at 99.41%
+2	1362aa, >SalmonellaentericaS... at 98.68%
+3	1362aa, >SalmonellaentericaI... at 98.60%
+4	1362aa, >SalmonellaentericaI... at 98.68%
+5	1362aa, >Salmonellathompson_... at 100.00%
+6	1362aa, >SalmonellaentericaS... at 99.93%
+7	1362aa, >SalmonellaentericaI... at 98.68%
+8	1362aa, >SalmonellaentericaI... at 98.90%
+9	1362aa, >Salmonellaentericas... at 99.41%
+10	1362aa, >Salmonellaentericas... at 98.68%
+11	1362aa, >SalmonellaentericaI... at 99.41%
+12	1362aa, >SalmonellaentericaS... at 99.41%
+13	1362aa, >SalmonellaentericaI... at 99.41%
+>Cluster 505
+0	1334aa, >SalmonellaentericaS... at 99.03%
+1	1359aa, >SalmonellaentericaI... *
+2	1359aa, >Salmonellarubislaw_... at 99.56%
+3	1359aa, >SalmonellaentericaI... at 99.56%
+4	1359aa, >Salmonellaoranienbe... at 99.63%
+5	1359aa, >SalmonellaentericaS... at 98.97%
+6	1359aa, >Salmonellaentericas... at 99.56%
+7	1359aa, >SalmonellaentericaS... at 99.04%
+8	1359aa, >SalmonellaentericaI... at 99.63%
+9	1359aa, >SalmonellaentericaI... at 99.48%
+10	1359aa, >SalmonellaentericaI... at 99.19%
+11	1359aa, >SalmonellaentericaI... at 98.97%
+12	1359aa, >SalmonellaentericaI... at 99.34%
+13	1359aa, >SalmonellaentericaI... at 99.12%
+14	1359aa, >SalmonellaentericaI... at 99.48%
+15	1359aa, >Salmonellanewport_A... at 99.34%
+16	1359aa, >SalmonellaentericaS... at 99.56%
+17	1359aa, >Salmonellatyphimuri... at 99.04%
+18	1359aa, >SalmonellaentericaS... at 99.56%
+19	1359aa, >SalmonellaentericaI... at 99.12%
+20	1359aa, >SalmonellaentericaI... at 99.12%
+21	1359aa, >Salmonellamuenchen_... at 99.19%
+22	1359aa, >SalmonellaentericaI... at 99.26%
+23	1359aa, >SalmonellaentericaI... at 98.97%
+24	1359aa, >SalmonellaentericaI... at 99.56%
+25	1359aa, >Salmonellaentericas... at 99.56%
+26	1359aa, >Salmonellaentericas... at 99.48%
+27	1359aa, >Salmonellanewportst... at 99.34%
+28	1359aa, >SalmonellaentericaS... at 99.71%
+29	1359aa, >Salmonellamuenchen_... at 99.12%
+30	1359aa, >SalmonellaentericaI... at 99.34%
+31	1359aa, >Salmonellaentericas... at 99.12%
+32	1359aa, >Salmonellaanatum_A0... at 99.56%
+33	1359aa, >SalmonellaentericaI... at 99.48%
+34	1359aa, >Salmonellaoranienbe... at 99.34%
+35	1359aa, >Salmonellaentericas... at 99.63%
+36	1359aa, >SalmonellaentericaI... at 98.97%
+37	1359aa, >SalmonellaentericaI... at 99.56%
+38	1359aa, >SalmonellaentericaS... at 99.04%
+39	1359aa, >SalmonellaentericaI... at 99.56%
+40	1359aa, >SalmonellaentericaI... at 98.97%
+41	1359aa, >SalmonellaentericaI... at 99.48%
+42	1359aa, >Salmonellaentericas... at 98.97%
+43	1359aa, >SalmonellaentericaI... at 99.41%
+44	1359aa, >Salmonellanewport_A... at 99.63%
+45	1359aa, >SalmonellaentericaI... at 99.56%
+46	1359aa, >SalmonellaentericaI... at 99.56%
+47	1359aa, >SalmonellaentericaS... at 99.12%
+48	1359aa, >SalmonellaspNCTC694... at 99.12%
+49	1359aa, >SalmonellaentericaS... at 98.97%
+50	1359aa, >SalmonellaentericaS... at 99.04%
+51	1359aa, >SalmonellaentericaI... at 99.48%
+52	1359aa, >Salmonellanewport_A... at 98.97%
+53	1359aa, >SalmonellaentericaS... at 98.97%
+54	1359aa, >SalmonellaentericaS... at 99.26%
+55	1359aa, >SalmonellaentericaS... at 99.26%
+56	1359aa, >Salmonellaentericas... at 99.63%
+57	1359aa, >SalmonellaentericaI... at 98.97%
+58	1359aa, >SalmonellaentericaI... at 99.26%
+59	1359aa, >SalmonellaentericaI... at 99.04%
+60	1359aa, >Salmonellaentericas... at 99.04%
+61	1359aa, >SalmonellaentericaI... at 99.04%
+62	1359aa, >SalmonellaentericaI... at 99.48%
+63	1359aa, >SalmonellaentericaI... at 98.45%
+64	1359aa, >SalmonellaentericaI... at 98.09%
+65	1359aa, >SalmonellaentericaS... at 98.97%
+66	1359aa, >SalmonellaentericaI... at 99.04%
+67	1359aa, >SalmonellaentericaI... at 98.23%
+68	1359aa, >SalmonellaentericaI... at 98.38%
+69	1359aa, >SalmonellaentericaI... at 98.45%
+>Cluster 506
+0	1359aa, >Salmonellaentericas... *
+>Cluster 507
+0	1359aa, >Escherichiacoli_A0A... *
+>Cluster 508
+0	1358aa, >SalmonellaentericaI... *
+1	1358aa, >SalmonellaentericaS... at 99.26%
+>Cluster 509
+0	1356aa, >Pseudomonasgraminis... *
+>Cluster 510
+0	1323aa, >SalmonellaentericaS... at 98.56%
+1	1354aa, >Salmonellaentericas... *
+2	1354aa, >SalmonellaentericaS... at 98.97%
+3	1354aa, >SalmonellaentericaS... at 99.11%
+4	1354aa, >SalmonellaentericaI... at 99.11%
+5	1354aa, >SalmonellaentericaS... at 98.45%
+>Cluster 511
+0	1326aa, >SalmonellaentericaS... at 98.72%
+1	1352aa, >SalmonellaentericaS... *
+2	1352aa, >SalmonellaentericaI... at 99.26%
+3	1352aa, >SalmonellaentericaI... at 98.74%
+4	1352aa, >SalmonellaentericaS... at 98.82%
+5	1352aa, >SalmonellaentericaI... at 98.45%
+6	1352aa, >SalmonellaentericaS... at 98.89%
+7	1352aa, >Salmonellaentericas... at 98.89%
+8	1352aa, >SalmonellaentericaI... at 99.26%
+9	1352aa, >SalmonellaentericaI... at 98.89%
+10	1352aa, >SalmonellaentericaS... at 98.45%
+11	1352aa, >SalmonellaentericaI... at 98.89%
+12	1352aa, >SalmonellaentericaI... at 98.82%
+13	1352aa, >SalmonellaentericaI... at 98.89%
+14	1352aa, >Salmonellaentericas... at 98.89%
+15	1352aa, >SalmonellaentericaI... at 98.82%
+16	1352aa, >SalmonellaentericaI... at 98.45%
+17	1352aa, >Salmonellaentericas... at 98.45%
+>Cluster 512
+0	1350aa, >Escherichiacoli_A0A... *
+>Cluster 513
+0	1342aa, >Photorhabdustempera... *
+>Cluster 514
+0	1338aa, >Pseudomonassavastan... *
+1	1338aa, >Pseudomonassavastan... at 99.85%
+2	1338aa, >Pseudomonasamygdali... at 99.93%
+3	1338aa, >Pseudomonassavastan... at 100.00%
+4	1338aa, >Pseudomonassavastan... at 100.00%
+>Cluster 515
+0	1336aa, >Pseudomonascoronafa... *
+>Cluster 516
+0	1335aa, >Enterobacterkobei_A... *
+>Cluster 517
+0	1328aa, >Photorhabdustempera... *
+>Cluster 518
+0	1305aa, >Escherichiacoli_A0A... at 99.39%
+1	1323aa, >Escherichiacoli_A0A... *
+>Cluster 519
+0	1319aa, >Snodgrassellaalvi_A... *
+>Cluster 520
+0	1316aa, >Pseudomonasmeliae_A... *
+1	1288aa, >Pseudomonassyringae... at 98.68%
+>Cluster 521
+0	1282aa, >Salmonellaentericas... at 98.83%
+1	1285aa, >Salmonellaentericas... at 98.37%
+2	1315aa, >SalmonellaentericaI... *
+3	1315aa, >Salmonellaentericas... at 100.00%
+>Cluster 522
+0	1313aa, >Photorhabdustempera... *
+>Cluster 523
+0	1313aa, >PhotorhabdusspHUG39... *
+>Cluster 524
+0	1311aa, >MorganellamorganiiP... *
+>Cluster 525
+0	1308aa, >PhotorhabduskhaniiN... *
+>Cluster 526
+0	1306aa, >Pseudomonasamygdali... *
+>Cluster 527
+0	1304aa, >EscherichiacoliDORA... *
+>Cluster 528
+0	1303aa, >Pseudomonasluteola_... *
+>Cluster 529
+0	1301aa, >Pseudomonascoronafa... *
+>Cluster 530
+0	1289aa, >Pseudomonassyringae... *
+>Cluster 531
+0	1287aa, >SalmonellaentericaI... *
+>Cluster 532
+0	1285aa, >ErwiniaamylovoraATC... *
+>Cluster 533
+0	1236aa, >Pseudomonascoronafa... at 99.60%
+1	1236aa, >Pseudomonastremae_A... at 99.35%
+2	1269aa, >Pseudomonascoronafa... *
+>Cluster 534
+0	1268aa, >EscherichiacoliMS11... *
+1	1268aa, >Escherichiacoli_A0A... at 100.00%
+2	1268aa, >EscherichiacoliKTE1... at 100.00%
+3	1268aa, >EscherichiacoliKTE6... at 100.00%
+>Cluster 535
+0	1259aa, >Escherichiacoli_A0A... *
+1	1239aa, >Escherichiacoli_A0A... at 97.74%
+2	1216aa, >Escherichiacoli_A0A... at 96.88%
+3	1221aa, >EscherichiacoliTW10... at 95.58%
+4	1221aa, >EscherichiacoliB088... at 96.40%
+>Cluster 536
+0	1247aa, >SalmonellaentericaI... at 99.92%
+1	1247aa, >Salmonellaentericas... at 100.00%
+2	1247aa, >SalmonellaentericaI... at 100.00%
+3	1258aa, >Salmonellaentericas... *
+4	1220aa, >SalmonellaentericaI... at 97.70%
+5	1241aa, >SalmonellaentericaI... at 98.79%
+6	1241aa, >SalmonellaentericaI... at 98.63%
+>Cluster 537
+0	1254aa, >Proteusmirabilis_A0... *
+>Cluster 538
+0	1244aa, >Pseudomonassyringae... at 96.78%
+1	1235aa, >Pseudomonassyringae... at 97.65%
+2	1248aa, >Pseudomonassyringae... *
+>Cluster 539
+0	1244aa, >EnterobacterspCGMCC... *
+>Cluster 540
+0	1239aa, >Pseudomonassyringae... at 100.00%
+1	1239aa, >Pseudomonassavastan... at 100.00%
+2	1240aa, >Pseudomonassavastan... *
+>Cluster 541
+0	1229aa, >Pseudomonassyringae... *
+>Cluster 542
+0	1223aa, >MixtaspBIT26_A0A506... *
+>Cluster 543
+0	1219aa, >Pseudomonascoronafa... *
+1	1211aa, >Pseudomonassyringae... at 95.95%
+>Cluster 544
+0	1164aa, >SalmonellaentericaI... at 100.00%
+1	1165aa, >SalmonellaentericaS... at 100.00%
+2	1169aa, >SalmonellaentericaS... at 99.06%
+3	1173aa, >SalmonellaentericaI... at 99.83%
+4	1173aa, >SalmonellaentericaS... at 99.83%
+5	1173aa, >SalmonellaentericaS... at 100.00%
+6	1176aa, >SalmonellaentericaI... at 100.00%
+7	1176aa, >Salmonellaentericas... at 99.23%
+8	1213aa, >SalmonellaentericaI... *
+9	1176aa, >SalmonellaentericaI... at 96.94%
+>Cluster 545
+0	1211aa, >PseudomonasspGM33_J... *
+>Cluster 546
+0	1209aa, >AcidovoraxspHMWF029... *
+>Cluster 547
+0	1190aa, >EscherichiacoliO177... at 97.56%
+1	1207aa, >Escherichiacoli_A0A... *
+2	1160aa, >Escherichiacoli_A0A... at 97.50%
+3	1180aa, >Escherichiacoli_A0A... at 97.71%
+4	1164aa, >Escherichiacoli_A0A... at 97.68%
+5	1179aa, >Escherichiacoli_A0A... at 97.46%
+6	1197aa, >Escherichiacoli_A0A... at 97.74%
+7	1197aa, >Escherichiacoli_A0A... at 97.83%
+8	1197aa, >Escherichiacoli_A0A... at 97.74%
+9	1197aa, >Escherichiacoli_A0A... at 97.74%
+10	1161aa, >Escherichiacoli_A0A... at 95.61%
+11	1207aa, >Escherichiacoli_A0A... at 97.93%
+12	1164aa, >Escherichiacoli_A0A... at 97.16%
+>Cluster 548
+0	1203aa, >Enterobactercloacae... *
+>Cluster 549
+0	1200aa, >Salmonellatyphimuri... *
+1	1200aa, >Salmonellatyphimuri... at 100.00%
+2	1198aa, >SalmonellaentericaI... at 99.92%
+3	1198aa, >SalmonellaentericaI... at 99.92%
+4	1198aa, >SalmonellaentericaS... at 99.92%
+5	1198aa, >SalmonellaentericaI... at 100.00%
+6	1198aa, >Salmonellatyphimuri... at 100.00%
+>Cluster 550
+0	1200aa, >SalmonellaentericaS... *
+1	1200aa, >SalmonellaentericaS... at 99.92%
+2	1200aa, >SalmonellaentericaS... at 99.83%
+>Cluster 551
+0	1199aa, >Escherichiacoli2427... *
+1	1175aa, >Escherichiacoli1392... at 100.00%
+2	1175aa, >Escherichiacoli_A0A... at 100.00%
+3	1175aa, >Escherichiacoli1392... at 99.91%
+>Cluster 552
+0	1198aa, >SalmonellaentericaI... *
+1	1198aa, >SalmonellaentericaI... at 98.58%
+>Cluster 553
+0	1194aa, >Pseudomonassavastan... *
+>Cluster 554
+0	1193aa, >SalmonellaentericaI... *
+>Cluster 555
+0	1151aa, >KosakoniaspWCHEs120... at 97.39%
+1	1187aa, >KosakoniaspAG348_A0... *
+>Cluster 556
+0	1184aa, >Serratiaficaria_A0A... *
+>Cluster 557
+0	1183aa, >Pseudomonassavastan... *
+>Cluster 558
+0	1182aa, >Pseudomonassyringae... *
+>Cluster 559
+0	1182aa, >Erwiniasp198_A0A3R9... *
+>Cluster 560
+0	1179aa, >Pseudomonasduriflav... *
+>Cluster 561
+0	1177aa, >Pseudomonascoronafa... *
+>Cluster 562
+0	1126aa, >Pseudomonassavastan... at 96.89%
+1	1174aa, >Pseudomonassavastan... at 99.91%
+2	1175aa, >Pseudomonassavastan... *
+>Cluster 563
+0	1175aa, >Enterobacterhormaec... *
+>Cluster 564
+0	1170aa, >AcidovoraxspSCN6528... *
+>Cluster 565
+0	1125aa, >Pseudomonasamygdali... at 95.82%
+1	1163aa, >Pseudomonasamygdali... *
+>Cluster 566
+0	1161aa, >MangrovibacterspMFB... *
+>Cluster 567
+0	1160aa, >Pseudomonasamygdali... *
+>Cluster 568
+0	1111aa, >SalmonellaentericaI... at 99.82%
+1	1114aa, >SalmonellaentericaI... at 99.28%
+2	1114aa, >SalmonellaentericaS... at 99.82%
+3	1114aa, >Salmonellatyphimuri... at 99.82%
+4	1115aa, >SalmonellaentericaS... at 99.28%
+5	1120aa, >SalmonellaentericaS... at 98.48%
+6	1121aa, >Salmonellatyphimuri... at 99.82%
+7	1122aa, >SalmonellaentericaI... at 99.82%
+8	1125aa, >Salmonellaentericas... at 98.49%
+9	1127aa, >SalmonellaentericaI... at 99.82%
+10	1127aa, >SalmonellaentericaI... at 99.29%
+11	1128aa, >SalmonellaentericaI... at 99.82%
+12	1136aa, >SalmonellaentericaS... at 99.82%
+13	1136aa, >SalmonellaentericaI... at 99.82%
+14	1141aa, >SalmonellaentericaI... at 99.82%
+15	1147aa, >SalmonellaentericaI... at 99.83%
+16	1152aa, >SalmonellaentericaI... at 99.74%
+17	1155aa, >SalmonellaentericaI... *
+18	1131aa, >SalmonellaentericaI... at 98.85%
+19	1137aa, >SalmonellaentericaI... at 98.77%
+>Cluster 569
+0	1126aa, >EscherichiacoliH591... at 96.63%
+1	1127aa, >Escherichiacoli_A0A... at 100.00%
+2	1130aa, >Escherichiacoli_A0A... at 99.82%
+3	1129aa, >Escherichiacoli_A0A... at 99.91%
+4	1130aa, >Escherichiacoli_A0A... at 99.82%
+5	1130aa, >Escherichiacoli_A0A... at 99.91%
+6	1148aa, >EscherichiacoliM718... at 95.03%
+7	1153aa, >Escherichiacoli_A0A... *
+8	1153aa, >Escherichiacoli_A0A... at 99.91%
+>Cluster 570
+0	1151aa, >Erwiniapsidii_A0A3N... *
+>Cluster 571
+0	1147aa, >Pseudomonassyringae... *
+1	1140aa, >Pseudomonassyringae... at 100.00%
+2	1140aa, >Pseudomonassyringae... at 99.47%
+>Cluster 572
+0	1133aa, >Burkholderiacepacia... *
+>Cluster 573
+0	1127aa, >PseudomonasspGM74_J... *
+>Cluster 574
+0	1123aa, >Pseudomonasprotegen... *
+>Cluster 575
+0	1109aa, >Enterobacterhormaec... at 95.49%
+1	1088aa, >Enterobacterhormaec... at 95.50%
+2	1123aa, >Enterobactersichuan... *
+>Cluster 576
+0	1122aa, >Erwiniaceaebacteriu... *
+>Cluster 577
+0	1116aa, >Massiliaflava_A0A56... *
+>Cluster 578
+0	1066aa, >Pseudomonassyringae... at 97.94%
+1	1107aa, >Pseudomonasamygdali... *
+>Cluster 579
+0	1107aa, >Pseudomonascoronafa... *
+>Cluster 580
+0	1106aa, >PhotorhabdusspHUG39... *
+>Cluster 581
+0	1073aa, >SalmonellaentericaI... at 98.60%
+1	1082aa, >SalmonellaentericaI... at 98.43%
+2	1082aa, >SalmonellaentericaS... at 98.15%
+3	1083aa, >SalmonellaentericaS... at 98.52%
+4	1083aa, >SalmonellaentericaI... at 98.43%
+5	1083aa, >SalmonellaentericaI... at 98.43%
+6	1083aa, >Salmonellatyphimuri... at 98.52%
+7	1083aa, >Salmonellatyphimuri... at 98.52%
+8	1083aa, >Salmonellatyphimuri... at 98.43%
+9	1083aa, >SalmonellaentericaI... at 98.52%
+10	1086aa, >SalmonellaentericaI... at 98.43%
+11	1090aa, >SalmonellaentericaI... at 98.44%
+12	1091aa, >SalmonellaentericaI... at 98.44%
+13	1097aa, >SalmonellaentericaI... at 98.45%
+14	1099aa, >SalmonellaentericaS... at 98.27%
+15	1093aa, >SalmonellaentericaI... at 99.27%
+16	1080aa, >SalmonellaentericaI... at 98.61%
+17	1082aa, >SalmonellaentericaI... at 98.24%
+18	1082aa, >SalmonellaentericaI... at 98.34%
+19	1104aa, >SalmonellaentericaI... *
+>Cluster 582
+0	1104aa, >Pseudomonassavastan... *
+>Cluster 583
+0	1104aa, >Acidovoraxsp657_A0A... *
+>Cluster 584
+0	1058aa, >SalmonellaentericaI... at 99.34%
+1	1100aa, >SalmonellaentericaI... *
+>Cluster 585
+0	1096aa, >Pluralibactergergov... *
+>Cluster 586
+0	1095aa, >Enterobacterasburia... *
+>Cluster 587
+0	1047aa, >Pseudomonassyringae... at 98.09%
+1	1075aa, >Pseudomonassyringae... at 95.72%
+2	1094aa, >Pseudomonassyringae... *
+>Cluster 588
+0	1090aa, >EscherichiacoliB185... at 97.80%
+1	1092aa, >Escherichiacoli_A0A... *
+2	1042aa, >Escherichiacoli_A0A... at 95.11%
+>Cluster 589
+0	1084aa, >Pseudomonassavastan... *
+1	1051aa, >Pseudomonasamygdali... at 97.34%
+>Cluster 590
+0	1074aa, >Pseudomonasdelhiens... *
+>Cluster 591
+0	1071aa, >Xenorhabdusnematoph... *
+>Cluster 592
+0	1067aa, >PseudomonasputidaAr... *
+>Cluster 593
+0	1063aa, >Photorhabdustempera... *
+>Cluster 594
+0	1054aa, >Pseudomonassyringae... *
+1	1050aa, >Pseudomonassyringae... at 99.43%
+2	1038aa, >Pseudomonassyringae... at 98.65%
+>Cluster 595
+0	1005aa, >Pseudomonassavastan... at 99.10%
+1	1053aa, >Pseudomonasamygdali... *
+>Cluster 596
+0	1042aa, >Pseudomonassyringae... at 99.23%
+1	1052aa, >Pseudomonassyringae... *
+>Cluster 597
+0	1000aa, >SalmonellaentericaI... at 99.50%
+1	1000aa, >Salmonellaentericas... at 99.50%
+2	1000aa, >Salmonellaentericas... at 99.50%
+3	1010aa, >Salmonellaentericas... at 99.50%
+4	1021aa, >SalmonellaentericaI... at 98.63%
+5	1029aa, >SalmonellaentericaI... at 99.03%
+6	1029aa, >SalmonellaentericaI... at 99.22%
+7	1032aa, >SalmonellaentericaI... at 99.42%
+8	1035aa, >SalmonellaentericaI... at 99.23%
+9	1041aa, >SalmonellaentericaI... at 99.04%
+10	1042aa, >SalmonellaentericaS... at 98.94%
+11	1048aa, >Salmonellathompson_... at 99.24%
+12	1026aa, >SalmonellaentericaI... at 100.00%
+13	1050aa, >SalmonellaentericaS... *
+>Cluster 598
+0	1049aa, >Pseudomonassavastan... *
+1	1049aa, >Pseudomonassavastan... at 99.24%
+>Cluster 599
+0	1049aa, >PseudomonasspICMP32... *
+>Cluster 600
+0	997aa, >SalmonellaentericaS... at 97.99%
+1	1001aa, >SalmonellaentericaS... at 98.00%
+2	1002aa, >SalmonellaentericaI... at 98.40%
+3	1010aa, >SalmonellaentericaI... at 100.00%
+4	1027aa, >SalmonellaentericaS... at 97.66%
+5	1028aa, >SalmonellaentericaI... at 97.67%
+6	1030aa, >SalmonellaentericaI... at 100.00%
+7	1046aa, >SalmonellaentericaI... *
+>Cluster 601
+0	1031aa, >Pseudomonascoronafa... at 98.84%
+1	1045aa, >Pseudomonascoronafa... *
+2	1045aa, >Pseudomonascoronafa... at 99.81%
+3	1010aa, >Pseudomonascoronafa... at 99.21%
+4	1022aa, >Pseudomonascoronafa... at 99.71%
+>Cluster 602
+0	1010aa, >Escherichiacoli_A0A... at 98.32%
+1	1009aa, >Escherichiacoli2177... at 97.32%
+2	1037aa, >EscherichiacoliLAUE... *
+>Cluster 603
+0	1027aa, >KluyveraintermediaE... *
+>Cluster 604
+0	1022aa, >EnterobacterspHN503... *
+>Cluster 605
+0	1019aa, >Pseudomonassavastan... *
+1	986aa, >Pseudomonassyringae... at 96.86%
+2	971aa, >Pseudomonasamygdali... at 95.16%
+3	986aa, >Pseudomonassyringae... at 96.75%
+>Cluster 606
+0	1014aa, >EscherichiaspKTE52_... *
+>Cluster 607
+0	1012aa, >Escherichiacoli_A0A... *
+>Cluster 608
+0	968aa, >SalmonellaentericaI... at 100.00%
+1	969aa, >SalmonellaentericaI... at 100.00%
+2	981aa, >SalmonellaentericaI... at 100.00%
+3	1010aa, >SalmonellaentericaI... *
+>Cluster 609
+0	1008aa, >Yersiniawautersii_A... *
+>Cluster 610
+0	1004aa, >Pseudomonascoronafa... *
+>Cluster 611
+0	968aa, >Pseudomonassavastan... at 100.00%
+1	981aa, >Pseudomonassavastan... at 99.90%
+2	981aa, >Pseudomonassavastan... at 100.00%
+3	998aa, >Pseudomonassavastan... *
+4	960aa, >Pseudomonassavastan... at 99.27%
+>Cluster 612
+0	978aa, >Pseudomonassyringae... at 98.67%
+1	997aa, >Pseudomonassyringae... *
+>Cluster 613
+0	995aa, >Pseudescherichiavul... *
+>Cluster 614
+0	974aa, >Pseudomonassyringae... at 98.56%
+1	983aa, >Pseudomonassyringae... at 99.29%
+2	990aa, >Pseudomonassyringae... *
+>Cluster 615
+0	964aa, >Escherichiacoli_A0A... at 100.00%
+1	986aa, >Escherichiacoli_A0A... *
+2	982aa, >Escherichiacoli_A0A... at 97.86%
+>Cluster 616
+0	934aa, >SalmonellaentericaI... at 99.46%
+1	935aa, >SalmonellaentericaI... at 98.82%
+2	935aa, >SalmonellaentericaS... at 98.82%
+3	935aa, >Salmonellasenftenbe... at 98.93%
+4	935aa, >SalmonellaentericaS... at 98.82%
+5	962aa, >Salmonellasenftenbe... at 98.75%
+6	979aa, >SalmonellaentericaS... *
+7	956aa, >SalmonellaentericaS... at 99.90%
+8	940aa, >SalmonellaentericaI... at 98.19%
+9	969aa, >SalmonellaentericaI... at 98.66%
+10	969aa, >SalmonellaentericaI... at 98.76%
+11	972aa, >SalmonellaentericaI... at 98.77%
+12	943aa, >SalmonellaentericaI... at 98.09%
+13	949aa, >SalmonellaentericaI... at 98.31%
+>Cluster 617
+0	978aa, >Pseudomonasluteola_... *
+1	978aa, >PseudomonasspHPB007... at 100.00%
+>Cluster 618
+0	948aa, >SalmonellaentericaI... at 98.21%
+1	953aa, >SalmonellaentericaI... at 99.27%
+2	968aa, >SalmonellaentericaI... *
+>Cluster 619
+0	962aa, >Pseudomonasamygdali... at 100.00%
+1	963aa, >Pseudomonasamygdali... *
+>Cluster 620
+0	963aa, >Yersiniapestis_Q8D1... *
+1	954aa, >YersiniapestisbvAnt... at 100.00%
+2	954aa, >YersiniapestisbvAnt... at 100.00%
+>Cluster 621
+0	962aa, >SalmonellaentericaS... *
+1	962aa, >SalmonellaentericaI... at 100.00%
+>Cluster 622
+0	917aa, >SalmonellaentericaI... at 99.89%
+1	917aa, >SalmonellaentericaI... at 100.00%
+2	917aa, >SalmonellaentericaI... at 99.89%
+3	930aa, >SalmonellaentericaI... at 99.89%
+4	934aa, >SalmonellaentericaI... at 100.00%
+5	939aa, >SalmonellaentericaI... at 100.00%
+6	941aa, >SalmonellaentericaI... at 100.00%
+7	942aa, >SalmonellaentericaI... at 100.00%
+8	949aa, >SalmonellaentericaI... at 100.00%
+9	956aa, >SalmonellaentericaI... *
+>Cluster 623
+0	956aa, >Pseudomonassavastan... *
+1	937aa, >Pseudomonascoronafa... at 95.52%
+>Cluster 624
+0	943aa, >Paracoccussp42_A0A3... *
+>Cluster 625
+0	940aa, >Pseudomonassp_A0A51... *
+>Cluster 626
+0	939aa, >Pseudomonasspp99361... *
+>Cluster 627
+0	938aa, >Enterobacteriaceaeb... *
+>Cluster 628
+0	877aa, >SalmonellaentericaS... at 99.09%
+1	903aa, >SalmonellaentericaS... at 99.00%
+2	903aa, >SalmonellaentericaI... at 99.00%
+3	903aa, >SalmonellaentericaI... at 98.78%
+4	917aa, >SalmonellaentericaI... at 98.80%
+5	921aa, >SalmonellaentericaI... *
+6	905aa, >SalmonellaentericaI... at 98.67%
+7	910aa, >SalmonellaentericaI... at 98.68%
+>Cluster 629
+0	884aa, >Pseudomonassyringae... at 98.53%
+1	921aa, >Pseudomonassyringae... *
+>Cluster 630
+0	920aa, >Pseudomonasviridifl... *
+>Cluster 631
+0	920aa, >Erwiniacitreus_A0A3... *
+>Cluster 632
+0	909aa, >Citrobacterfreundii... *
+>Cluster 633
+0	907aa, >Cronobactermuytjens... *
+>Cluster 634
+0	904aa, >Pseudomonassp_A0A3D... *
+>Cluster 635
+0	881aa, >Escherichiacoli_A0A... at 97.96%
+1	885aa, >Escherichiacoli_A0A... at 97.97%
+2	888aa, >Escherichiacoli_A0A... at 98.09%
+3	891aa, >Escherichiacoli_A0A... at 96.75%
+4	902aa, >Shigellaboydii52168... *
+5	877aa, >Escherichiacoli_A0A... at 98.40%
+6	900aa, >Escherichiacoli_A0A... at 97.56%
+>Cluster 636
+0	900aa, >Pseudomonassyringae... *
+>Cluster 637
+0	899aa, >PseudomonasspRITPIq... *
+>Cluster 638
+0	855aa, >Pseudomonassyringae... at 99.18%
+1	855aa, >Pseudomonassyringae... at 99.06%
+2	855aa, >Pseudomonassyringae... at 99.06%
+3	855aa, >Pseudomonassyringae... at 98.60%
+4	898aa, >Pseudomonassyringae... *
+>Cluster 639
+0	891aa, >PantoeaspBL1_A0A0F3... *
+>Cluster 640
+0	889aa, >Muribactermuris_A0A... *
+>Cluster 641
+0	886aa, >Pseudomonassavastan... *
+>Cluster 642
+0	880aa, >Pseudomonascongelan... at 98.75%
+1	885aa, >Pseudomonassyringae... *
+>Cluster 643
+0	884aa, >ErwiniaspstrainEjp6... *
+>Cluster 644
+0	882aa, >SphingomonasspLeaf2... *
+>Cluster 645
+0	879aa, >Pseudomonassavastan... *
+1	850aa, >Pseudomonassyringae... at 98.35%
+>Cluster 646
+0	825aa, >SalmonellaentericaI... at 98.30%
+1	849aa, >Salmonellaentericas... at 98.12%
+2	864aa, >Salmonellaentericas... at 98.15%
+3	868aa, >SalmonellaentericaI... *
+>Cluster 647
+0	865aa, >Pseudomonassp101B_A... *
+>Cluster 648
+0	857aa, >Pseudomonassyringae... *
+>Cluster 649
+0	850aa, >Photorhabduskhaniis... *
+>Cluster 650
+0	848aa, >Pseudomonassyringae... *
+>Cluster 651
+0	837aa, >Pseudomonascoronafa... *
+>Cluster 652
+0	785aa, >Pseudomonassavastan... at 96.82%
+1	819aa, >Pseudomonassavastan... *
+>Cluster 653
+0	818aa, >Shigellaboydii_A0A2... *
+>Cluster 654
+0	815aa, >Photorhabdustempera... *
+>Cluster 655
+0	809aa, >SerratiarubidaeaSer... *
+>Cluster 656
+0	779aa, >Pseudomonascoronafa... at 99.87%
+1	780aa, >Pseudomonascoronafa... at 100.00%
+2	783aa, >Pseudomonassyringae... at 99.49%
+3	805aa, >Pseudomonascoronafa... at 97.64%
+4	806aa, >Pseudomonassavastan... *
+>Cluster 657
+0	802aa, >Escherichiacoli_A0A... *
+>Cluster 658
+0	771aa, >Salmonellaentericas... at 99.35%
+1	772aa, >SalmonellaentericaI... at 99.35%
+2	788aa, >SalmonellaentericaI... at 99.24%
+3	797aa, >SalmonellaentericaS... *
+4	797aa, >Salmonellaentericas... at 99.25%
+5	788aa, >SalmonellaentericaS... at 99.11%
+>Cluster 659
+0	796aa, >PseudomonasspLP7YM_... *
+>Cluster 660
+0	766aa, >Pseudomonasamygdali... at 98.56%
+1	760aa, >Pseudomonassyringae... at 96.71%
+2	778aa, >Pseudomonassyringae... at 95.37%
+3	795aa, >Pseudomonassavastan... *
+>Cluster 661
+0	778aa, >Serratiaodorifera_A... *
+>Cluster 662
+0	763aa, >Pseudomonascoronafa... at 98.95%
+1	776aa, >Pseudomonascoronafa... *
+2	745aa, >Pseudomonasamygdali... at 95.57%
+>Cluster 663
+0	772aa, >Pseudomonassyringae... *
+>Cluster 664
+0	770aa, >Escherichiacoli_A0A... *
+1	728aa, >Escherichiacoli1226... at 97.39%
+2	739aa, >Escherichiacoli_A0A... at 96.08%
+>Cluster 665
+0	767aa, >Escherichiacoli_A0A... *
+>Cluster 666
+0	764aa, >Pseudomonassyringae... *
+>Cluster 667
+0	760aa, >PseudomonasputidaAr... *
+>Cluster 668
+0	718aa, >Pseudomonassyringae... at 97.77%
+1	756aa, >Pseudomonassyringae... *
+>Cluster 669
+0	749aa, >Pseudomonassavastan... *
+1	732aa, >Pseudomonassyringae... at 96.72%
+>Cluster 670
+0	745aa, >Pseudomonassyringae... *
+1	745aa, >Pseudomonassavastan... at 100.00%
+>Cluster 671
+0	741aa, >PseudomonasspLP7YM_... *
+>Cluster 672
+0	698aa, >Pseudomonassavastan... at 96.85%
+1	730aa, >Pseudomonassyringae... at 99.04%
+2	739aa, >Pseudomonassyringae... *
+>Cluster 673
+0	688aa, >SalmonellaentericaI... at 99.85%
+1	691aa, >SalmonellaentericaI... at 98.84%
+2	698aa, >SalmonellaentericaI... at 99.00%
+3	711aa, >Salmonellatyphimuri... at 99.02%
+4	711aa, >SalmonellaentericaS... at 99.02%
+5	712aa, >SalmonellaentericaS... at 99.02%
+6	718aa, >SalmonellaentericaS... at 100.00%
+7	730aa, >SalmonellaentericaS... *
+>Cluster 674
+0	718aa, >Pseudomonascoronafa... *
+1	670aa, >Pseudomonassyringae... at 95.97%
+2	670aa, >Pseudomonascoronafa... at 99.55%
+>Cluster 675
+0	717aa, >Cronobacterturicens... *
+>Cluster 676
+0	715aa, >PseudomonasspFW300N... *
+>Cluster 677
+0	714aa, >Pseudomonascoronafa... *
+1	714aa, >Pseudomonascoronafa... at 100.00%
+>Cluster 678
+0	709aa, >Pseudomonassyringae... *
+1	700aa, >Pseudomonasamygdali... at 95.29%
+>Cluster 679
+0	688aa, >Escherichiacoli_A0A... at 95.93%
+1	698aa, >Escherichiacoli_A0A... at 97.28%
+2	698aa, >Escherichiacoli_A0A... at 96.99%
+3	705aa, >Escherichiacoli_A0A... *
+4	705aa, >Escherichiacoli9099... at 100.00%
+5	705aa, >EscherichiacoliKTE7... at 100.00%
+>Cluster 680
+0	686aa, >Pseudomonassyringae... *
+>Cluster 681
+0	685aa, >Pseudomonassyringae... *
+1	640aa, >Pseudomonasamygdali... at 99.22%
+2	651aa, >Pseudomonassyringae... at 99.08%
+>Cluster 682
+0	629aa, >PseudomonasspST1_A0... at 99.68%
+1	634aa, >Pseudomonassavastan... at 99.68%
+2	635aa, >Pseudomonassavastan... at 99.69%
+3	635aa, >Pseudomonassavastan... at 99.69%
+4	635aa, >Pseudomonassavastan... at 99.69%
+5	640aa, >Pseudomonassavastan... at 97.03%
+6	644aa, >Pseudomonassavastan... at 99.84%
+7	670aa, >Pseudomonassavastan... at 96.27%
+8	675aa, >Pseudomonassavastan... at 96.15%
+9	678aa, >Pseudomonassavastan... *
+10	637aa, >Pseudomonassyringae... at 98.59%
+>Cluster 683
+0	664aa, >SalmonellaentericaI... at 99.55%
+1	665aa, >SalmonellaentericaI... at 99.55%
+2	666aa, >SalmonellaentericaI... at 99.55%
+3	668aa, >SalmonellaentericaS... at 98.95%
+4	670aa, >SalmonellaentericaI... *
+>Cluster 684
+0	669aa, >Pseudomonasfloriden... *
+>Cluster 685
+0	669aa, >Pseudomonassavastan... *
+>Cluster 686
+0	667aa, >Salmonellatyphimuri... *
+>Cluster 687
+0	626aa, >Pseudomonassyringae... at 99.84%
+1	664aa, >Pseudomonasamygdali... *
+>Cluster 688
+0	663aa, >PseudomonasputidaAr... *
+>Cluster 689
+0	663aa, >VariovoraxspYR750_A... *
+>Cluster 690
+0	661aa, >SalmonellaentericaS... *
+>Cluster 691
+0	646aa, >Pseudomonassyringae... *
+1	646aa, >Pseudomonassyringae... at 99.85%
+>Cluster 692
+0	640aa, >Escherichiacoli_A0A... at 95.31%
+1	604aa, >Escherichiacoli_A0A... at 98.68%
+2	614aa, >Escherichiacoli_A0A... at 98.21%
+3	626aa, >Escherichiacoli_A0A... at 97.76%
+4	600aa, >Escherichiacoli_A0A... at 99.33%
+5	602aa, >Escherichiacoli_A0A... at 99.83%
+6	642aa, >Escherichiacoli_A0A... *
+7	640aa, >Escherichiacoli_A0A... at 97.50%
+8	640aa, >Escherichiacoli4096... at 97.34%
+9	640aa, >Escherichiacoli_A0A... at 97.34%
+10	640aa, >EscherichiacoliO111... at 97.34%
+>Cluster 693
+0	600aa, >Pseudomonasamygdali... at 100.00%
+1	637aa, >Pseudomonasamygdali... *
+>Cluster 694
+0	613aa, >Pseudomonascoronafa... at 96.25%
+1	586aa, >Pseudomonastremae_A... at 96.08%
+2	613aa, >Pseudomonassyringae... at 98.53%
+3	635aa, >Pseudomonassavastan... *
+>Cluster 695
+0	630aa, >Pseudomonassyringae... *
+>Cluster 696
+0	608aa, >Pseudomonassavastan... at 99.84%
+1	614aa, >Pseudomonassavastan... at 99.84%
+2	620aa, >Pseudomonassavastan... *
+>Cluster 697
+0	618aa, >Pseudomonascoronafa... *
+>Cluster 698
+0	559aa, >SalmonellaentericaI... at 99.11%
+1	591aa, >SalmonellaentericaS... at 100.00%
+2	593aa, >SalmonellaentericaS... at 100.00%
+3	604aa, >SalmonellaentericaS... *
+>Cluster 699
+0	602aa, >Enterobactercloacae... *
+>Cluster 700
+0	593aa, >Pseudomonasfloriden... *
+>Cluster 701
+0	584aa, >Burkholderiacenocep... *
+1	584aa, >Burkholderiasp283_A... at 100.00%
+>Cluster 702
+0	581aa, >ErwiniaspstrainEjp6... *
+>Cluster 703
+0	548aa, >EscherichiacoliG310... at 97.08%
+1	544aa, >Escherichiacoli_A0A... at 100.00%
+2	573aa, >Escherichiacoli_A0A... *
+3	541aa, >Escherichiacoli_A0A... at 98.71%
+4	564aa, >Escherichiacoli_A0A... at 98.76%
+>Cluster 704
+0	573aa, >Erwiniamallotivora_... *
+>Cluster 705
+0	565aa, >Photorhabduslumines... *
+>Cluster 706
+0	564aa, >PhotorhabduskhaniiN... *
+>Cluster 707
+0	544aa, >Enterobacterhormaec... *
+>Cluster 708
+0	532aa, >Sorangiumcellulosum... *
+1	524aa, >Sorangiumcellulosum... at 96.18%
+>Cluster 709
+0	530aa, >Sorangiumcellulosum... *
+>Cluster 710
+0	528aa, >Sorangiumcellulosum... *
+>Cluster 711
+0	526aa, >SphingomonasspPPCE1... *
+>Cluster 712
+0	523aa, >Pseudomonassyringae... *
+>Cluster 713
+0	523aa, >Pseudomonassyringae... *
+>Cluster 714
+0	521aa, >Escherichiacoli_A0A... *
+1	476aa, >EscherichiacoliD9_F... at 98.32%
+>Cluster 715
+0	516aa, >PolyangiumspSDU31_A... *
+>Cluster 716
+0	514aa, >CandidatusMagnetomo... *
+>Cluster 717
+0	507aa, >Pseudomonascoronafa... *
+1	468aa, >Pseudomonassyringae... at 99.36%
+2	493aa, >Pseudomonassyringae... at 99.59%
+3	502aa, >Pseudomonassyringae... at 98.41%
+>Cluster 718
+0	507aa, >PseudomonasspGM84_J... *
+>Cluster 719
+0	500aa, >Pseudomonassyringae... *
+1	453aa, >Pseudomonassyringae... at 97.79%
+>Cluster 720
+0	496aa, >Ralstoniasolanacear... *
+>Cluster 721
+0	496aa, >Pseudomonasmonteili... *
+>Cluster 722
+0	491aa, >Pseudomonassyringae... *
+>Cluster 723
+0	476aa, >Pseudomonassp_A0A35... at 99.58%
+1	490aa, >Pseudomonasmonteili... *
+>Cluster 724
+0	490aa, >Photorhabduslaumond... *
+>Cluster 725
+0	489aa, >Pseudomonasamygdali... *
+1	442aa, >Pseudomonasamygdali... at 96.38%
+>Cluster 726
+0	486aa, >Chondromycesapicula... *
+>Cluster 727
+0	486aa, >Janthinobacteriumsp... *
+>Cluster 728
+0	485aa, >Pseudomonassavastan... *
+>Cluster 729
+0	481aa, >Janthinobacteriumsp... *
+>Cluster 730
+0	479aa, >Chondromycesapicula... *
+>Cluster 731
+0	473aa, >Pseudomonassyringae... *
+>Cluster 732
+0	458aa, >Escherichiacoli_A0A... at 96.07%
+1	436aa, >Escherichiacoli_A0A... at 98.17%
+2	469aa, >Escherichiacoli_A0A... *
+>Cluster 733
+0	435aa, >SalmonellaentericaI... at 96.78%
+1	438aa, >SalmonellaentericaI... at 98.86%
+2	438aa, >SalmonellaentericaI... at 98.86%
+3	439aa, >SalmonellaentericaI... at 99.09%
+4	440aa, >Salmonellaanatum_A0... at 99.09%
+5	440aa, >SalmonellaentericaI... at 99.09%
+6	440aa, >Salmonellaentericas... at 98.86%
+7	458aa, >Salmonellaentericas... at 99.78%
+8	459aa, >Salmonellaentericas... at 98.69%
+9	468aa, >Salmonellaentericas... *
+10	437aa, >SalmonellaentericaI... at 98.17%
+>Cluster 734
+0	466aa, >Xenorhabdusmauleoni... *
+>Cluster 735
+0	463aa, >Pseudomonasamygdali... *
+1	455aa, >Pseudomonassavastan... at 98.90%
+2	422aa, >Pseudomonassavastan... at 96.45%
+3	422aa, >Pseudomonassyringae... at 96.45%
+>Cluster 736
+0	460aa, >Pseudomonasnitrored... *
+>Cluster 737
+0	460aa, >Pseudomonasaerugino... *
+1	460aa, >Pseudomonasaerugino... at 99.57%
+2	460aa, >Pseudomonasaerugino... at 99.57%
+>Cluster 738
+0	459aa, >Sphingomonassanguin... *
+>Cluster 739
+0	455aa, >blooddiseasebacteri... at 99.78%
+1	458aa, >blooddiseasebacteri... *
+>Cluster 740
+0	457aa, >Pseudomonasbrassica... *
+>Cluster 741
+0	457aa, >CandidatusMagnetomo... *
+>Cluster 742
+0	455aa, >Sphingomonasjatroph... *
+>Cluster 743
+0	453aa, >PseudomonasspFeS53a... *
+>Cluster 744
+0	453aa, >Methylocaldummarinu... *
+>Cluster 745
+0	453aa, >Actinobacteriabacte... *
+>Cluster 746
+0	448aa, >HerbaspirillumspK1R... *
+>Cluster 747
+0	447aa, >Massiliaarmeniaca_A... *
+>Cluster 748
+0	447aa, >Enterobacteriaceaeb... *
+1	447aa, >Phytobacterursingii... at 96.87%
+>Cluster 749
+0	446aa, >Enterobacteriaceaeb... *
+1	446aa, >Enterobacterludwigi... at 99.78%
+2	446aa, >EnterobacterspMGH24... at 96.64%
+>Cluster 750
+0	445aa, >Pantoeaeucalypti_A0... *
+1	445aa, >PantoeaspaB_E0M511_... at 99.78%
+>Cluster 751
+0	445aa, >Pantoeaallii_A0A2V2... *
+>Cluster 752
+0	444aa, >Serratiaproteamacul... *
+>Cluster 753
+0	443aa, >KosakoniaspS29_A0A1... *
+1	443aa, >Escherichiacoli_A0A... at 98.87%
+2	443aa, >Enterobacteriaceaeb... at 98.42%
+>Cluster 754
+0	443aa, >KosakoniaspCCTCCM20... *
+>Cluster 755
+0	442aa, >SphingomonasspLeaf2... *
+>Cluster 756
+0	441aa, >Sorangiumcellulosum... *
+>Cluster 757
+0	439aa, >Sorangiumcellulosum... *
+>Cluster 758
+0	439aa, >Acetobacteraceti_A0... *
+>Cluster 759
+0	439aa, >Paraburkholderiameg... *
+>Cluster 760
+0	439aa, >HerbaspirillumspK1R... *
+>Cluster 761
+0	437aa, >Pantoearwandensis_A... *
+>Cluster 762
+0	437aa, >Pantoeadispersa_A0A... *
+>Cluster 763
+0	436aa, >Mixtagaviniae_A0A1X... *
+>Cluster 764
+0	436aa, >Photorhabduslumines... *
+>Cluster 765
+0	436aa, >Swingsiasamuiensis_... *
+>Cluster 766
+0	435aa, >Micrococcaceaebacte... *
+>Cluster 767
+0	434aa, >Pseudomonasaerugino... *
+1	434aa, >Pseudomonasaerugino... at 100.00%
+2	434aa, >Pseudomonasaerugino... at 99.08%
+3	434aa, >Streptococcusdysgal... at 100.00%
+>Cluster 768
+0	434aa, >Yersiniapseudotuber... *
+>Cluster 769
+0	433aa, >Burkholderiaterrito... *
+1	433aa, >Burkholderiaterrito... at 98.38%
+2	433aa, >BurkholderiaspRF2no... at 98.61%
+>Cluster 770
+0	433aa, >Burkholderiacontami... *
+1	433aa, >BurkholderiaspAU155... at 99.77%
+2	433aa, >Burkholderiastabili... at 96.54%
+>Cluster 771
+0	433aa, >Burkholderiaambifar... *
+1	433aa, >Burkholderiaambifar... at 99.54%
+>Cluster 772
+0	432aa, >Pseudomonasbrassica... *
+>Cluster 773
+0	431aa, >PseudomonasspNFACC5... *
+1	431aa, >PseudomonasspNFACC0... at 100.00%
+2	431aa, >Pseudomonaskilonens... at 98.61%
+3	431aa, >PseudomonasspA25201... at 98.84%
+4	431aa, >Pseudomonasfluoresc... at 99.77%
+>Cluster 774
+0	431aa, >PseudomonasspSHC52_... *
+1	431aa, >Pseudomonascorrugat... at 98.61%
+2	431aa, >Pseudomonasmediterr... at 99.54%
+3	431aa, >PseudomonasspSJZ078... at 98.84%
+>Cluster 775
+0	431aa, >Pseudomonasfuscovag... *
+1	431aa, >Pseudomonasfuscovag... at 95.82%
+2	431aa, >Pseudomonasasplenii... at 97.22%
+>Cluster 776
+0	431aa, >RhizobiumspSLBN4_A0... *
+1	431aa, >Pseudomonassp1D4_A0... at 99.54%
+>Cluster 777
+0	431aa, >PseudomonasspH32019... *
+1	431aa, >PseudomonasspFW3062... at 97.45%
+2	431aa, >Pseudomonasfluoresc... at 97.45%
+>Cluster 778
+0	431aa, >ExiguobacteriumspS1... *
+>Cluster 779
+0	431aa, >PseudomonasgingeriN... *
+>Cluster 780
+0	430aa, >Pseudomonaschlorora... *
+1	430aa, >Pseudomonasprotegen... at 99.77%
+>Cluster 781
+0	430aa, >PseudomonasspTC11_A... *
+>Cluster 782
+0	430aa, >Pseudomonasaerugino... *
+1	430aa, >Pseudomonasfluoresc... at 100.00%
+2	430aa, >PseudomonasspHMSC05... at 100.00%
+3	430aa, >PseudomonasspHMSC06... at 100.00%
+4	430aa, >Pseudomonasaerugino... at 99.30%
+5	430aa, >Pseudomonasaerugino... at 99.30%
+6	430aa, >Pseudomonasaerugino... at 99.77%
+7	430aa, >Pseudomonasaerugino... at 99.77%
+8	430aa, >PseudomonasspRW410_... at 100.00%
+>Cluster 783
+0	430aa, >Pseudomonassyringae... *
+>Cluster 784
+0	429aa, >Collimonasarenae_A0... *
+>Cluster 785
+0	429aa, >Roseomonascervicali... *
+>Cluster 786
+0	428aa, >DuganellaspRoot198D... *
+>Cluster 787
+0	427aa, >Janthinobacteriumsp... *
+>Cluster 788
+0	425aa, >PseudomonasspICMP56... *
+>Cluster 789
+0	424aa, >MassiliaspRoot1485_... at 96.93%
+1	425aa, >MassiliaspPDC64_A0A... *
+>Cluster 790
+0	424aa, >PseudomonasspGM84_J... *
+>Cluster 791
+0	423aa, >HerbaspirillumspK1R... *
+>Cluster 792
+0	423aa, >ExiguobacteriumspS1... *
+>Cluster 793
+0	423aa, >Sorangiumcellulosum... *
+>Cluster 794
+0	422aa, >Pseudomonassp57B090... *
+>Cluster 795
+0	421aa, >Pseudomonasfluoresc... *
+1	421aa, >PseudomonasspNFACC5... at 98.57%
+2	421aa, >PseudomonasspNFACC5... at 100.00%
+3	421aa, >PseudomonasspNFACC0... at 100.00%
+4	421aa, >Pseudomonassp43mfcv... at 99.05%
+5	421aa, >PseudomonasspNFACC1... at 99.76%
+6	421aa, >PseudomonasspRoot40... at 98.81%
+>Cluster 796
+0	421aa, >Sphingomonasmucosis... *
+>Cluster 797
+0	420aa, >Enterobactercloacae... *
+1	420aa, >Enterobacterroggenk... at 100.00%
+2	420aa, >Enterobactercloacae... at 99.05%
+3	420aa, >LeclerciaspLK8_A0A0... at 100.00%
+4	420aa, >EnterobacterspDC4_W... at 99.52%
+5	420aa, >Enterobactercloacae... at 98.33%
+6	420aa, >Enterobactercloacae... at 99.29%
+>Cluster 798
+0	420aa, >Pseudomonassyringae... *
+>Cluster 799
+0	420aa, >Enterobactersp18A13... *
+>Cluster 800
+0	420aa, >PseudomonasspRIT412... *
+>Cluster 801
+0	420aa, >Erwiniamallotivora_... *
+>Cluster 802
+0	420aa, >Pseudomonassp_A0A35... *
+>Cluster 803
+0	419aa, >PantoeaspaB_E0M505_... *
+>Cluster 804
+0	419aa, >Oceanicolalitoreus_... *
+>Cluster 805
+0	418aa, >Phytobacterursingii... *
+>Cluster 806
+0	418aa, >Massiliaplicata_A0A... *
+>Cluster 807
+0	418aa, >bacteriumM00FCaET19... *
+1	418aa, >Burkholderiaspstrai... at 98.56%
+>Cluster 808
+0	418aa, >Photorhabdusbodei_A... *
+>Cluster 809
+0	417aa, >Pseudomonasveronii_... *
+1	417aa, >PseudomonasspGW704F... at 100.00%
+>Cluster 810
+0	417aa, >Pseudomonassyringae... *
+>Cluster 811
+0	417aa, >SphingomonasspPPCE1... *
+1	417aa, >SphingomonasspPPCE3... at 98.80%
+2	417aa, >SphingomonasspPPF2F... at 98.80%
+>Cluster 812
+0	417aa, >Erwiniatypographi_A... *
+>Cluster 813
+0	417aa, >Neoasaiachiangmaien... *
+>Cluster 814
+0	417aa, >Mixtatheicola_A0A2K... *
+>Cluster 815
+0	416aa, >Pluralibactergergov... *
+1	416aa, >Pluralibactergergov... at 98.80%
+2	416aa, >Pluralibactergergov... at 99.28%
+>Cluster 816
+0	416aa, >DuganellaspCF458_A0... *
+>Cluster 817
+0	416aa, >Acetobacternitrogen... *
+>Cluster 818
+0	415aa, >Pseudomonasavellana... *
+1	415aa, >Pseudomonassyringae... at 100.00%
+>Cluster 819
+0	415aa, >PseudomonasspNFACC0... *
+>Cluster 820
+0	415aa, >Pseudescherichiavul... *
+>Cluster 821
+0	414aa, >Pseudomonassyringae... *
+1	414aa, >Pseudomonassyringae... at 99.28%
+2	414aa, >Pseudomonassyringae... at 97.58%
+>Cluster 822
+0	412aa, >PseudomonasspLP7YM_... *
+>Cluster 823
+0	361aa, >Shigellasonneistrai... at 95.01%
+1	379aa, >Shigellasonnei_A0A0... at 95.25%
+2	411aa, >Escherichiacoli_A0A... *
+3	410aa, >Escherichiacoli_A0A... at 95.37%
+>Cluster 824
+0	411aa, >Collimonaspratensis... *
+>Cluster 825
+0	411aa, >Pseudomonassyringae... *
+1	411aa, >Pseudomonasamygdali... at 99.76%
+2	411aa, >Pseudomonasavellana... at 100.00%
+>Cluster 826
+0	411aa, >Serratiaproteamacul... *
+>Cluster 827
+0	411aa, >SerratiaodoriferaDS... *
+>Cluster 828
+0	410aa, >Pseudomonasfluoresc... *
+>Cluster 829
+0	410aa, >Pseudomonassyringae... *
+1	410aa, >Pseudomonassyringae... at 99.51%
+2	410aa, >Pseudomonassyringae... at 98.54%
+3	410aa, >Pseudomonassyringae... at 99.51%
+4	410aa, >Pseudomonascoronafa... at 99.02%
+5	410aa, >Pseudomonasamygdali... at 96.59%
+6	410aa, >Pseudomonasamygdali... at 97.07%
+7	410aa, >Pseudomonassyringae... at 97.07%
+8	410aa, >Pseudomonassavastan... at 96.59%
+9	410aa, >Pseudomonassavastan... at 96.83%
+10	410aa, >Pseudomonassavastan... at 96.34%
+11	410aa, >Pseudomonassavastan... at 96.59%
+12	410aa, >Pseudomonassavastan... at 96.59%
+13	410aa, >Pseudomonassavastan... at 96.59%
+14	410aa, >PseudomonasspBDAL1_... at 96.59%
+15	410aa, >Pseudomonassavastan... at 96.83%
+16	410aa, >Pseudomonassavastan... at 95.85%
+17	410aa, >Pseudomonassavastan... at 96.10%
+18	410aa, >Pseudomonassavastan... at 96.59%
+>Cluster 830
+0	409aa, >PseudomonasspLS2_A0... *
+>Cluster 831
+0	408aa, >Pseudomonasprotegen... *
+1	408aa, >PseudomonasspTKO29_... at 99.26%
+2	408aa, >Pseudomonasprotegen... at 96.81%
+3	408aa, >Pseudomonasfluoresc... at 96.57%
+>Cluster 832
+0	408aa, >PseudomonasspCMR12a... *
+>Cluster 833
+0	408aa, >PseudomonasspFW5071... *
+1	408aa, >PseudomonasspCMR5c_... at 99.26%
+>Cluster 834
+0	408aa, >Pseudomonasfloriden... *
+>Cluster 835
+0	408aa, >Pseudomonasplecoglo... *
+>Cluster 836
+0	408aa, >Pseudomonasplecoglo... *
+1	408aa, >PseudomonasspXWY1_A... at 100.00%
+2	408aa, >PseudomonasspFW305E... at 100.00%
+>Cluster 837
+0	408aa, >Trinickiacaryophyll... *
+>Cluster 838
+0	408aa, >PseudomonasspGM84_J... *
+>Cluster 839
+0	407aa, >SphingomonasspLeaf1... *
+1	407aa, >SphingomonasspLeaf3... at 100.00%
+2	407aa, >SphingomonasspLeaf2... at 100.00%
+>Cluster 840
+0	407aa, >Paraburkholderiaphe... *
+>Cluster 841
+0	406aa, >Massiliaphosphatily... *
+>Cluster 842
+0	406aa, >PseudomonasputidaAr... *
+1	406aa, >Pseudomonasputidast... at 100.00%
+>Cluster 843
+0	402aa, >Pseudomonasplecoglo... at 96.02%
+1	402aa, >PseudomonasspXWY1_A... at 96.02%
+2	406aa, >Pseudomonasplecoglo... *
+>Cluster 844
+0	406aa, >PseudomonasputidaAr... *
+>Cluster 845
+0	405aa, >Pseudomonassyringae... *
+1	405aa, >Pseudomonassyringae... at 97.78%
+>Cluster 846
+0	403aa, >PseudomonasspMWU122... *
+>Cluster 847
+0	403aa, >PseudomonasspCMR12a... *
+>Cluster 848
+0	403aa, >Pseudomonassp43mfcv... *
+1	403aa, >Pseudomonasfluoresc... at 96.53%
+2	403aa, >Pseudomonassp11K1_A... at 96.77%
+3	403aa, >PseudomonasspNFACC1... at 98.76%
+>Cluster 849
+0	403aa, >PseudomonasspFW5071... *
+>Cluster 850
+0	402aa, >Pseudomonasabietani... *
+>Cluster 851
+0	402aa, >Pseudomonassyringae... *
+>Cluster 852
+0	402aa, >Pseudomonassyringae... *
+1	402aa, >Pseudomonasamygdali... at 100.00%
+>Cluster 853
+0	402aa, >Ewingellaamericana_... *
+>Cluster 854
+0	401aa, >Massiliaviolaceinig... *
+>Cluster 855
+0	401aa, >CaulobacterspRoot34... *
+1	401aa, >CaulobacterspRoot34... at 100.00%
+>Cluster 856
+0	371aa, >Pseudomonassyringae... at 100.00%
+1	400aa, >Pseudomonassyringae... *
+>Cluster 857
+0	400aa, >Sphingomonassp_A0A5... *
+>Cluster 858
+0	400aa, >Oxalobacteraceaebac... *
+>Cluster 859
+0	397aa, >Polyangiumfumosum_A... *
+>Cluster 860
+0	395aa, >Gallibacteriumanati... *
+>Cluster 861
+0	390aa, >Chondromycescrocatu... *
+>Cluster 862
+0	387aa, >Pseudomonascongelan... *
+>Cluster 863
+0	387aa, >Pantoeadispersa_A0A... *
+>Cluster 864
+0	387aa, >Mixtagaviniae_A0A2L... *
+>Cluster 865
+0	387aa, >Pantoeaanthophila_A... *
+1	387aa, >Pantoeaananatisstra... at 98.45%
+2	387aa, >Pantoeaeucalypti_A0... at 95.87%
+>Cluster 866
+0	387aa, >Enterobacteragglome... *
+>Cluster 867
+0	386aa, >Ralstoniasolanacear... *
+1	386aa, >Ralstoniasolanacear... at 99.48%
+>Cluster 868
+0	386aa, >MangrovibacterspMFB... *
+>Cluster 869
+0	386aa, >Pasteurellatestudin... *
+>Cluster 870
+0	383aa, >MassiliaspJS1662_A0... *
+>Cluster 871
+0	383aa, >Ralstoniasolanacear... *
+1	383aa, >Ralstoniasolanacear... at 96.61%
+>Cluster 872
+0	383aa, >Chondromycescrocatu... *
+>Cluster 873
+0	383aa, >CandidatusMagnetomo... *
+>Cluster 874
+0	379aa, >Shigellasonnei_A0A3... *
+1	379aa, >Shigellasonnei_A0A3... at 99.47%
+>Cluster 875
+0	379aa, >Pseudomonassavastan... *
+1	379aa, >Pseudomonassyringae... at 99.47%
+2	379aa, >Pseudomonasamygdali... at 100.00%
+3	379aa, >Pseudomonassavastan... at 100.00%
+4	379aa, >Pseudomonassavastan... at 100.00%
+>Cluster 876
+0	379aa, >Pseudomonassyringae... *
+1	379aa, >Pseudomonasgraminis... at 100.00%
+>Cluster 877
+0	379aa, >Pseudomonassyringae... *
+1	379aa, >Pseudomonassyringae... at 99.74%
+2	379aa, >Pseudomonassyringae... at 100.00%
+>Cluster 878
+0	378aa, >Pseudomonasgraminis... *
+>Cluster 879
+0	372aa, >Xenorhabdusvietname... *
+>Cluster 880
+0	371aa, >Rodentibacterrarus_... *
+>Cluster 881
+0	370aa, >Methylocaldummarinu... *
+>Cluster 882
+0	369aa, >Salmonellaentericas... *
+>Cluster 883
+0	369aa, >PseudomonasputidaAr... *
+>Cluster 884
+0	368aa, >PseudomonasspCMAA12... *
+>Cluster 885
+0	366aa, >Pasteurellatestudin... *
+>Cluster 886
+0	362aa, >PasteurellabettyaeC... *
+>Cluster 887
+0	358aa, >Photorhabduslaumond... *
+>Cluster 888
+0	357aa, >Nannocystisexedens_... *
+>Cluster 889
+0	352aa, >PseudomonasspTAD18_... *
+>Cluster 890
+0	345aa, >Serratiamarcescens_... *
+>Cluster 891
+0	333aa, >Gammaproteobacteria... *
+>Cluster 892
+0	330aa, >Pseudomonassavastan... *
+>Cluster 893
+0	307aa, >EscherichiacoliMS69... at 96.09%
+1	320aa, >Escherichiacoli1109... at 97.50%
+2	328aa, >Escherichiacoli_A0A... *
+3	284aa, >Escherichiacoli_A0A... at 98.94%
+>Cluster 894
+0	314aa, >Pseudomonasgraminis... *
+>Cluster 895
+0	309aa, >Pseudomonasamygdali... *
+>Cluster 896
+0	299aa, >Providenciastuartii... *
+>Cluster 897
+0	297aa, >Polyangiumfumosum_A... *
+>Cluster 898
+0	295aa, >Pseudomonassavastan... *
+1	295aa, >Pseudomonassavastan... at 100.00%
+>Cluster 899
+0	291aa, >SerratiarubidaeaSer... *
+>Cluster 900
+0	281aa, >Pseudomonassyringae... *
+>Cluster 901
+0	275aa, >PseudomonasspRW407_... *
+>Cluster 902
+0	274aa, >Pseudomonassyringae... *
+>Cluster 903
+0	271aa, >PseudomonasspRW407_... *
+>Cluster 904
+0	271aa, >Ralstoniasolanacear... *
+>Cluster 905
+0	269aa, >Escherichiacoli_A0A... *
+>Cluster 906
+0	263aa, >Serratiafonticola_A... *
+>Cluster 907
+0	257aa, >Photorhabdusthracen... *
+>Cluster 908
+0	256aa, >Xenorhabdusbudapest... *
+>Cluster 909
+0	255aa, >Pseudomonassyringae... *
+1	235aa, >Pseudomonascoronafa... at 97.45%
+>Cluster 910
+0	254aa, >PseudomonasputidaAr... *
+>Cluster 911
+0	253aa, >Escherichiacoli_A0A... *
+>Cluster 912
+0	253aa, >Klebsiellapneumonia... *
+1	253aa, >Serratialiquefacien... at 100.00%
+2	253aa, >Klebsiellapneumonia... at 100.00%
+>Cluster 913
+0	252aa, >Escherichiacoli9085... *
+>Cluster 914
+0	246aa, >PseudomonasputidaND... *
+>Cluster 915
+0	244aa, >Ralstoniasolanacear... *
+>Cluster 916
+0	244aa, >EscherichiaspKTE31_... *
+>Cluster 917
+0	178aa, >PseudomonasspNP103_... at 95.51%
+1	220aa, >Pseudomonasamygdali... *
+2	183aa, >Pseudomonassavastan... at 98.91%
+>Cluster 918
+0	218aa, >SphingomonasspSph12... *
+>Cluster 919
+0	216aa, >Photorhabdusnamnaon... *
+>Cluster 920
+0	211aa, >Serratiaquinivorans... *
+>Cluster 921
+0	205aa, >Comamonadaceaebacte... *
+>Cluster 922
+0	158aa, >Escherichiacoli_A0A... at 96.84%
+1	159aa, >Escherichiacoli_A0A... at 99.37%
+2	162aa, >Escherichiacoli_A0A... at 95.06%
+3	204aa, >Escherichiacoli_A0A... *
+>Cluster 923
+0	204aa, >PseudomonasspCMAA12... *
+>Cluster 924
+0	199aa, >Photorhabdusbodei_A... *
+>Cluster 925
+0	198aa, >SalmonellaspNCTC118... *
+1	197aa, >SalmonellaentericaS... at 97.97%
+2	171aa, >SalmonellaentericaI... at 97.08%
+>Cluster 926
+0	187aa, >Pseudomonassyringae... *
+>Cluster 927
+0	186aa, >Serratiaodorifera_A... *
+>Cluster 928
+0	182aa, >XenorhabdusspGDc328... *
+>Cluster 929
+0	153aa, >Pseudomonasamygdali... at 96.73%
+1	131aa, >Pseudomonascoronafa... at 97.71%
+2	178aa, >PseudomonasspNP103_... *
+>Cluster 930
+0	128aa, >Pasteurellatestudin... at 99.22%
+1	178aa, >Pasteurellatestudin... *
+>Cluster 931
+0	164aa, >Salmonellaentericas... at 99.39%
+1	174aa, >SalmonellaentericaI... *
+>Cluster 932
+0	171aa, >Providenciastuartii... *
+>Cluster 933
+0	170aa, >Photorhabdustempera... *
+>Cluster 934
+0	168aa, >Sphingomonassanguin... *
+>Cluster 935
+0	166aa, >Pseudomonassyringae... *
+>Cluster 936
+0	165aa, >SphingomonasspLeaf2... *
+1	165aa, >SphingomonasspPPCC3... at 96.97%
+>Cluster 937
+0	164aa, >Proteusmirabilis_A0... *
+>Cluster 938
+0	158aa, >Klebsiellaaerogenes... *
+>Cluster 939
+0	114aa, >Escherichiacoli_A0A... at 98.25%
+1	142aa, >Escherichiacoli_A0A... at 99.30%
+2	146aa, >Escherichiacoli_A0A... at 96.58%
+3	148aa, >Escherichiacoli_A0A... at 96.62%
+4	148aa, >Shigellasonnei_A0A3... at 97.97%
+5	151aa, >Escherichiacoli_A0A... *
+6	108aa, >EscherichiacoliH420... at 99.07%
+7	108aa, >Escherichiacoli_A0A... at 99.07%
+8	128aa, >Escherichiacoli_A0A... at 100.00%
+9	136aa, >Escherichiacoli_A0A... at 100.00%
+10	139aa, >Escherichiacoli_A0A... at 97.84%
+>Cluster 940
+0	151aa, >Escherichiacoli_A0A... *
+>Cluster 941
+0	151aa, >Pseudomonassyringae... *
+>Cluster 942
+0	147aa, >SalmonellaentericaI... *
+>Cluster 943
+0	145aa, >Pseudomonassynxanth... *
+>Cluster 944
+0	145aa, >PantoeacypripediiPe... *
+>Cluster 945
+0	144aa, >PseudomonasspS06B33... *
+>Cluster 946
+0	139aa, >Pseudomonassyringae... *
+>Cluster 947
+0	137aa, >Pseudomonascoronafa... *
+>Cluster 948
+0	136aa, >Pseudomonassyringae... *
+>Cluster 949
+0	135aa, >Shigellaflexneriser... *
+1	135aa, >Shigellaflexneri_A0... at 100.00%
+2	135aa, >Shigellaflexneri2a_... at 100.00%
+3	135aa, >Shigellaflexneriser... at 100.00%
+>Cluster 950
+0	131aa, >Escherichiacoli_A0A... *
+>Cluster 951
+0	131aa, >Chondromycescrocatu... *
+>Cluster 952
+0	124aa, >Pseudomonassyringae... *
+>Cluster 953
+0	123aa, >Cronobactersakazaki... *
+>Cluster 954
+0	122aa, >PseudomonasspNFACC3... *
+1	115aa, >PseudomonasspNFACC4... at 100.00%
+2	122aa, >PseudomonasspNFACC4... at 99.18%
+3	117aa, >PseudomonasspNFACC3... at 100.00%
+>Cluster 955
+0	115aa, >CitrobacterspMGH105... *
+>Cluster 956
+0	114aa, >Xenorhabdusstockiae... *
+>Cluster 957
+0	113aa, >Acidovoraxavenaesub... *
+1	113aa, >Acidovoraxcitrullis... at 99.12%
+2	113aa, >Acidovoraxavenaesub... at 98.23%
+3	113aa, >Acidovoraxavenaestr... at 96.46%
+4	113aa, >Acidovoraxcattleyae... at 95.58%
+>Cluster 958
+0	112aa, >PseudomonasspDMKUBB... *
+>Cluster 959
+0	112aa, >PseudomonasspDMKUBB... *
+>Cluster 960
+0	111aa, >PseudomonasspNFACC2... *
+>Cluster 961
+0	111aa, >MassiliaspSOD_A0A43... *
+>Cluster 962
+0	111aa, >Tahibacteraquaticus... *
+>Cluster 963
+0	111aa, >Xanthomonadalesbact... *
+1	111aa, >Xanthomonadaceaebac... at 100.00%
+>Cluster 964
+0	103aa, >PseudomonasspFW305B... *
+>Cluster 965
+0	102aa, >PseudomonasspH9_A0A... *

@@ -1,0 +1,84 @@
+# Commands and scripts used to generate the UniProtKB phylogenetic tree (Supplementary Figure 1A)
+
+# Renames UniprotKB sequences with species and removes deleted entries
+python species_rename.py
+
+#Removes sequences that are less than 100aa in length
+python rm_100aa.py
+
+#Clusters redundant sequences
+cd-hit -i Full_fasta_60aa_PA0093_query_6iterations_species_more100.fasta -o Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95.fasta -c 0.95 -n 5 -S 50
+
+#Find PAAR motif
+hmmsearch --domtblout Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_PAAR_1.domtblout --noali -Z 45638612 -E 1000 --cpu 32 -o Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_PAAR_1.out PAAR_motif.hmm Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95.fasta
+
+python domsearch.py
+
+hmmsearch --domtblout Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_PAAR_2.domtblout --noali -Z 45638612 -E 1000 --cpu 32 -o Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_PAAR_2.out 569D480A-C535-11EA-8CA8-D460F75AEC3D.3.hmm Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_NOPAAR_1.fasta
+
+python domsearch.py
+
+hmmsearch --domtblout Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_PAAR_3.domtblout --noali -Z 45638612 -E 1000 --cpu 32 -o Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_PAAR_3.out 3FA0549C-CB54-11EA-9033-8FD5DBC3747A.2.hmm Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_NOPAAR_2.fasta
+
+python domsearch.py
+
+hmmsearch --domtblout Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_PAAR_4.domtblout --noali -Z 45638612 -E 1000 --cpu 32 -o Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_PAAR_4.out 6A6151C8-CB7B-11EA-9FAA-814CE976C163.3.hmm Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_NOPAAR_3.fasta
+
+
+#Find transmembrane domain regions
+
+http://www.cbs.dtu.dk/services/TMHMM/ -> tmhmm_result.txt
+
+python tmhmm.py
+
+http://phobius.sbc.su.se/ -> phobius_result.txt
+
+python phobius.py
+
+https://embnet.vital-it.ch/software/TMPRED_form.html - manually checking all remaining sequences 
+
+all_effector_wchap_genus_more100aa_CDHIT95_TM.fasta - all sequences with annotated number of transmembrane domain regions
+
+# Add prominent, previously published reference sequences
+
+EFFECTORSEQ_REFERENCES.fasta - all reference sequences
+
+Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_TM_ref.fasta - all reference sequences + previously curated sequences
+
+# Multiple sequence alignment 
+
+mafft --auto Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_TM_ref.fasta > Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_TM_ref_mafft.fasta
+
+trimal -in Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_TM_ref_mafft.fasta -out Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_TM_ref_mafft_trim.fasta -gt 0.8 -cons 80
+
+fasttree -gamma Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_TM_ref_mafft_trim.fasta > Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_TM_ref_mafft_trim_tree
+
+# Using R to make the tree
+
+library("ggtree")
+library("ggplot2")
+
+tree <- read.tree("/Users/karatsang/Desktop/SherisProjects/EagProject/effectortree/kara_redundancy/hmmtree/Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_TM_ref_mafft_trim_tree")
+p <- ggtree(tree, layout="circular", branch.length='none') 
+
+d = fortify(tree)
+d = subset(d, isTip)
+cat(with(d, label[order(y)]), file="Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_TM_ref_mafft_trim_tree_tips.txt")
+
+tip_cat=read.csv("/Users/karatsang/Desktop/SherisProjects/EagProject/effectortree/kara_redundancy/hmmtree/Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_TM_ref_mafft_trim_tree_effcat.tsv", sep = "\t", col.names=c("seq","cat"),  header = FALSE, stringsAsFactors = FALSE)
+dd = as.data.frame(tip_cat)
+p <- p %<+% dd + geom_tippoint(aes(colour = factor(cat)), size=0.5) +geom_treescale(width=3, color='red')
+
+svg("Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_TM_ref_mafft_trim_tree_effcat.svg")
+plot(p)
+dev.off()
+
+
+# Genera Tree
+tip_cat=read.csv("/Users/karatsang/Desktop/SherisProjects/EagProject/effectortree/kara_redundancy/hmmtree/Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_TM_ref_mafft_trim_tree_genus.tsv", sep = "\t", col.names=c("seq","cat"),  header = FALSE, stringsAsFactors = FALSE)
+dd = as.data.frame(tip_cat)
+p <- p %<+% dd + geom_tippoint(aes(colour = factor(cat)), size=0.5) +geom_treescale(width=3, color='red')
+
+svg("Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_TM_ref_mafft_trim_tree_genus.svg")
+plot(p)
+dev.off()

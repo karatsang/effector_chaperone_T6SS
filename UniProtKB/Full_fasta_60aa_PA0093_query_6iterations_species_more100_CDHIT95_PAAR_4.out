@@ -1,0 +1,113 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  6A6151C8-CB7B-11EA-9FAA-814CE976C163.3.hmm
+# target sequence database:        Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_NOPAAR_3.fasta
+# output directed to file:         Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_PAAR_4.out
+# per-dom hits tabular output:     Full_fasta_60aa_PA0093_query_6iterations_species_more100_CDHIT95_PAAR_4.domtblout
+# show alignments in output:       no
+# sequence reporting threshold:    E-value <= 1000
+# sequence search space set to:    45638612
+# number of worker threads:        32
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       jackhmmer  [M=378]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                                                                                                          Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                                                                                                          -----------
+    3.4e-65  232.0  25.9    2.4e-36  137.0  22.9    2.1  2  PhotorhabdusasymbioticasubspasymbioticastrainATCC43949310577Xenorhabdusluminescensstrain2_C7BNP7_PHOAA             
+    4.1e-54  195.5  13.4    4.8e-54  195.3  13.4    1.0  1  Escherichiacoli_A0A4D2RBU3_ECOLX                                                                                   
+    4.7e-50  182.1  20.9    2.9e-26  103.8   1.2    2.2  2  Pseudomonassavastanoipvphaseolicolastrain1448ARace6Pseudomonassyringaepvphaseolicolastrain1448ARace6_Q48CG4_PSE14  
+    1.7e-47  173.7  20.1      2e-46  170.2  20.1    2.0  1  CitrobacteryoungaeATCC29220_D4B984_9ENTR                                                                           
+    4.6e-47  172.3  32.7    3.4e-23   93.7   1.6    2.2  2  PhotorhabdusasymbioticasubspasymbioticastrainATCC43949310577Xenorhabdusluminescensstrain2_B6VN31_PHOAA             
+    3.1e-43  159.7  23.8    2.3e-21   87.8   0.2    2.3  2  Pseudomonassavastanoipvphaseolicolastrain1448ARace6Pseudomonassyringaepvphaseolicolastrain1448ARace6_Q48BU0_PSE14  
+    4.6e-15   67.0  15.2    4.7e-07   40.6  11.7    3.3  3  Photorhabdusnamnaonensis_A0A1B8YB78_9GAMM                                                                          
+      3e-12   57.7  12.7    3.4e-12   57.5  12.7    1.1  1  PseudomonasspFW305BF6_A0A2N8GTX6_9PSED                                                                             
+    8.2e-08   43.1  33.9    1.1e-06   39.4  22.4    2.0  2  CitrobacterspMGH105_A0A0J1LRQ1_9ENTR                                                                               
+    2.3e-06   38.3  21.5    2.3e-06   38.3  21.5    2.1  2  SalmonellaentericaI_A0A3Z0UKC7_SALET                                                                               
+    3.5e-06   37.8  18.2    3.5e-06   37.8  18.2    2.2  1  Sphingomonassanguinis_A0A147HT25_9SPHN                                                                             
+
+
+Domain annotation for each sequence:
+>> PhotorhabdusasymbioticasubspasymbioticastrainATCC43949310577Xenorhabdusluminescensstrain2_C7BNP7_PHOAA  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  137.0  22.9   5.8e-43   2.4e-36      29     157 ..       8     138 ..       4     139 .. 0.95
+   2 !   98.9   0.1   2.2e-31     9e-25     253     338 ..     135     219 ..     134     255 .. 0.78
+
+>> Escherichiacoli_A0A4D2RBU3_ECOLX  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  195.3  13.4   1.2e-60   4.8e-54       1     105 [.       1     105 [.       1     112 [. 0.99
+
+>> Pseudomonassavastanoipvphaseolicolastrain1448ARace6Pseudomonassyringaepvphaseolicolastrain1448ARace6_Q48CG4_PSE14  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   83.0  13.7   1.5e-26   6.1e-20      53     154 ..       3      95 ..       2      98 .. 0.88
+   2 !  103.8   1.2   7.1e-33   2.9e-26     254     353 ..      96     195 ..      94     201 .. 0.92
+
+>> CitrobacteryoungaeATCC29220_D4B984_9ENTR  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  170.2  20.1   4.9e-53     2e-46      53     350 ..       6     308 ..       2     318 .. 0.77
+
+>> PhotorhabdusasymbioticasubspasymbioticastrainATCC43949310577Xenorhabdusluminescensstrain2_B6VN31_PHOAA  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   84.4  24.4   5.5e-27   2.3e-20      52     154 ..       2     111 ..       1     113 [. 0.89
+   2 !   93.7   1.6   8.2e-30   3.4e-23     253     344 ..     111     202 ..     110     223 .. 0.92
+
+>> Pseudomonassavastanoipvphaseolicolastrain1448ARace6Pseudomonassyringaepvphaseolicolastrain1448ARace6_Q48BU0_PSE14  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   75.4  19.2     3e-24   1.2e-17      53     155 ..       3      99 ..       2     102 .. 0.92
+   2 !   87.8   0.2   5.5e-28   2.3e-21     254     333 ..      99     178 ..      97     211 .. 0.88
+
+>> Photorhabdusnamnaonensis_A0A1B8YB78_9GAMM  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.3  15.0       0.2   8.2e+05      80     119 ..      69     105 ..      53     114 .. 0.61
+   2 !   40.6  11.7   1.1e-13   4.7e-07      41      99 ..     112     171 ..     107     176 .. 0.80
+   3 !   34.7   0.1     7e-12   2.9e-05     265     294 ..     179     208 ..     173     215 .. 0.69
+
+>> PseudomonasspFW305BF6_A0A2N8GTX6_9PSED  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   57.5  12.7   8.3e-19   3.4e-12      53     133 ..       6      98 ..       2     103 .] 0.76
+
+>> CitrobacterspMGH105_A0A0J1LRQ1_9ENTR  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   39.4  22.4   2.6e-13   1.1e-06      50     112 ..       2      64 ..       1      66 [. 0.87
+   2 !    5.6  19.0    0.0051   2.1e+04      69     133 ..      48     108 ..      45     113 .. 0.68
+
+>> SalmonellaentericaI_A0A3Z0UKC7_SALET  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -1.1  19.4      0.53   2.2e+06      74     126 ..      42      95 ..      28     102 .. 0.62
+   2 !   38.3  21.5   5.7e-13   2.3e-06      45     114 ..     103     172 ..      97     174 .] 0.85
+
+>> Sphingomonassanguinis_A0A147HT25_9SPHN  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   37.8  18.2   8.3e-13   3.5e-06      43     108 ..     102     168 .]      97     168 .] 0.92
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (378 nodes)
+Target sequences:                           11  (8048 residues searched)
+Passed MSV filter:                        11  (1); expected 0.2 (0.02)
+Passed bias filter:                       11  (1); expected 0.2 (0.02)
+Passed Vit filter:                        11  (1); expected 0.0 (0.001)
+Passed Fwd filter:                        11  (1); expected 0.0 (1e-05)
+Initial search space (Z):           45638612  [as set by --Z on cmdline]
+Domain search space  (domZ):              11  [number of targets reported over threshold]
+# CPU time: 0.34u 0.02s 00:00:00.36 Elapsed: 00:00:00.36
+# Mc/sec: 8.45
+//
+[ok]
