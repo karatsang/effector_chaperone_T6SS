@@ -1,5 +1,5 @@
 # Commands used to align and trim short / long PAAR sequences
-# Requires MAFFT (v7.455) and trimAl (v1.4) 
+# Requires MAFFT (v7.455) and trimAl (v1.4)
 
 mafft --auto Full_fasta_60aa_PA0093_query_6iterations_renamed_tmhmm_phobius_expasy_more100_prePAAR.fasta > Full_fasta_60aa_PA0093_query_6iterations_renamed_tmhmm_phobius_expasy_more100_prePAAR_mafft.fasta
 
@@ -9,3 +9,79 @@ trimal -in Full_fasta_60aa_PA0093_query_6iterations_renamed_tmhmm_phobius_expasy
 mafft --auto shortPAAR_PF05488_full_length_sequences_prePAAR.fasta > shortPAAR_PF05488_full_length_sequences_prePAAR_mafft.fasta
 
 trimal -in shortPAAR_PF05488_full_length_sequences_prePAAR_mafft.fasta -out shortPAAR_PF05488_full_length_sequences_prePAAR_mafft_trim.fasta -gt 0.9 -cons 10
+
+
+
+-----
+Tree with all orphan PAARs and truncated (first 300 aa) of prePAAR
+
+
+mafft --auto short_trunclongPAAR.fasta > short_trunclongPAAR_mafft.fasta
+
+trimal -in short_trunclongPAAR_mafft.fasta -out short_trunclongPAAR_mafft_trim.fasta -gt 0.8 -cons 80
+
+fasttree -gamma short_trunclongPAAR_mafft_trim.fasta > short_trunclongPAAR_mafft_trim_tree
+
+library("ggtree")
+library("ggplot2")
+
+tree <- read.tree("/Users/karatsang/Desktop/effector_chaperone_T6SS/ZnBindingResidues/short_trunclongPAAR_mafft_trim_tree")
+p <- ggtree(tree, layout="circular", branch.length='none')
+
+d = fortify(tree)
+d = subset(d, isTip)
+cat(with(d, label[order(y)]), file="short_trunclongPAAR_mafft_trim_tree_tip_cat.txt")
+
+tip_cat=read.csv("/Users/karatsang/Desktop/effector_chaperone_T6SS/ZnBindingResidues/short_trunclongPAAR_mafft_trim_tree_tip_cat.tsv", sep = "\t", col.names=c("seq","cat"),  header = FALSE, stringsAsFactors = FALSE)
+dd = as.data.frame(tip_cat)
+p <- p %<+% dd + geom_tippoint(aes(colour = factor(cat)), size=0.5) +geom_treescale(width=3, color='red')
+
+svg("short_trunclongPAAR_mafft_trim_tree.svg")
+plot(p)
+dev.off()
+
+
+-----
+Tree with hmm filtered orphan PAARs and truncated (first 300 aa) of prePAAR
+
+mafft --auto PAARsequences.fasta > PAARsequences_mafft.fasta
+
+trimal -in PAARsequences_mafft.fasta -out PAARsequences_mafft_trim.fasta -gt 0.8 -cons 80
+
+Make an HMM model using PAARsequences_mafft.fasta
+
+hmmbuild --amino --fast PAARsequences_hmm.hmm  PAARsequences_mafft.fasta
+
+Filter long PAAR sequences using hmm model (hmmsearch)
+
+hmmsearch --domtblout Full_fasta_60aa_PA0093_query_6iterations_renamed_tmhmm_phobius_expasy_more100_prePAAR_trunc300aa_HMM.domtblout --noali -Z 45638612 -E 1000 --cpu 32 -o Full_fasta_60aa_PA0093_query_6iterations_renamed_tmhmm_phobius_expasy_more100_prePAAR_trunc300aa_hmm.out PAARsequences_hmm.hmm Full_fasta_60aa_PA0093_query_6iterations_renamed_tmhmm_phobius_expasy_more100_prePAAR_trunc300aa.fasta
+
+python domsearch.py - to get long sequences with PAAR domain using the hmmsearch results and truncates them to the PAAR domain
+
+Add short PAARs and HMM filtered long PAAR sequences -> short_HMMtrunclongPAAR.fasta
+
+
+mafft --auto short_HMMtrunclongPAAR.fasta > short_HMMtrunclongPAAR_mafft.fasta
+
+trimal -in short_HMMtrunclongPAAR_mafft.fasta -out short_HMMtrunclongPAAR_mafft_trim.fasta -gt 0.8 -cons 80
+
+fasttree -gamma short_HMMtrunclongPAAR_mafft_trim.fasta > short_HMMtrunclongPAAR_mafft_trim_tree
+
+
+library("ggtree")
+library("ggplot2")
+
+tree <- read.tree("/Users/karatsang/Desktop/effector_chaperone_T6SS/ZnBindingResidues/short_HMMtrunclongPAAR_mafft_trim_tree")
+p <- ggtree(tree, layout="circular", branch.length='none')
+
+d = fortify(tree)
+d = subset(d, isTip)
+cat(with(d, label[order(y)]), file="short_HMMtrunclongPAAR_mafft_trim_tree_tipcat.tsv")
+
+tip_cat=read.csv("/Users/karatsang/Desktop/effector_chaperone_T6SS/ZnBindingResidues/short_HMMtrunclongPAAR_mafft_trim_tree_tipcat.tsv", sep = "\t", col.names=c("seq","cat"),  header = FALSE, stringsAsFactors = FALSE)
+dd = as.data.frame(tip_cat)
+p <- p %<+% dd + geom_tippoint(aes(colour = factor(cat)), size=0.5) +geom_treescale(width=3, color='red')
+
+svg("short_HMMtrunclongPAAR_mafft_trim_tree.svg")
+plot(p)
+dev.off()
