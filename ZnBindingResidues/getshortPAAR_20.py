@@ -20,14 +20,9 @@ shortPAAR_PF05488_full_length_sequences.fasta
 """
 
 
-with open("PF05488_full_length_sequences.fasta", 'r') as eff_file:
+with open("shortPAAR_PF05488_full_length_sequences_prePAAR_less250aa.fasta", 'r') as eff_file:
 	for seq_record in SeqIO.parse(eff_file, "fasta"):
 		header=str(seq_record.id)
 		sequence = str(seq_record.seq).upper()
-		with open("shortPAAR_motif.tsv", 'r') as spec_file:
-			reader = csv.reader(spec_file, delimiter='\t')
-			next(reader, None)
-			for row in reader:
-				if header == row[0]:
-					with open("shortPAAR_PF05488_aft20_sequences.fasta", "a+") as output_file:
-						output_file.write(">"+ header + "\n" + sequence + "\n")
+		with open("shortPAAR_PF05488_full_length_sequences_prePAAR_less250aa_20.fasta", "a+") as output_file:
+			output_file.write(">"+ header + "\n" + sequence[19::] + "\n")
